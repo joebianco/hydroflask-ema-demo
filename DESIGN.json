@@ -1,0 +1,238 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:replica",
+    "mode": "bounded-single",
+    "writtenAt": "2026-10-29T19:25:48.940Z",
+    "synthesizedFrom": [
+      "stardust/current/pages/index.json",
+      "stardust/replica/tokens.json",
+      "stardust/current/DESIGN.json"
+    ]
+  },
+  "colors": {
+    "text": "#000000",
+    "background": "#ffffff",
+    "surface": "#f1f1f1",
+    "scrim": "#000000b3",
+    "muted": "#686666",
+    "brown": "#593914",
+    "grey": "#848484",
+    "sage": "#ccd6cb",
+    "stone": "#dfdedc",
+    "link": "#0074a2"
+  },
+  "typography": {
+    "family": "HydroFlask Sans",
+    "heading": {
+      "weight": 700
+    },
+    "body": {
+      "weight": 400
+    },
+    "ramp": {
+      "360": {
+        "heroH2": "16px/700",
+        "sectionH2": "24px/700/30px",
+        "promoH2": "28px/700",
+        "trendingH3": "30px/700/24px",
+        "advocacyH3": "22px/700",
+        "footerH2": "18px/700/28px",
+        "heroP": "16px/400"
+      },
+      "1440": {
+        "heroH2": "48px/700",
+        "sectionH2": "30px/700/37.5px",
+        "promoH2": "36px/700",
+        "trendingH3": "38px/700/43.966px",
+        "advocacyH3": "27px/700",
+        "footerH2": "18px/700/28px",
+        "heroP": "22px/400"
+      }
+    }
+  },
+  "rounded": {
+    "mode": "12px",
+    "pill": "50%"
+  },
+  "components": {
+    "buttons": {
+      "outlineBlack": "bg #fff, color #000, border 4px solid #000, radius 14px, padding 10px 18px",
+      "white": "bg #fff, color #000, border 4px solid #fff, radius 12px, padding 10px",
+      "black": "bg #000, color #fff, radius 12px, padding 0 10px",
+      "submit": "bg #000, color #fff, radius 14px"
+    }
+  },
+  "extensions": {
+    "breakpoints": {
+      "containerMaxWidth": "1304px",
+      "probeWidth": 2560,
+      "shellMaxWidth": null,
+      "caps": [
+        {
+          "kind": "module",
+          "px": 1591,
+          "via": "other",
+          "selector": "#banner-carousel > div.slide.first-slide > section > div",
+          "pages": [
+            "https://www.hydroflask.com/"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 1440,
+          "via": "max-width",
+          "selector": "div.widget.block > div.clear > section > div",
+          "pages": [
+            "https://www.hydroflask.com/"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 1313,
+          "via": "max-width",
+          "selector": "div.widget.block > div.clear > section > div",
+          "pages": [
+            "https://www.hydroflask.com/"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 682,
+          "via": "fixed",
+          "selector": "div.clear > section > div > div",
+          "pages": [
+            "https://www.hydroflask.com/"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 650,
+          "via": "max-width",
+          "selector": "div.clear > section > div > div",
+          "pages": [
+            "https://www.hydroflask.com/"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 568,
+          "via": "max-width",
+          "selector": "div.clear > section > div > div",
+          "pages": [
+            "https://www.hydroflask.com/"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 408,
+          "via": "fixed",
+          "selector": "#banner-carousel > div.slide.first-slide > section > div",
+          "pages": [
+            "https://www.hydroflask.com/"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 368,
+          "via": "fixed",
+          "selector": "div.slide.first-slide > section > div > p",
+          "pages": [
+            "https://www.hydroflask.com/"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 340,
+          "via": "fixed",
+          "selector": "section > div > div > a.clear",
+          "pages": [
+            "https://www.hydroflask.com/"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 285,
+          "via": "fixed",
+          "selector": "div.mt-2 > div > a.text-base.text-center > span",
+          "pages": [
+            "https://www.hydroflask.com/"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 253,
+          "via": "max-width",
+          "selector": "section > div > div > p",
+          "pages": [
+            "https://www.hydroflask.com/"
+          ]
+        }
+      ],
+      "modules": [
+        {
+          "url": "https://www.hydroflask.com/",
+          "section": 0,
+          "selector": "#maincontent > div.columns > div.column.main > div",
+          "px": 1591
+        },
+        {
+          "url": "https://www.hydroflask.com/",
+          "section": 1,
+          "selector": "#maincontent > div.columns > div.column.main > div",
+          "px": 1313
+        },
+        {
+          "url": "https://www.hydroflask.com/",
+          "section": 2,
+          "selector": "#maincontent > div.columns > div.column.main > div",
+          "px": 1300
+        },
+        {
+          "url": "https://www.hydroflask.com/",
+          "section": 3,
+          "selector": "#maincontent > div.columns > div.column.main > div.hf__category-product__slider.overflow-hidden",
+          "px": 1300
+        },
+        {
+          "url": "https://www.hydroflask.com/",
+          "section": 4,
+          "selector": "#maincontent > div.columns > div.column.main > div",
+          "px": 1440
+        },
+        {
+          "url": "https://www.hydroflask.com/",
+          "section": 5,
+          "selector": "#maincontent > div.columns > div.column.main > div.hf__category-product__slider.w-full",
+          "px": 1300
+        },
+        {
+          "url": "https://www.hydroflask.com/",
+          "section": 6,
+          "selector": "#maincontent > div.columns > div.column.main > div",
+          "px": 1304
+        },
+        {
+          "url": "https://www.hydroflask.com/",
+          "section": 7,
+          "selector": "#maincontent > div.columns > div.column.main > div",
+          "px": 1326
+        }
+      ],
+      "capRegister": [],
+      "capProvenance": {
+        "writtenBy": "skills/replica/scripts/cap-probe.mjs",
+        "writtenAt": "2026-10-29T19:23:11.431Z",
+        "baseWidth": 1440,
+        "urls": [
+          "https://www.hydroflask.com/"
+        ]
+      }
+    },
+    "source": {
+      "gateWidths": [
+        1440,
+        360
+      ]
+    }
+  }
+}

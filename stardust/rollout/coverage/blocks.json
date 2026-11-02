@@ -1,0 +1,153 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:rollout/blocks",
+    "writtenAt": "2026-10-29T20:58:58.669Z",
+    "readArtifacts": [
+      "stardust/rollout/coverage/pages.json"
+    ],
+    "stardustVersion": "0.0.0"
+  },
+  "generatedAt": "2026-10-29T22:23:40.237Z",
+  "blocks": [
+    {
+      "id": "advocacy",
+      "label": "advocacy",
+      "kind": "module",
+      "signature": "module:advocacy",
+      "source": null,
+      "usedByTemplates": [
+        "index"
+      ],
+      "usedByPages": [
+        "index"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "verified",
+        "edsBlockName": "advocacy",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "artist-promo",
+      "label": "artist-promo",
+      "kind": "module",
+      "signature": "module:artist-promo",
+      "source": null,
+      "usedByTemplates": [
+        "index"
+      ],
+      "usedByPages": [
+        "index"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "verified",
+        "edsBlockName": "artist-promo",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "category-tiles",
+      "label": "category-tiles",
+      "kind": "module",
+      "signature": "module:category-tiles",
+      "source": null,
+      "usedByTemplates": [
+        "index"
+      ],
+      "usedByPages": [
+        "index"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "verified",
+        "edsBlockName": "category-tiles",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "hero-carousel",
+      "label": "hero-carousel",
+      "kind": "module",
+      "signature": "module:hero-carousel",
+      "source": null,
+      "usedByTemplates": [
+        "index"
+      ],
+      "usedByPages": [
+        "index"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "verified",
+        "edsBlockName": "hero-carousel",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "product-carousel",
+      "label": "product-carousel",
+      "kind": "module",
+      "signature": "module:product-carousel",
+      "source": null,
+      "usedByTemplates": [
+        "index"
+      ],
+      "usedByPages": [
+        "index"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "verified",
+        "edsBlockName": "product-carousel",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "split-promo",
+      "label": "split-promo",
+      "kind": "module",
+      "signature": "module:split-promo",
+      "source": null,
+      "usedByTemplates": [
+        "index"
+      ],
+      "usedByPages": [
+        "index"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "verified",
+        "edsBlockName": "split-promo",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "trending-links",
+      "label": "trending-links",
+      "kind": "module",
+      "signature": "module:trending-links",
+      "source": null,
+      "usedByTemplates": [
+        "index"
+      ],
+      "usedByPages": [
+        "index"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "verified",
+        "edsBlockName": "trending-links",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    }
+  ]
+}

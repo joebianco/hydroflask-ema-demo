@@ -1,0 +1,1216 @@
+{
+  "_provenance": {
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-10-29T19:21:46.596Z",
+    "waitMode": "medium",
+    "waitMs": 2500,
+    "httpStatus": 200
+  },
+  "slug": "index",
+  "url": "https://www.hydroflask.com/",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-10-29T19:21:46.596Z",
+  "finalUrl": "https://www.hydroflask.com/",
+  "title": "Hydro Flask: Sustainable & Refillable Water Bottles | Hydro Flask",
+  "description": "Hydro Flask creates insulated, stainless steel water bottles to keep you hydrated on any adventure. Let's go!",
+  "og": {
+    "title": "Hydro Flask: Sustainable & Refillable Water Bottles | Hydro Flask",
+    "description": "Hydro Flask creates insulated, stainless steel water bottles to keep you hydrated on any adventure. Let's go!",
+    "image": "https://www.hydroflask.com/static/version1793007280/frontend/MagebitHoT/hydroflask/en_US/images/logo.svg",
+    "type": "website"
+  },
+  "headings": [
+    {
+      "tag": "h2",
+      "text": "World of Eric Carle™ x Hydro Flask"
+    },
+    {
+      "tag": "h2",
+      "text": "Lightweight Collection"
+    },
+    {
+      "tag": "h2",
+      "text": "Sundae School x Hydro Flask"
+    },
+    {
+      "tag": "h2",
+      "text": "Level up lunch"
+    },
+    {
+      "tag": "h3",
+      "text": "Trending Now"
+    },
+    {
+      "tag": "h3",
+      "text": "Our commitment to responsible advocacy."
+    },
+    {
+      "tag": "h2",
+      "text": "Support"
+    },
+    {
+      "tag": "h2",
+      "text": "Company"
+    },
+    {
+      "tag": "h2",
+      "text": "Account"
+    },
+    {
+      "tag": "h2",
+      "text": "Resources"
+    },
+    {
+      "tag": "h2",
+      "text": "Stay in touch!"
+    }
+  ],
+  "body": [
+    "Brown Bear and friends, now on your favorite Hydro Flasks.",
+    "Kickoff cooler weather with Hydro Flask.",
+    "Hydro Flask x",
+    "Featuring custom doodles hand drawn by Gigi.",
+    "An iconic Sundae School fleece transformed into an iconic Hydro Flask bottle.",
+    "Bottles & Drinkware",
+    "New Colors",
+    "Bundles",
+    "Coolers & Totes",
+    "Micro Hydro",
+    "Lightweight",
+    "Hydro Flask is proud to support Ocean Conservancy® as the official hydration partner and Platinum Champion of its Protect Where We Play℠ initiative."
+  ],
+  "codeBlocks": [],
+  "ctas": [
+    {
+      "label": "Rewards",
+      "href": "https://www.hydroflask.com/house-of-hydro-rewards"
+    },
+    {
+      "label": "Contact Us",
+      "href": "https://www.hydroflask.com/contact-us"
+    },
+    {
+      "label": "Gift Cards",
+      "href": "https://www.hydroflask.com/gift-card"
+    },
+    {
+      "label": "USA | EN",
+      "href": null
+    },
+    {
+      "label": "Drinkware",
+      "href": null
+    },
+    {
+      "label": "Collections",
+      "href": null
+    },
+    {
+      "label": "Coolers & Lunch",
+      "href": null
+    },
+    {
+      "label": "Customize",
+      "href": null
+    },
+    {
+      "label": "Hydro Finder",
+      "href": "https://www.hydroflask.com/find-your-hydroflask"
+    },
+    {
+      "label": "Explore",
+      "href": null
+    },
+    {
+      "label": "My minicart, cart is empty 0",
+      "href": null
+    },
+    {
+      "label": "Shop Exclusive Designs",
+      "href": "https://www.hydroflask.com/gigi-perez-bottles"
+    },
+    {
+      "label": "Shop Now",
+      "href": "https://www.hydroflask.com/shop/new-arrivals?visual-filter=Best+Sellers"
+    },
+    {
+      "label": "Shop Midnight Glimmer",
+      "href": "https://www.hydroflask.com/shop/collections/midnight-glimmer-water-bottles"
+    },
+    {
+      "label": "⏸ ▶",
+      "href": null
+    },
+    {
+      "label": "Shop Eric Carle™",
+      "href": "/shop/collections/eric-carle-water-bottles"
+    },
+    {
+      "label": "Tailgating",
+      "href": "/shop/collections/tailgating"
+    },
+    {
+      "label": "Coffee & Tea",
+      "href": "/shop/bottles-drinkware/coffee-tea"
+    },
+    {
+      "label": "Halloween Spirit",
+      "href": "/shop/collections/halloween-shop"
+    },
+    {
+      "label": "Everyday Hydration",
+      "href": "/shop/bottles?visual-filter=Bestsellers"
+    },
+    {
+      "label": "Shop New",
+      "href": "/shop/new-arrivals"
+    },
+    {
+      "label": "Shop Now",
+      "href": "/gigi-perez-bottles"
+    },
+    {
+      "label": "Shop Lightweight",
+      "href": "/shop/lightweight-water-bottles"
+    },
+    {
+      "label": "12 oz Lightweight Mug",
+      "href": "https://www.hydroflask.com/12-oz-lightweight-mug"
+    },
+    {
+      "label": "16 oz Lightweight Flip Sip Travel Mug",
+      "href": "https://www.hydroflask.com/16-oz-lightweight-flip-sip-travel-mug"
+    },
+    {
+      "label": "12 oz Lightweight Mug - Cypress Green",
+      "href": "https://www.hydroflask.com/12-oz-lightweight-mug?color=Cypress+Green"
+    },
+    {
+      "label": "24 oz Lightweight Flex Straw Bottle",
+      "href": "https://www.hydroflask.com/24-oz-lightweight-flex-straw-bottle"
+    },
+    {
+      "label": "32 oz Lightweight Chug Cap Bottle - Atlas",
+      "href": "https://www.hydroflask.com/32-oz-lightweight-chug-cap-bottle?color=Atlas"
+    },
+    {
+      "label": "16 oz Lightweight Chug Cap Bottle",
+      "href": "https://www.hydroflask.com/16-oz-lightweight-chug-cap-bottle"
+    },
+    {
+      "label": "32 oz Lightweight Flex Straw Bottle",
+      "href": "https://www.hydroflask.com/32-oz-lightweight-flex-straw-cap-bottle"
+    },
+    {
+      "label": "40 oz Lightweight Flex Cap Bottle",
+      "href": "https://www.hydroflask.com/40-oz-lightweight-flex-cap-bottle"
+    },
+    {
+      "label": "Go to slide 1",
+      "href": null
+    },
+    {
+      "label": "Go to slide 2",
+      "href": null
+    },
+    {
+      "label": "Go to slide 3",
+      "href": null
+    },
+    {
+      "label": "Go to slide 4",
+      "href": null
+    },
+    {
+      "label": "Go to slide 5",
+      "href": null
+    },
+    {
+      "label": "Go to slide 6",
+      "href": null
+    },
+    {
+      "label": "Go to slide 7",
+      "href": null
+    },
+    {
+      "label": "Go to slide 8",
+      "href": null
+    },
+    {
+      "label": "Shop Sundae School",
+      "href": "/sundae-school-24-oz-bottle"
+    },
+    {
+      "label": "Shop Lunch",
+      "href": "/shop/coolers/lunch-boxes"
+    },
+    {
+      "label": "Carryout™ Lunch Bag",
+      "href": "https://www.hydroflask.com/carryout-lunch-bag"
+    },
+    {
+      "label": "Carryout™ Lunch Box",
+      "href": "https://www.hydroflask.com/carryout-lunch-box"
+    },
+    {
+      "label": "Carryout™ Lunch Tote",
+      "href": "https://www.hydroflask.com/carryout-lunch-tote"
+    },
+    {
+      "label": "Carryout™ Lunch Rolltop",
+      "href": "https://www.hydroflask.com/carryout-lunch-rolltop"
+    },
+    {
+      "label": "Go to slide 1",
+      "href": null
+    },
+    {
+      "label": "Go to slide 2",
+      "href": null
+    },
+    {
+      "label": "Go to slide 3",
+      "href": null
+    },
+    {
+      "label": "Go to slide 4",
+      "href": null
+    },
+    {
+      "label": "Bottles & Drinkware",
+      "href": "/shop/bottles-drinkware"
+    },
+    {
+      "label": "New Colors",
+      "href": "/shop/new-arrivals"
+    },
+    {
+      "label": "Bundles",
+      "href": "/shop/bundles"
+    },
+    {
+      "label": "Coolers & Totes",
+      "href": "/shop/coolers"
+    },
+    {
+      "label": "Micro Hydro",
+      "href": "/shop/mini-water-bottles"
+    },
+    {
+      "label": "Lightweight",
+      "href": "/shop/lightweight-water-bottles"
+    },
+    {
+      "label": "Learn More",
+      "href": "/brand-values"
+    },
+    {
+      "label": "Shop Now",
+      "href": "/shop/new-arrivals?visual-filter=Best+Sellers"
+    },
+    {
+      "label": "Contact Us",
+      "href": "https://www.hydroflask.com/contact-us/"
+    },
+    {
+      "label": "Find a Store",
+      "href": "https://www.hydroflask.com/storelocator/"
+    },
+    {
+      "label": "FAQs",
+      "href": "https://faq.hydroflask.com/"
+    },
+    {
+      "label": "Warranty",
+      "href": "https://faq.hydroflask.com/faq-s-product-warranty-ryhfN7dNo"
+    },
+    {
+      "label": "Shipping & Returns",
+      "href": "https://faq.hydroflask.com/faqs-shipping-handling-SJhv655Np"
+    },
+    {
+      "label": "Track Your Order",
+      "href": "https://www.hydroflask.com/track/order/status/"
+    },
+    {
+      "label": "Gift Cards",
+      "href": "https://www.hydroflask.com/gift-card/"
+    },
+    {
+      "label": "Gift Cards Terms and Conditions",
+      "href": "https://www.hydroflask.com/gift-card-terms-and-conditions/"
+    },
+    {
+      "label": "Store Credit Terms and Conditions",
+      "href": "https://www.hydroflask.com/store-credit-terms-and-conditions/"
+    },
+    {
+      "label": "Our Story",
+      "href": "https://www.hydroflask.com/our-story/"
+    },
+    {
+      "label": "Brand Values",
+      "href": "https://www.hydroflask.com/brand-values/"
+    },
+    {
+      "label": "Careers (Opens in a new window)",
+      "href": "https://careers.helenoftroy.com/"
+    },
+    {
+      "label": "Intentional Design",
+      "href": "https://www.hydroflask.com/bluesign/"
+    },
+    {
+      "label": "Account",
+      "href": "https://www.hydroflask.com/customer/account/"
+    },
+    {
+      "label": "Refer A Friend",
+      "href": "https://www.hydroflask.com/refer/"
+    },
+    {
+      "label": "Loyalty Rewards",
+      "href": "https://www.hydroflask.com/house-of-hydro-rewards/"
+    },
+    {
+      "label": "Loyalty Terms & Conditions",
+      "href": "https://www.hydroflask.com/house-of-hydro-rewards-terms-and-conditions/"
+    },
+    {
+      "label": "Trade-In Program",
+      "href": "https://www.hydroflask.com/trade-in/"
+    },
+    {
+      "label": "Group Customization",
+      "href": "https://www.hydroflask.com/corporate-purchasing/"
+    },
+    {
+      "label": "Dealer Central",
+      "href": "https://faq.hydroflask.com/dealer-central-SJHWE7dEj"
+    },
+    {
+      "label": "Pro Deal",
+      "href": "https://www.hydroflask.com/prodeal/application/index/"
+    },
+    {
+      "label": "Product Donation Inquiry",
+      "href": "https://www.cybergrants.com/pls/cybergrants/quiz.display_question?x_gm_id=7616&x_quiz_id=10334&x_order_by=1"
+    },
+    {
+      "label": "(Opens in a new window)",
+      "href": "https://www.instagram.com/hydroflask/"
+    },
+    {
+      "label": "(Opens in a new window)",
+      "href": "https://www.tiktok.com/@hydroflask?lang=en"
+    },
+    {
+      "label": "(Opens in a new window)",
+      "href": "https://www.facebook.com/hydroflask"
+    },
+    {
+      "label": "(Opens in a new window)",
+      "href": "https://www.youtube.com/user/hydroflask"
+    },
+    {
+      "label": "(Opens in a new window)",
+      "href": "https://www.pinterest.co.uk/hydroflask"
+    },
+    {
+      "label": "Submit",
+      "href": null
+    },
+    {
+      "label": "Privacy Policy",
+      "href": "/privacy"
+    },
+    {
+      "label": "Terms",
+      "href": "/terms/"
+    },
+    {
+      "label": "Privacy",
+      "href": "/privacy/"
+    },
+    {
+      "label": "USA | EN",
+      "href": null
+    },
+    {
+      "label": "Anti-human Trafficking and Modern Slavery Statement | Helen of Troy(Opens in a new window)",
+      "href": "https://www.helenoftroy.com/anti-human-trafficking-and-modern-slavery-statement/"
+    },
+    {
+      "label": "Get 15% Off",
+      "href": null
+    },
+    {
+      "label": "Close teaser",
+      "href": null
+    }
+  ],
+  "links": [
+    "https://www.hydroflask.com/#maincontent",
+    "https://www.hydroflask.com/#search-content",
+    "https://www.hydroflask.com/#page-footer",
+    "https://www.hydroflask.com/#kustomer-ui-sdk-iframe",
+    "https://www.hydroflask.com/#userwayAccessibilityIcon",
+    "https://www.hydroflask.com/",
+    "https://www.hydroflask.com/house-of-hydro-rewards",
+    "https://www.hydroflask.com/contact-us",
+    "https://www.hydroflask.com/gift-card",
+    "https://www.hydroflask.com/shop/bottles-drinkware",
+    "https://www.hydroflask.com/shop/micro-hydro-straw-bottle",
+    "https://www.hydroflask.com/shop/new-arrivals",
+    "https://www.hydroflask.com/shop/limited-edition",
+    "https://www.hydroflask.com/shop/bestsellers",
+    "https://www.hydroflask.com/shop/trending-now",
+    "https://www.hydroflask.com/shop/sale",
+    "https://www.hydroflask.com/shop/bottles",
+    "https://www.hydroflask.com/shop/collections/kids-collection",
+    "https://www.hydroflask.com/shop/mini-water-bottles",
+    "https://www.hydroflask.com/shop/bottles-drinkware/cups-tumblers",
+    "https://www.hydroflask.com/shop/bottles-drinkware/coffee-tea",
+    "https://www.hydroflask.com/shop/lightweight-water-bottles",
+    "https://www.hydroflask.com/shop/bottles-drinkware/beer-wine-spirits",
+    "https://www.hydroflask.com/shop/accessories",
+    "https://www.hydroflask.com/shop/shop-by-size/32-oz",
+    "https://www.hydroflask.com/shop/shop-by-size/24-oz",
+    "https://www.hydroflask.com/shop/shop-by-size/40-oz",
+    "https://www.hydroflask.com/shop/shop-by-size/20-oz",
+    "https://www.hydroflask.com/micro-hydro",
+    "https://www.hydroflask.com/micro-hydro-300-ml",
+    "https://www.hydroflask.com/micro-hydro-400-ml",
+    "https://www.hydroflask.com/shop/colors/purple",
+    "https://www.hydroflask.com/shop/colors/red",
+    "https://www.hydroflask.com/shop/colors/pink",
+    "https://www.hydroflask.com/shop/colors/green",
+    "https://www.hydroflask.com/shop/colors/blue",
+    "https://www.hydroflask.com/shop/colors/black",
+    "https://www.hydroflask.com/shop/colors/white",
+    "https://www.hydroflask.com/shop/colors/gray",
+    "https://www.hydroflask.com/shop/colors/neutrals",
+    "https://www.hydroflask.com/find-your-hydroflask",
+    "https://www.hydroflask.com/shop/collections/halloween-shop",
+    "https://www.hydroflask.com/shop/collections/tailgating",
+    "https://www.hydroflask.com/back-to-school",
+    "https://www.hydroflask.com/shop/collections/fitness-collection",
+    "https://www.hydroflask.com/shop/collections/travel-guide",
+    "https://www.hydroflask.com/shop/bundles",
+    "https://www.hydroflask.com/gigi-perez-bottles",
+    "https://www.hydroflask.com/shop/coolers/carryout-collection",
+    "https://www.hydroflask.com/shop/colors/camo",
+    "https://www.hydroflask.com/rolemodel-bottles",
+    "https://www.hydroflask.com/sekou-bottles",
+    "https://www.hydroflask.com/universal-music-group",
+    "https://www.hydroflask.com/shop/collections/midnight-glimmer-water-bottles",
+    "https://www.hydroflask.com/shop/collections/quest",
+    "https://www.hydroflask.com/shop/collections/daydream",
+    "https://www.hydroflask.com/game-on-32-oz-wide-mouth-bottle",
+    "https://www.hydroflask.com/shop/collections/glitch",
+    "https://www.hydroflask.com/shop/collections/arc-water-bottles",
+    "https://www.hydroflask.com/shop/collections/eric-carle-water-bottles",
+    "https://www.hydroflask.com/shop/coolers",
+    "https://www.hydroflask.com/shop/kitchenware/food-jars",
+    "https://www.hydroflask.com/shop/coolers/soft-coolers",
+    "https://www.hydroflask.com/shop/coolers/insulated-totes",
+    "https://www.hydroflask.com/shop/coolers/lunch-boxes",
+    "https://www.hydroflask.com/shop/coolers/bags-packs",
+    "https://www.hydroflask.com/shop/coolers/cooler-accessories",
+    "https://www.hydroflask.com/shop/kitchenware",
+    "https://www.hydroflask.com/shop/kitchenware/outdoor-kitchen",
+    "https://www.hydroflask.com/shop/kitchenware/outdoor-dining",
+    "https://www.hydroflask.com/find-your-cooler",
+    "https://www.hydroflask.com/engraving",
+    "https://www.hydroflask.com/shop/customize",
+    "https://www.hydroflask.com/corporate-purchasing",
+    "https://www.hydroflask.com/trade-in",
+    "https://www.hydroflask.com/refer",
+    "https://www.hydroflask.com/hydroflask-us-snowboard-team",
+    "https://www.hydroflask.com/prodeal/application/index/",
+    "https://faq.hydroflask.com/",
+    "https://www.hydroflask.com/our-story",
+    "https://careers.helenoftroy.com/",
+    "https://www.hydroflask.com/international-warranty-selector",
+    "https://www.hydroflask.com/blog",
+    "https://www.hydroflask.com/blog/category/tips-and-tricks",
+    "https://www.hydroflask.com/blog/category/recipes",
+    "https://www.hydroflask.com/blog/category/ambassadors",
+    "https://www.hydroflask.com/blog/category/clean-care",
+    "https://www.hydroflask.com/blog/category/product-recommendations",
+    "https://www.hydroflask.com/customer/account/",
+    "https://www.hydroflask.com/house-of-hydro-rewards/",
+    "https://www.hydroflask.com/wishlist/",
+    "https://www.hydroflask.com/sales/order/history/",
+    "https://www.hydroflask.com/customer/account/logout/",
+    "https://www.hydroflask.com/customer/account/index/",
+    "https://www.hydroflask.com/customer/account/create/",
+    "https://www.hydroflask.com/track/order/status/",
+    "https://www.hydroflask.com/shop/new-arrivals?visual-filter=Best+Sellers",
+    "https://www.hydroflask.com/water-bottle-gift-ideas",
+    "https://www.hydroflask.com/shop/bottles?visual-filter=Bestsellers",
+    "https://www.hydroflask.com/12-oz-lightweight-mug",
+    "https://www.hydroflask.com/16-oz-lightweight-flip-sip-travel-mug",
+    "https://www.hydroflask.com/12-oz-lightweight-mug?color=Cypress+Green",
+    "https://www.hydroflask.com/24-oz-lightweight-flex-straw-bottle",
+    "https://www.hydroflask.com/32-oz-lightweight-chug-cap-bottle?color=Atlas",
+    "https://www.hydroflask.com/16-oz-lightweight-chug-cap-bottle",
+    "https://www.hydroflask.com/32-oz-lightweight-flex-straw-cap-bottle",
+    "https://www.hydroflask.com/40-oz-lightweight-flex-cap-bottle",
+    "https://www.hydroflask.com/sundae-school-24-oz-bottle",
+    "https://www.hydroflask.com/carryout-lunch-bag",
+    "https://www.hydroflask.com/carryout-lunch-box",
+    "https://www.hydroflask.com/carryout-lunch-tote",
+    "https://www.hydroflask.com/carryout-lunch-rolltop",
+    "https://www.hydroflask.com/brand-values",
+    "https://www.hydroflask.com/contact-us/",
+    "https://www.hydroflask.com/storelocator/",
+    "https://faq.hydroflask.com/faq-s-product-warranty-ryhfN7dNo",
+    "https://faq.hydroflask.com/faqs-shipping-handling-SJhv655Np",
+    "https://www.hydroflask.com/gift-card/",
+    "https://www.hydroflask.com/gift-card-terms-and-conditions/",
+    "https://www.hydroflask.com/store-credit-terms-and-conditions/",
+    "https://www.hydroflask.com/our-story/",
+    "https://www.hydroflask.com/brand-values/",
+    "https://www.hydroflask.com/bluesign/",
+    "https://www.hydroflask.com/refer/",
+    "https://www.hydroflask.com/house-of-hydro-rewards-terms-and-conditions/",
+    "https://www.hydroflask.com/trade-in/",
+    "https://www.hydroflask.com/corporate-purchasing/",
+    "https://faq.hydroflask.com/dealer-central-SJHWE7dEj",
+    "https://www.cybergrants.com/pls/cybergrants/quiz.display_question?x_gm_id=7616&x_quiz_id=10334&x_order_by=1",
+    "https://www.instagram.com/hydroflask/",
+    "https://www.tiktok.com/@hydroflask?lang=en",
+    "https://www.facebook.com/hydroflask",
+    "https://www.youtube.com/user/hydroflask",
+    "https://www.pinterest.co.uk/hydroflask",
+    "https://www.hydroflask.com/privacy",
+    "https://www.hydroflask.com/terms/",
+    "https://www.hydroflask.com/privacy/",
+    "https://www.levelaccess.com/a/hydroflask",
+    "https://www.helenoftroy.com/anti-human-trafficking-and-modern-slavery-statement/",
+    "https://www.hydroflask.com/terms"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://cdn.userway.org/widgetapp/images/spin_wh.svg",
+        "alt": "Spinner: White decorative",
+        "w": 40,
+        "h": 40
+      },
+      {
+        "src": "https://cdn.userway.org/widgetapp/images/body_wh.svg",
+        "alt": "",
+        "w": 60,
+        "h": 60
+      },
+      {
+        "src": "https://cdn.userway.org/widgetapp/images/spin_wh.svg",
+        "alt": "Spinner: White decorative",
+        "w": 40,
+        "h": 40
+      },
+      {
+        "src": "https://www.hydroflask.com/static/version1793007280/frontend/MagebitHoT/hydroflask/en_US/images/logo.svg",
+        "alt": "Hydroflask store logo",
+        "w": 300,
+        "h": 71
+      },
+      {
+        "src": "https://www.hydroflask.com/media/wysiwyg/megamenu/hydroflask/ad-blocks/7507-mega-menu-ad-drinkware-desktop-2x.jpg",
+        "alt": "Women sitting in a car smiling holding a Burgundy Standard Mouth Hydro Flask",
+        "w": 640,
+        "h": 526
+      },
+      {
+        "src": "https://www.hydroflask.com/media/wysiwyg/megamenu/hydroflask/ad-blocks/7507-mega-menu-ad-collections-desktop-2x.jpg",
+        "alt": "Two children writing their names on the bottom name tag of their Hydro Flask Kids Bottle",
+        "w": 640,
+        "h": 526
+      },
+      {
+        "src": "https://www.hydroflask.com/media/wysiwyg/megamenu/hydroflask/ad-blocks/7507-mega-menu-ad-coolers-desktop-2x.jpg",
+        "alt": "Woman walking down the sidewalk carrying a Hydro Flask Carryout Tote",
+        "w": 640,
+        "h": 526
+      },
+      {
+        "src": "https://www.hydroflask.com/media/wysiwyg/5393-mega-menu-ad-engraving-desktop-2x.jpg",
+        "alt": "Person holding a custom Hydro Flask bottle with a drawing of a dog engraved onto it.",
+        "w": 640,
+        "h": 566
+      },
+      {
+        "src": "https://www.hydroflask.com/media/wysiwyg/5393-mega-menu-ad-customize-desktop-2x.jpg",
+        "alt": "A custom Micro Hydro clipped to a person's belt",
+        "w": 640,
+        "h": 567
+      },
+      {
+        "src": "https://www.hydroflask.com/media/wysiwyg/5393-mega-menu-ad-corporate-desktop-2x.jpg",
+        "alt": "A hand holding a Hydro Flask Tumbler with a company's logo engraved onto it.",
+        "w": 640,
+        "h": 566
+      },
+      {
+        "src": "https://www.hydroflask.com/media/wysiwyg/hohfus-5586-featured-desktop-2x.jpg",
+        "alt": "Boy and a girl sitting with cardboard cut outs of Eric Carle™ Bears with Kids Hydro Flask bottles and tumblers.",
+        "w": 2880,
+        "h": 1200
+      },
+      {
+        "src": "https://www.hydroflask.com/media/wysiwyg/hohfus-5461-tile-1-desktop.jpg",
+        "alt": "Hydro Flask Carryout Cooler and Travel Tumbler",
+        "w": 680,
+        "h": 800
+      },
+      {
+        "src": "https://www.hydroflask.com/media/wysiwyg/hohfus-5461-tile-2-desktop.jpg",
+        "alt": "Hydro Flask Coffee Flip Sip, Mug and Cup products",
+        "w": 680,
+        "h": 800
+      },
+      {
+        "src": "https://www.hydroflask.com/media/wysiwyg/hohfus-5461-tile-3-desktop.jpg",
+        "alt": "Hydro Flask 32 oz Bottle, Travel Bottle and Micro Hydro",
+        "w": 680,
+        "h": 800
+      },
+      {
+        "src": "https://www.hydroflask.com/media/wysiwyg/hohfus-5461-tile-4-desktop.jpg",
+        "alt": "Hydro Flask 24 oz Bottle, Micro Hydro and Lightweight Chug Cap",
+        "w": 680,
+        "h": 800
+      },
+      {
+        "src": "https://www.hydroflask.com/media/wysiwyg/hohfus-5461-hero-desktop.jpg",
+        "alt": "Friends gathered outside a coffee shop with Hydro Flask bottles and totes",
+        "w": 1138,
+        "h": 1420
+      },
+      {
+        "src": "https://www.hydroflask.com/media/wysiwyg/hohfus-5640-banner-desktop-2x.jpg",
+        "alt": "Artist Gigi Perez holding her custom Hydro Flask bottle in a music studio",
+        "w": 2600,
+        "h": 840
+      },
+      {
+        "src": "https://www.hydroflask.com/media/wysiwyg/hohfus-5640-signature-desktop-2x.png",
+        "alt": "Gigi Perez",
+        "w": 1102,
+        "h": 226
+      },
+      {
+        "src": "https://www.hydroflask.com/media/wysiwyg/hohfus-5287-background-desktop-2x.jpg",
+        "alt": "Sundae School Limited Edition Bottle design",
+        "w": 1300,
+        "h": 840
+      },
+      {
+        "src": "https://www.hydroflask.com/media/wysiwyg/hohfus-5287-product-desktop-2x.png",
+        "alt": "",
+        "w": 686,
+        "h": 1170
+      },
+      {
+        "src": "https://www.hydroflask.com/media/wysiwyg/hohfus-4745-beach-desktop-2x.jpg",
+        "alt": "hydro flask insulated cooler backpack and water bottle on beach with people in background",
+        "w": 1326,
+        "h": 878
+      },
+      {
+        "src": "https://www.hydroflask.com/media/wysiwyg/4575-footer-featured-image-desktop.jpg",
+        "alt": "",
+        "w": 1440,
+        "h": 2040
+      },
+      {
+        "src": "https://www.hydroflask.com/media/wysiwyg/4383-logo-c-u.png",
+        "alt": "HydroFlask logo",
+        "w": 356,
+        "h": 98
+      }
+    ],
+    "allImgCount": 53,
+    "cssBackgrounds": [],
+    "modals": [
+      "Remove Item Are you sure you would like to remove this item from the shopping cart? Cancel OK",
+      "Close dialog15% off your first order​Email addressWhat are you shopping for?What are you shopping forThe style to match my vibeMy outdoor adventure companion Hydration for the gym, court, field & beyondA little bit of everythingBy submitting your email address, you agree to receive marketing emails from Hydro Flask. You may unsubscribe at any time. Minimum order of $29.95 is required. Offer excludes Sale and Pro Deal memberships. For more information, please refer to our Terms and Privacy.Continue for 15% Off"
+    ],
+    "videos": [],
+    "iframes": [
+      {
+        "src": null,
+        "title": "Kustomer Widget Iframe"
+      }
+    ]
+  },
+  "customProps": {
+    "--header-bottom-offset": "0px",
+    "--submenu-top-offset": "0px",
+    "--screen-md": "768px",
+    "--screen-lg": "1024px",
+    "--header-height": "79px",
+    "--kl-reviews-color-light-gray": "#e9e9eb"
+  },
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 11,
+    "mainTextLen": 77090,
+    "realImageCount": 23,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false,
+    "screenshotMode": "fullPage"
+  },
+  "dynamic": {
+    "endpoints": [
+      {
+        "method": "POST",
+        "host": "www.hydroflask.com",
+        "path": "/cdn-cgi/challenge-platform/h/g/jsd/oneshot/c787ce48cf6b/0.7709105787586154:1793297366:QYca9WvdiPdy1ffbOyQ1TliuZoqm7JnZm2J_GiUD1I0/{hash}",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "text/plain",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://www.hydroflask.com/cdn-cgi/challenge-platform/h/g/jsd/oneshot/c787ce48cf6b/0.7709105787586154:1793297366:QYca9WvdiPdy1ffbOyQ1TliuZoqm7JnZm2J_GiUD1I0/a5248b665ce21bcd",
+        "sameSite": true
+      },
+      {
+        "method": "GET",
+        "host": "consent.trustarc.com",
+        "path": "/analytics",
+        "query": [
+          "action",
+          "domain",
+          "implied",
+          "new",
+          "referer",
+          "session"
+        ],
+        "resourceType": "fetch",
+        "contentType": "image/gif",
+        "status": 200,
+        "bytes": 43,
+        "hits": 2,
+        "example": "https://consent.trustarc.com/analytics",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "dpm.demdex.net",
+        "path": "/id",
+        "query": [
+          "d_fieldgroup",
+          "d_nsid",
+          "d_orgid",
+          "d_rtbd",
+          "d_ver",
+          "d_visid_ver",
+          "ts"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 314,
+        "hits": 1,
+        "example": "https://dpm.demdex.net/id",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "hydro-flask.pxf.io",
+        "path": "/xur/{n}",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://hydro-flask.pxf.io/xur/18825",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "www.hydroflask.com",
+        "path": "/cdn-cgi/zaraz/t",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 2,
+        "example": "https://www.hydroflask.com/cdn-cgi/zaraz/t",
+        "sameSite": true
+      },
+      {
+        "method": "GET",
+        "host": "www.google.com",
+        "path": "/ads/ga-audiences",
+        "query": [
+          "_r",
+          "_u",
+          "_v",
+          "aip",
+          "cid",
+          "slf_rd",
+          "t",
+          "tid",
+          "v",
+          "z"
+        ],
+        "resourceType": "fetch",
+        "contentType": "image/gif",
+        "status": 200,
+        "bytes": 42,
+        "hits": 1,
+        "example": "https://www.google.com/ads/ga-audiences",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "stats.g.doubleclick.net",
+        "path": "/g/collect",
+        "query": [
+          "_r",
+          "_u",
+          "_v",
+          "aip",
+          "cid",
+          "t",
+          "tid",
+          "v",
+          "z"
+        ],
+        "resourceType": "xhr",
+        "contentType": "text/plain",
+        "status": 204,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://stats.g.doubleclick.net/g/collect",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "bat.bing.com",
+        "path": "/action/{n}",
+        "query": [
+          "Ver",
+          "evt",
+          "lg",
+          "mid",
+          "msclkid",
+          "p",
+          "rn",
+          "sh",
+          "sw",
+          "ti",
+          "tl"
+        ],
+        "resourceType": "fetch",
+        "contentType": null,
+        "status": 204,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://bat.bing.com/action/0",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "www.hydroflask.com",
+        "path": "/cdn-cgi/rum",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "text/plain",
+        "status": 204,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://www.hydroflask.com/cdn-cgi/rum",
+        "sameSite": true
+      },
+      {
+        "method": "POST",
+        "host": "p2iqhncxyh.execute-api.eu-central-1.amazonaws.com",
+        "path": "/Production/v2/beacon",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": null,
+        "status": 204,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://p2iqhncxyh.execute-api.eu-central-1.amazonaws.com/Production/v2/beacon",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "fast.a.klaviyo.com",
+        "path": "/custom-fonts/api/v1/company-fonts/onsite",
+        "query": [
+          "company_id"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 519,
+        "hits": 1,
+        "example": "https://fast.a.klaviyo.com/custom-fonts/api/v1/company-fonts/onsite",
+        "sameSite": false
+      },
+      {
+        "method": "POST",
+        "host": "api.userway.org",
+        "path": "/api/v1/tunings/mBTKTyvJQC",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 1406,
+        "hits": 1,
+        "example": "https://api.userway.org/api/v1/tunings/mBTKTyvJQC",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "cdn.userway.org",
+        "path": "/widgetapp/2026-10-29-06-53-08/locales/en-US.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://cdn.userway.org/widgetapp/2026-10-29-06-53-08/locales/en-US.json",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "static-forms.klaviyo.com",
+        "path": "/forms/api/v7/P2XAyk/full-forms",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 21815,
+        "hits": 1,
+        "example": "https://static-forms.klaviyo.com/forms/api/v7/P2XAyk/full-forms",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "cdn.userway.org",
+        "path": "/remediations/consolidated/{n}/SNpD78VU8Vp9JpTq.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://cdn.userway.org/remediations/consolidated/3804479/SNpD78VU8Vp9JpTq.json",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "hydroflask.api.kustomerapp.com",
+        "path": "/p/v1/chat/brands/{hash}/settings/versions/latest",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 72,
+        "hits": 2,
+        "example": "https://hydroflask.api.kustomerapp.com/p/v1/chat/brands/62210d11e8f67f3f4eaa2d42/settings/versions/latest",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "hydroflask.api.kustomerapp.com",
+        "path": "/p/v1/schedules/default",
+        "query": [
+          "include"
+        ],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 1455,
+        "hits": 2,
+        "example": "https://hydroflask.api.kustomerapp.com/p/v1/schedules/default",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "hydroflask.api.kustomerapp.com",
+        "path": "/p/v2/chat/brands/{hash}/settings",
+        "query": [
+          "settingsVersion"
+        ],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 1045,
+        "hits": 2,
+        "example": "https://hydroflask.api.kustomerapp.com/p/v2/chat/brands/62210d11e8f67f3f4eaa2d42/settings",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "hydroflask.api.kustomerapp.com",
+        "path": "/c/v1/tracking/tokens/current",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "status": 201,
+        "bytes": 890,
+        "hits": 1,
+        "example": "https://hydroflask.api.kustomerapp.com/c/v1/tracking/tokens/current",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "hydroflask.api.kustomerapp.com",
+        "path": "/c/v2/chat/sessions",
+        "query": [
+          "page",
+          "pageSize"
+        ],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 177,
+        "hits": 1,
+        "example": "https://hydroflask.api.kustomerapp.com/c/v2/chat/sessions",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "cdn77.api.userway.org",
+        "path": "/api/img-dscr/v2/mBTKTyvJQC/{n}/4GtWdvAY26HEpvCi/alts.json",
+        "query": [
+          "dto"
+        ],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": null,
+        "hits": 1,
+        "example": "https://cdn77.api.userway.org/api/img-dscr/v2/mBTKTyvJQC/3804479/4GtWdvAY26HEpvCi/alts.json",
+        "sameSite": false
+      },
+      {
+        "method": "GET",
+        "host": "api.userway.org",
+        "path": "/api/br-links/v0/links/{n}",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "status": 200,
+        "bytes": 797,
+        "hits": 1,
+        "example": "https://api.userway.org/api/br-links/v0/links/3804479",
+        "sameSite": false
+      }
+    ],
+    "thirdPartyScriptHosts": [
+      {
+        "host": "static.klaviyo.com",
+        "count": 25
+      },
+      {
+        "host": "assets.adobedtm.com",
+        "count": 10
+      },
+      {
+        "host": "cdn.userway.org",
+        "count": 7
+      },
+      {
+        "host": "cdn.kustomerapp.com",
+        "count": 6
+      },
+      {
+        "host": "static-tracking.klaviyo.com",
+        "count": 5
+      },
+      {
+        "host": "consent.trustarc.com",
+        "count": 4
+      },
+      {
+        "host": "cdn-widgetsrepository.yotpo.com",
+        "count": 3
+      },
+      {
+        "host": "static.cloudflareinsights.com",
+        "count": 1
+      },
+      {
+        "host": "d5yoctgpv4cpx.cloudfront.net",
+        "count": 1
+      },
+      {
+        "host": "utt.impactcdn.com",
+        "count": 1
+      },
+      {
+        "host": "cdn.crobox.io",
+        "count": 1
+      }
+    ],
+    "truncated": false,
+    "inlineData": [],
+    "globalState": [
+      "dataLayer"
+    ],
+    "frameworkHints": [],
+    "forms": [
+      {
+        "action": "https://www.hydroflask.com/",
+        "hasAction": false,
+        "method": "get",
+        "sameOrigin": true,
+        "fieldCount": 1,
+        "fieldNames": [
+          "email"
+        ],
+        "search": false
+      }
+    ],
+    "ariaLiveRegions": 16,
+    "triggers": [
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      },
+      {
+        "marker": "aria-haspopup",
+        "href": null
+      }
+    ],
+    "mediaIds": [],
+    "summary": {
+      "sameSiteEndpoints": 3,
+      "thirdPartyEndpoints": 19,
+      "thirdPartyScriptHosts": 11,
+      "inlineDataBlobs": 0,
+      "forms": 1,
+      "searchForms": 0,
+      "hydrated": false
+    }
+  },
+  "screenshot": "assets/screenshots/index.png",
+  "renderedHtml": "pages/index.html"
+}

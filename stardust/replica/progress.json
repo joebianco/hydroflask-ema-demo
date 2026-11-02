@@ -1,0 +1,35 @@
+{
+  "types": {
+    "landing": {
+      "archetype": "index",
+      "pageType": "landing",
+      "liveUrl": "https://www.hydroflask.com/",
+      "prototype": "stardust/prototypes/index-proposed.html",
+      "contentRoot": "#maincontent",
+      "dismiss": ["button.klaviyo-close-form"],
+      "consent": "#truste-consent-button (built-in)",
+      "iterations": { "1440": 10, "360": 10, "note": "rounds 1-7 closed content-diff attribute/header-panel findings; pixel bar passed from round 2 (1440) / round 4 (360); 8-10 re-confirmed after interaction JS" },
+      "gates": {
+        "1440": { "pixelPct": 0.51, "heightDelta": 0, "contentDiff": "0 red / 0 nothing-lost (5 owner-accepted, stardust/replica/accepted.json)", "visualDiff": "0 flags", "chromeParity": "quiet", "cropHeader": "0.04%", "cropFooter": "0.07%", "clipped": 0, "overflow": "ok", "verdict": "PASS" },
+        "360": { "pixelPct": 2.15, "heightDelta": 0, "contentDiff": "0 red / 0 nothing-lost (owner-accepted only)", "visualDiff": "1 advisory: 1x1 lazy placeholder of hero slide 2 (capture state)", "chromeParity": "quiet", "cropHeader": "0.25%", "cropFooter": "1.83%", "clipped": 0, "overflow": "ok", "verdict": "PASS" },
+        "capProbe": "PASS at 2560 (9/9 rows)",
+        "prototypeRows": { "1440": "0.41% masked (autoplay band)", "360": "1.83% masked (autoplay band)" }
+      },
+      "residuals": [
+        "Third-party fixed layers on live (UserWay icon, Hydro Finder side tab, Klaviyo 'Get 15% Off' teaser/popup) are tag-injected and not replicated (dynamics D5).",
+        "hydro-flask-sans-fallback (local Arial) absent in the capture container on both sides — symmetric."
+      ],
+      "captureState": [
+        { "region": "promo strip", "captured": "slide 2 'Free shipping on orders $49+' (server-rendered active slide)", "restoreAtDelivery": "auto-rotates through 3 promo slides (glider) after first user presence, 5 s interval" },
+        { "region": "hero carousel", "captured": "slide 1 World of Eric Carle", "restoreAtDelivery": "rotates every 6.5 s after first mousemove/touchend; pauses on hover/focus; pause/play button; dots" }
+      ],
+      "motion": {
+        "observed": "stardust/replica/motion/index.json",
+        "build": "stardust/replica/motion/index-build.json",
+        "implemented": ["promo glider rotation", "hero carousel autoplay/dots/pause + lazy slide-2 images", "mega-menu L1 open/close + mobile drawer + L2 accordions", "search panel toggle", "account panel toggle", "newsletter submit (no backend, D4)"],
+        "dead": ["header scroll morph (no visual change)", "hover diffs (none measured)", "klaviyo-* entrance animations (third-party, D5)", "search loader spin (Algolia, D2)"]
+      },
+      "approvedBy": "hands-off"
+    }
+  }
+}

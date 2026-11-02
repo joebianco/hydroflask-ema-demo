@@ -1,0 +1,118 @@
+{
+ "_provenance": {
+  "writtenBy": "stardust:dynamics check",
+  "writtenAt": "2026-10-29T22:16:35.198Z",
+  "origin": "https://main--53deb2f5--aemcoder.aem.live",
+  "parity": "stardust/dynamics/parity.json"
+ },
+ "results": [
+  {
+   "feature": "auto-rotating hero banner slider (pause/play, dots)",
+   "id": "hero-carousel",
+   "class": "M/V",
+   "status": "done",
+   "type": "dom-count",
+   "pass": true,
+   "detail": "2 × .hero-carousel .hero-slide (min 2)",
+   "thirdParty": "",
+   "ms": 2301,
+   "environmentLimit": null
+  },
+  {
+   "feature": "auto-rotating hero banner slider (pause/play, dots)",
+   "id": "hero-carousel",
+   "class": "M/V",
+   "status": "done",
+   "type": "dom-count",
+   "pass": true,
+   "detail": "3 × .hero-carousel .hero-controls button, .hero-carousel .hero-dot (min 3)",
+   "thirdParty": "",
+   "ms": 2191,
+   "environmentLimit": null
+  },
+  {
+   "feature": "product tile sliders (2), authored rows",
+   "id": "product-carousels",
+   "class": "L",
+   "status": "done",
+   "type": "dom-count",
+   "pass": true,
+   "detail": "2 × .product-carousel (min 2)",
+   "thirdParty": "",
+   "ms": 2149,
+   "environmentLimit": null
+  },
+  {
+   "feature": "product tile sliders (2), authored rows",
+   "id": "product-carousels",
+   "class": "L",
+   "status": "done",
+   "type": "dom-count",
+   "pass": true,
+   "detail": "12 × .product-carousel .product-image (min 8)",
+   "thirdParty": "",
+   "ms": 2141,
+   "environmentLimit": null
+  },
+  {
+   "feature": "header mega-menu, account, locale and cart panels",
+   "id": "chrome-megamenu",
+   "class": "M",
+   "status": "done",
+   "type": "dom-count",
+   "pass": true,
+   "detail": "5 × header button[aria-controls^='nav-mega-'] (min 3)",
+   "thirdParty": "",
+   "ms": 2102,
+   "environmentLimit": null
+  },
+  {
+   "feature": "header mega-menu, account, locale and cart panels",
+   "id": "chrome-megamenu",
+   "class": "M",
+   "status": "done",
+   "type": "click-dialog",
+   "pass": true,
+   "detail": "dialog 744px · heading \"Choose Your Location\" · 0 fields · Escape closes: true",
+   "thirdParty": "",
+   "ms": 4192,
+   "environmentLimit": null
+  },
+  {
+   "feature": "footer 'Stay in touch' newsletter form",
+   "id": "newsletter-forms",
+   "class": "F",
+   "status": "interim",
+   "type": "dom-count",
+   "pass": true,
+   "detail": "1 × footer form.footer-form input[type=email][required] (min 1)",
+   "thirdParty": "",
+   "ms": 2037,
+   "environmentLimit": null
+  },
+  {
+   "feature": "TrustArc CMP, Adobe Launch, Klaviyo, Impact, Crobox, Kustomer, UserWay, Cloudflare insights, RapidSpike",
+   "id": "tags",
+   "class": "T",
+   "status": "scaffolded-awaiting-owner",
+   "type": "consent-gate",
+   "pass": true,
+   "detail": "no request to 11 gated host pattern(s) before consent",
+   "thirdParty": "",
+   "ms": 6087,
+   "environmentLimit": null
+  },
+  {
+   "feature": "TrustArc CMP, Adobe Launch, Klaviyo, Impact, Crobox, Kustomer, UserWay, Cloudflare insights, RapidSpike",
+   "id": "tags",
+   "class": "T",
+   "status": "scaffolded-awaiting-owner",
+   "type": "no-page-errors",
+   "pass": true,
+   "detail": "none on 1 page(s)",
+   "thirdParty": "",
+   "ms": 2087,
+   "environmentLimit": null
+  }
+ ]
+}

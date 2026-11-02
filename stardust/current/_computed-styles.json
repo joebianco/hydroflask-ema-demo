@@ -1,0 +1,2712 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:extract",
+    "writtenAt": "2026-10-29T19:23:02.626Z",
+    "script": "style-census.mjs",
+    "readArtifacts": [
+      "https://www.hydroflask.com/"
+    ],
+    "widths": [
+      1440,
+      360
+    ],
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36",
+    "synthesizedInputs": [],
+    "failed": []
+  },
+  "pages": {
+    "https://www.hydroflask.com/": {
+      "360": {
+        "title": "Hydro Flask: Sustainable & Refillable Water Bottles | Hydro Flask",
+        "viewport": {
+          "width": 360,
+          "height": 900
+        },
+        "elements": {
+          "total": 1806,
+          "visible": 537
+        },
+        "occluders": [
+          {
+            "tag": "div",
+            "id": null,
+            "class": "needsclick kl-private-reset-css-Xuajs1",
+            "coverage": 0.96,
+            "backgroundColor": "rgba(20, 20, 20, 0.6)"
+          }
+        ],
+        "headings": [
+          {
+            "tag": "h2",
+            "text": "World of Eric Carle™ x Hydro Flask",
+            "selector": "#banner-carousel > div:nth-of-type(1) > section > div:nth-of-type(3) > h2",
+            "fontFamily": "\"HydroFlask Sans\", hydro-flask-sans-fallback, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "700",
+            "lineHeight": "24px",
+            "letterSpacing": "0.1px",
+            "textTransform": "none",
+            "color": "rgb(89, 57, 20)"
+          },
+          {
+            "tag": "h2",
+            "text": "Lightweight Collection",
+            "selector": "div > div:nth-of-type(2) > div > div > div:nth-of-type(1) > div > div > h2",
+            "fontFamily": "\"HydroFlask Sans\", hydro-flask-sans-fallback, sans-serif",
+            "fontSize": "24px",
+            "fontWeight": "700",
+            "lineHeight": "30px",
+            "letterSpacing": "0.12px",
+            "textTransform": "none",
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "tag": "h2",
+            "text": "Sundae School x Hydro Flask",
+            "selector": "div > div > section > div > div:nth-of-type(1) > div:nth-of-type(1) > div > h2",
+            "fontFamily": "\"HydroFlask Sans\", hydro-flask-sans-fallback, sans-serif",
+            "fontSize": "28px",
+            "fontWeight": "700",
+            "lineHeight": "30.52px",
+            "letterSpacing": "0.1px",
+            "textTransform": "none",
+            "color": "rgb(223, 222, 220)"
+          },
+          {
+            "tag": "h2",
+            "text": "Level up lunch",
+            "selector": "div > div:nth-of-type(2) > div > div > div:nth-of-type(1) > div > div > h2",
+            "fontFamily": "\"HydroFlask Sans\", hydro-flask-sans-fallback, sans-serif",
+            "fontSize": "24px",
+            "fontWeight": "700",
+            "lineHeight": "30px",
+            "letterSpacing": "0.12px",
+            "textTransform": "none",
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "tag": "h3",
+            "text": "Trending Now",
+            "selector": "div:nth-of-type(1) > div > div:nth-of-type(10) > div > div > section > div > h3",
+            "fontFamily": "\"HydroFlask Sans\", hydro-flask-sans-fallback, sans-serif",
+            "fontSize": "30px",
+            "fontWeight": "700",
+            "lineHeight": "24px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "tag": "h3",
+            "text": "Our commitment to responsible advocacy.",
+            "selector": "div > div:nth-of-type(11) > div > div > section > div > div:nth-of-type(2) > h3",
+            "fontFamily": "\"HydroFlask Sans\", hydro-flask-sans-fallback, sans-serif",
+            "fontSize": "22px",
+            "fontWeight": "700",
+            "lineHeight": "27.5px",
+            "letterSpacing": "0.12px",
+            "textTransform": "none",
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "tag": "h2",
+            "text": "Support",
+            "selector": "div:nth-of-type(1) > div > div > div > div:nth-of-type(2) > div > div:nth-of-type(1) > h2",
+            "fontFamily": "\"HydroFlask Sans\", hydro-flask-sans-fallback, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "700",
+            "lineHeight": "28px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "tag": "h2",
+            "text": "Company",
+            "selector": "div:nth-of-type(1) > div > div > div > div:nth-of-type(2) > div > div:nth-of-type(2) > h2",
+            "fontFamily": "\"HydroFlask Sans\", hydro-flask-sans-fallback, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "700",
+            "lineHeight": "28px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "tag": "h2",
+            "text": "Account",
+            "selector": "div:nth-of-type(1) > div > div > div > div:nth-of-type(2) > div > div:nth-of-type(3) > h2",
+            "fontFamily": "\"HydroFlask Sans\", hydro-flask-sans-fallback, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "700",
+            "lineHeight": "28px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "tag": "h2",
+            "text": "Resources",
+            "selector": "div:nth-of-type(1) > div > div > div > div:nth-of-type(2) > div > div:nth-of-type(4) > h2",
+            "fontFamily": "\"HydroFlask Sans\", hydro-flask-sans-fallback, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "700",
+            "lineHeight": "28px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "tag": "h2",
+            "text": "Stay in touch!",
+            "selector": "div > div > div > div:nth-of-type(2) > div > div:nth-of-type(5) > div:nth-of-type(1) > h2",
+            "fontFamily": "\"HydroFlask Sans\", hydro-flask-sans-fallback, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "700",
+            "lineHeight": "28px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(0, 0, 0)"
+          }
+        ],
+        "text": [
+          {
+            "tag": "p",
+            "text": "Brown Bear and friends, now on your fav…",
+            "selector": "#banner-carousel > div:nth-of-type(1) > section > div:nth-of-type(3) > p",
+            "fontFamily": "\"HydroFlask Sans\", hydro-flask-sans-fallback, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "lineHeight": "22.4px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(89, 57, 20)"
+          },
+          {
+            "tag": "p",
+            "text": "Kickoff cooler weather with Hydro Flask.",
+            "selector": "div:nth-of-type(5) > div > div > section > div > div:nth-of-type(2) > div > p",
+            "fontFamily": "\"HydroFlask Sans\", hydro-flask-sans-fallback, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "lineHeight": "20px",
+            "letterSpacing": "0.1px",
+            "textTransform": "none",
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "tag": "p",
+            "text": "Featuring custom doodles hand drawn by …",
+            "selector": "div > div:nth-of-type(6) > div > div > section > div > div > p:nth-of-type(2)",
+            "fontFamily": "\"HydroFlask Sans\", hydro-flask-sans-fallback, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "lineHeight": "24.3px",
+            "letterSpacing": "0.1px",
+            "textTransform": "none",
+            "color": "rgb(255, 255, 255)"
+          },
+          {
+            "tag": "p",
+            "text": "An iconic Sundae School fleece transfor…",
+            "selector": "div > div > section > div > div:nth-of-type(1) > div:nth-of-type(2) > div > p",
+            "fontFamily": "\"HydroFlask Sans\", hydro-flask-sans-fallback, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "lineHeight": "20px",
+            "letterSpacing": "0.1px",
+            "textTransform": "none",
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "tag": "p",
+            "text": "Hydro Flask is proud to support Ocean C…",
+            "selector": "div > div:nth-of-type(11) > div > div > section > div > div:nth-of-type(2) > p",
+            "fontFamily": "\"HydroFlask Sans\", hydro-flask-sans-fallback, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "lineHeight": "24px",
+            "letterSpacing": "0.12px",
+            "textTransform": "none",
+            "color": "rgb(0, 0, 0)"
+          }
+        ],
+        "buttons": [
+          {
+            "text": "⏸ ▶",
+            "selector": "div:nth-of-type(1) > div > div:nth-of-type(4) > div > div > div > div:nth-of-type(1) > button",
+            "count": 1,
+            "backgroundColor": "rgba(0, 0, 0, 0.7)",
+            "color": "rgb(255, 255, 255)",
+            "borderRadius": "4px",
+            "padding": "8px 12px",
+            "border": "2px solid rgb(255, 255, 255)",
+            "borderColor": "rgb(255, 255, 255)",
+            "boxShadow": "none",
+            "fontFamily": "\"HydroFlask Sans\", hydro-flask-sans-fallback, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "textTransform": "none",
+            "letterSpacing": "normal",
+            "hover": null
+          },
+          {
+            "text": "Shop New",
+            "selector": "div:nth-of-type(5) > div > div > section > div > div:nth-of-type(2) > div > a",
+            "count": 1,
+            "backgroundColor": "rgb(255, 255, 255)",
+            "color": "rgb(0, 0, 0)",
+            "borderRadius": "14px",
+            "padding": "14px 72px",
+            "border": "4px solid rgb(0, 0, 0)",
+            "borderColor": "rgb(0, 0, 0)",
+            "boxShadow": "none",
+            "fontFamily": "\"HydroFlask Sans\", hydro-flask-sans-fallback, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "700",
+            "textTransform": "none",
+            "letterSpacing": "0.1px",
+            "hover": null
+          },
+          {
+            "text": "Shop Now",
+            "selector": "div > div:nth-of-type(6) > div > div > section > div > div > a",
+            "count": 1,
+            "backgroundColor": "rgb(255, 255, 255)",
+            "color": "rgb(0, 0, 0)",
+            "borderRadius": "12px",
+            "padding": "10px",
+            "border": "4px solid rgb(255, 255, 255)",
+            "borderColor": "rgb(255, 255, 255)",
+            "boxShadow": "none",
+            "fontFamily": "\"HydroFlask Sans\", hydro-flask-sans-fallback, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "700",
+            "textTransform": "none",
+            "letterSpacing": "0.1px",
+            "hover": null
+          },
+          {
+            "text": "Shop Sundae School",
+            "selector": "div > div > section > div > div:nth-of-type(1) > div:nth-of-type(2) > div > a",
+            "count": 1,
+            "backgroundColor": "rgb(0, 0, 0)",
+            "color": "rgb(255, 255, 255)",
+            "borderRadius": "12px",
+            "padding": "0px 10px",
+            "border": "0px solid rgb(104, 102, 102)",
+            "borderColor": "rgb(104, 102, 102)",
+            "boxShadow": "none",
+            "fontFamily": "\"HydroFlask Sans\", hydro-flask-sans-fallback, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "700",
+            "textTransform": "none",
+            "letterSpacing": "normal",
+            "hover": null
+          },
+          {
+            "text": "Submit",
+            "selector": "div:nth-of-type(2) > div > div:nth-of-type(1) > form > div > div > div:nth-of-type(2) > button",
+            "count": 1,
+            "backgroundColor": "rgb(0, 0, 0)",
+            "color": "rgb(255, 255, 255)",
+            "borderRadius": "14px",
+            "padding": "0px 10px",
+            "border": "0px none rgb(29, 29, 29)",
+            "borderColor": "rgb(29, 29, 29)",
+            "boxShadow": "none",
+            "fontFamily": "Poppins, Helvetica, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "textTransform": "none",
+            "letterSpacing": "normal",
+            "hover": null
+          },
+          {
+            "text": "Hydro Finder",
+            "selector": "#html-body > div:nth-of-type(13) > div",
+            "count": 1,
+            "backgroundColor": "rgb(0, 0, 0)",
+            "color": "rgb(0, 0, 0)",
+            "borderRadius": "5px 5px 0px 0px",
+            "padding": "0px 20px 20px",
+            "border": "0px solid rgb(104, 102, 102)",
+            "borderColor": "rgb(104, 102, 102)",
+            "boxShadow": "rgba(0, 0, 0, 0.4) -2px -2px 4px 0px",
+            "fontFamily": "\"HydroFlask Sans\", hydro-flask-sans-fallback, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "textTransform": "none",
+            "letterSpacing": "normal",
+            "hover": null
+          }
+        ],
+        "links": [
+          {
+            "text": "Shop Eric Carle™",
+            "selector": "#banner-carousel > div:nth-of-type(1) > section > div:nth-of-type(3) > a",
+            "count": 1,
+            "color": "rgb(89, 57, 20)",
+            "textDecoration": "none",
+            "fontWeight": "700",
+            "hover": null
+          },
+          {
+            "text": "Tailgating",
+            "selector": "div > div:nth-of-type(5) > div > div > section > div > div:nth-of-type(1) > a:nth-of-type(1)",
+            "count": 4,
+            "color": "rgb(0, 0, 0)",
+            "textDecoration": "none",
+            "fontWeight": "400",
+            "hover": null
+          },
+          {
+            "text": "Shop Lightweight",
+            "selector": "div > div:nth-of-type(7) > div > div:nth-of-type(2) > div > div > div:nth-of-type(1) > a",
+            "count": 21,
+            "color": "rgb(0, 0, 0)",
+            "textDecoration": "none",
+            "fontWeight": "700",
+            "hover": null
+          }
+        ],
+        "surfaces": [
+          {
+            "matched": "header",
+            "selector": "header",
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 345,
+              "h": 61
+            },
+            "backgroundColor": "rgb(255, 255, 255)",
+            "color": "rgb(0, 0, 0)",
+            "padding": "0px",
+            "maxWidth": "none",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "position": "sticky",
+            "fontFamily": "\"HydroFlask Sans\", hydro-flask-sans-fallback, sans-serif",
+            "fontSize": "16px"
+          },
+          {
+            "matched": "main",
+            "selector": "#maincontent",
+            "rect": {
+              "x": 0,
+              "y": 135,
+              "w": 345,
+              "h": 5322
+            },
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "color": "rgb(0, 0, 0)",
+            "padding": "0px",
+            "maxWidth": "none",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "position": "static",
+            "fontFamily": "\"HydroFlask Sans\", hydro-flask-sans-fallback, sans-serif",
+            "fontSize": "16px"
+          },
+          {
+            "matched": "footer",
+            "selector": "#page-footer",
+            "rect": {
+              "x": 0,
+              "y": 5457,
+              "w": 345,
+              "h": 1765
+            },
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "color": "rgb(0, 0, 0)",
+            "padding": "0px",
+            "maxWidth": "none",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "position": "static",
+            "fontFamily": "\"HydroFlask Sans\", hydro-flask-sans-fallback, sans-serif",
+            "fontSize": "16px"
+          },
+          {
+            "matched": "main > *",
+            "selector": "#maincontent > div:nth-of-type(1)",
+            "rect": {
+              "x": 0,
+              "y": 135,
+              "w": 345,
+              "h": 5322
+            },
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "color": "rgb(0, 0, 0)",
+            "padding": "0px",
+            "maxWidth": "none",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "position": "static",
+            "fontFamily": "\"HydroFlask Sans\", hydro-flask-sans-fallback, sans-serif",
+            "fontSize": "16px"
+          }
+        ],
+        "radii": [
+          {
+            "value": "12px",
+            "count": 6,
+            "area": 53172,
+            "sources": [
+              "#banner-carousel > div:nth-of-type(1) > section > div:nth-of-type(3) > a",
+              "div > div:nth-of-type(6) > div > div > section > div > div > a",
+              "div > div:nth-of-type(7) > div > div:nth-of-type(2) > div > div > div:nth-of-type(1) > a"
+            ]
+          },
+          {
+            "value": "14px",
+            "count": 3,
+            "area": 31850,
+            "sources": [
+              "div:nth-of-type(5) > div > div > section > div > div:nth-of-type(2) > div > a",
+              "div > div:nth-of-type(1) > form > div > div > div:nth-of-type(1) > div > input",
+              "div:nth-of-type(2) > div > div:nth-of-type(1) > form > div > div > div:nth-of-type(2) > button"
+            ]
+          },
+          {
+            "value": "50%",
+            "count": 3,
+            "area": 2176,
+            "sources": [
+              "#userwayAccessibilityIcon",
+              "div:nth-of-type(1) > div > div:nth-of-type(4) > div > div > div > div:nth-of-type(3) > button:nth-of-type(1)",
+              "div:nth-of-type(1) > div > div:nth-of-type(4) > div > div > div > div:nth-of-type(3) > button:nth-of-type(2)"
+            ]
+          },
+          {
+            "value": "11.255px",
+            "count": 1,
+            "area": 5964,
+            "sources": [
+              "#page-footer > div:nth-of-type(1) > div > div > div > div:nth-of-type(1) > div > a"
+            ]
+          },
+          {
+            "value": "5px 5px 0px 0px",
+            "count": 1,
+            "area": 5613,
+            "sources": [
+              "#html-body > div:nth-of-type(13) > div"
+            ]
+          },
+          {
+            "value": "4px",
+            "count": 1,
+            "area": 1936,
+            "sources": [
+              "div:nth-of-type(1) > div > div:nth-of-type(4) > div > div > div > div:nth-of-type(1) > button"
+            ]
+          },
+          {
+            "value": "9999px",
+            "count": 1,
+            "area": 576,
+            "sources": [
+              "div:nth-of-type(2) > div > div:nth-of-type(6) > div > div > div > button > span:nth-of-type(1)"
+            ]
+          }
+        ],
+        "shadows": [
+          {
+            "value": "rgb(0, 0, 0) 0px -2px 0px 0px inset",
+            "count": 6,
+            "sources": [
+              "div:nth-of-type(10) > div > div > section > div > ul > li:nth-of-type(1) > a",
+              "div:nth-of-type(10) > div > div > section > div > ul > li:nth-of-type(2) > a",
+              "div:nth-of-type(10) > div > div > section > div > ul > li:nth-of-type(3) > a"
+            ]
+          },
+          {
+            "value": "rgba(0, 0, 0, 0.4) -2px -2px 4px 0px",
+            "count": 1,
+            "sources": [
+              "#html-body > div:nth-of-type(13) > div"
+            ]
+          }
+        ],
+        "gradients": [],
+        "bgColors": [
+          {
+            "value": "rgb(255, 255, 255)",
+            "count": 13,
+            "area": 3195247,
+            "sources": [
+              "#html-body",
+              "header",
+              "div:nth-of-type(1) > div > div:nth-of-type(4) > div > div > div > div:nth-of-type(3) > button:nth-of-type(2)"
+            ]
+          },
+          {
+            "value": "rgb(0, 0, 0)",
+            "count": 11,
+            "area": 459212,
+            "sources": [
+              "div:nth-of-type(1) > div > div:nth-of-type(4) > div > div > div > div:nth-of-type(3) > button:nth-of-type(1)",
+              "div > div:nth-of-type(5) > div > div > section > div > div:nth-of-type(2) > a",
+              "#maincontent > div:nth-of-type(1) > div > div:nth-of-type(6) > div > div > section > div"
+            ]
+          },
+          {
+            "value": "rgb(132, 132, 132)",
+            "count": 8,
+            "area": 1448,
+            "sources": [
+              "div > div:nth-of-type(2) > div > div > div:nth-of-type(3) > div > div:nth-of-type(5) > button:nth-of-type(3)",
+              "div > div:nth-of-type(2) > div > div > div:nth-of-type(3) > div > div:nth-of-type(5) > button:nth-of-type(4)",
+              "div > div:nth-of-type(2) > div > div > div:nth-of-type(3) > div > div:nth-of-type(5) > button:nth-of-type(5)"
+            ]
+          },
+          {
+            "value": "rgb(241, 241, 241)",
+            "count": 4,
+            "area": 1284431,
+            "sources": [
+              "#maincontent > div:nth-of-type(1) > div > div:nth-of-type(7)",
+              "#page-footer > div:nth-of-type(1) > div > div",
+              "#page-footer > div:nth-of-type(1) > div > div > div > div:nth-of-type(2)"
+            ]
+          },
+          {
+            "value": "rgb(204, 214, 203)",
+            "count": 2,
+            "area": 143586,
+            "sources": [
+              "div:nth-of-type(1) > div > div:nth-of-type(11) > div > div > section > div > div:nth-of-type(2)",
+              "div > div:nth-of-type(11) > div > div > section > div > div:nth-of-type(2) > div"
+            ]
+          },
+          {
+            "value": "rgb(165, 204, 211)",
+            "count": 1,
+            "area": 224250,
+            "sources": [
+              "#banner-carousel > div:nth-of-type(1) > section"
+            ]
+          },
+          {
+            "value": "rgb(240, 236, 230)",
+            "count": 1,
+            "area": 156803,
+            "sources": [
+              "#maincontent > div:nth-of-type(1) > div > div:nth-of-type(9)"
+            ]
+          },
+          {
+            "value": "rgb(215, 215, 211)",
+            "count": 1,
+            "area": 109200,
+            "sources": [
+              "div > div:nth-of-type(8) > div > div > section > div > div:nth-of-type(1) > div:nth-of-type(2)"
+            ]
+          },
+          {
+            "value": "rgb(46, 52, 66)",
+            "count": 1,
+            "area": 25530,
+            "sources": [
+              "#html-body > div:nth-of-type(11) > div:nth-of-type(2) > div:nth-of-type(1) > div > div > div:nth-of-type(3)"
+            ]
+          },
+          {
+            "value": "rgba(0, 0, 0, 0.7)",
+            "count": 1,
+            "area": 1936,
+            "sources": [
+              "div:nth-of-type(1) > div > div:nth-of-type(4) > div > div > div > div:nth-of-type(1) > button"
+            ]
+          },
+          {
+            "value": "rgb(0, 72, 255)",
+            "count": 1,
+            "area": 1024,
+            "sources": [
+              "#userwayAccessibilityIcon"
+            ]
+          }
+        ],
+        "textColors": [
+          {
+            "value": "rgb(0, 0, 0)",
+            "count": 93,
+            "sources": [
+              "#uw-skip-to-main > span:nth-of-type(1) > span:nth-of-type(2)",
+              "#uw-enable-visibility > span:nth-of-type(1) > span:nth-of-type(2)",
+              "#uw-open-accessibility > span:nth-of-type(1) > span:nth-of-type(2)"
+            ]
+          },
+          {
+            "value": "rgb(255, 255, 255)",
+            "count": 11,
+            "sources": [
+              "div:nth-of-type(2) > div:nth-of-type(1) > div > div > div:nth-of-type(1) > div > span > span",
+              "div:nth-of-type(1) > div > div > div:nth-of-type(1) > div > span > a > span",
+              "div:nth-of-type(2) > div:nth-of-type(1) > div > div > div:nth-of-type(2) > div > span > span"
+            ]
+          },
+          {
+            "value": "rgb(89, 57, 20)",
+            "count": 5,
+            "sources": [
+              "#banner-carousel > div:nth-of-type(1) > section > div:nth-of-type(3) > h2 > span:nth-of-type(1)",
+              "#banner-carousel > div:nth-of-type(1) > section > div:nth-of-type(3) > h2 > span:nth-of-type(1) > span",
+              "#banner-carousel > div:nth-of-type(1) > section > div:nth-of-type(3) > h2 > span:nth-of-type(2)"
+            ]
+          },
+          {
+            "value": "rgb(0, 116, 162)",
+            "count": 2,
+            "sources": [
+              "div > div > div:nth-of-type(2) > div > div:nth-of-type(5) > div:nth-of-type(2) > span > a",
+              "#teconsent > a:nth-of-type(1)"
+            ]
+          },
+          {
+            "value": "rgb(223, 222, 220)",
+            "count": 2,
+            "sources": [
+              "div > div > section > div > div:nth-of-type(1) > div:nth-of-type(1) > div > span",
+              "div > div > section > div > div:nth-of-type(1) > div:nth-of-type(1) > div > h2"
+            ]
+          }
+        ],
+        "borderColors": [
+          {
+            "value": "rgb(0, 0, 0)",
+            "count": 5,
+            "sources": [
+              "div:nth-of-type(1) > div > div:nth-of-type(4) > div > div > div > div:nth-of-type(3) > button:nth-of-type(1)",
+              "div:nth-of-type(1) > div > div:nth-of-type(4) > div > div > div > div:nth-of-type(3) > button:nth-of-type(2)",
+              "div:nth-of-type(5) > div > div > section > div > div:nth-of-type(2) > div > a"
+            ]
+          },
+          {
+            "value": "rgb(255, 255, 255)",
+            "count": 3,
+            "sources": [
+              "div:nth-of-type(1) > div > div:nth-of-type(4) > div > div > div > div:nth-of-type(1) > button",
+              "div > div:nth-of-type(6) > div > div > section > div > div > a",
+              "#page-footer > div:nth-of-type(1) > div > div > div > div:nth-of-type(1) > div > a"
+            ]
+          },
+          {
+            "value": "rgb(148, 149, 150)",
+            "count": 1,
+            "sources": [
+              "div > div:nth-of-type(1) > form > div > div > div:nth-of-type(1) > div > input"
+            ]
+          },
+          {
+            "value": "rgb(214, 214, 214)",
+            "count": 1,
+            "sources": [
+              "header"
+            ]
+          },
+          {
+            "value": "rgb(89, 57, 20)",
+            "count": 1,
+            "sources": [
+              "#banner-carousel > div:nth-of-type(1) > section > div:nth-of-type(3) > a"
+            ]
+          }
+        ],
+        "customProps": {
+          "--header-bottom-offset": {
+            "declared": "0px",
+            "computed": "0px"
+          },
+          "--submenu-top-offset": {
+            "declared": "0px",
+            "computed": "0px"
+          },
+          "--screen-md": {
+            "declared": "768px",
+            "computed": "768px"
+          },
+          "--screen-lg": {
+            "declared": "1024px",
+            "computed": "1024px"
+          },
+          "--header-height": {
+            "declared": "79px",
+            "computed": "79px"
+          },
+          "--kl-reviews-color-light-gray": {
+            "declared": "#e9e9eb",
+            "computed": "#e9e9eb"
+          },
+          "--swiper-theme-color": {
+            "declared": "#007aff",
+            "computed": "#007aff"
+          },
+          "--swiper-navigation-size": {
+            "declared": "44px",
+            "computed": "44px"
+          }
+        },
+        "fonts": [
+          {
+            "family": "HydroFlask Sans",
+            "weight": "400",
+            "style": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "HydroFlask Sans",
+            "weight": "400",
+            "style": "italic",
+            "status": "unloaded"
+          },
+          {
+            "family": "HydroFlask Sans",
+            "weight": "500",
+            "style": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "HydroFlask Sans",
+            "weight": "500",
+            "style": "italic",
+            "status": "unloaded"
+          },
+          {
+            "family": "HydroFlask Sans",
+            "weight": "700",
+            "style": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "HydroFlask Sans",
+            "weight": "700",
+            "style": "italic",
+            "status": "unloaded"
+          },
+          {
+            "family": "HydroFlask Sans",
+            "weight": "800",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "HF Lets Go Font",
+            "weight": "400",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "icomoon",
+            "weight": "400",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "hydro-flask-sans-fallback",
+            "weight": "400",
+            "style": "normal",
+            "status": "error"
+          },
+          {
+            "family": "hydro-flask-sans-fallback",
+            "weight": "500",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "hydro-flask-sans-fallback",
+            "weight": "700",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "hydro-flask-sans-fallback",
+            "weight": "800",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "lets-go-fallback",
+            "weight": "400",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "weight": "400",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "weight": "400",
+            "style": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "Hydro Flask",
+            "weight": "700",
+            "style": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "Hydro Flask",
+            "weight": "700",
+            "style": "italic",
+            "status": "unloaded"
+          },
+          {
+            "family": "Hydro Flask",
+            "weight": "500",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Hydro Flask",
+            "weight": "500",
+            "style": "italic",
+            "status": "unloaded"
+          },
+          {
+            "family": "Hydro Flask",
+            "weight": "400",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Hydro Flask",
+            "weight": "400",
+            "style": "italic",
+            "status": "unloaded"
+          },
+          {
+            "family": "Hydro Flask ",
+            "weight": "700",
+            "style": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "Hydro Flask ",
+            "weight": "700",
+            "style": "italic",
+            "status": "unloaded"
+          },
+          {
+            "family": "Hydro Flask ",
+            "weight": "500",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Hydro Flask ",
+            "weight": "500",
+            "style": "italic",
+            "status": "unloaded"
+          },
+          {
+            "family": "Hydro Flask ",
+            "weight": "400",
+            "style": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "Hydro Flask ",
+            "weight": "400",
+            "style": "italic",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins-Klaviyo-Hosted",
+            "weight": "400",
+            "style": "italic",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins-Klaviyo-Hosted",
+            "weight": "700",
+            "style": "italic",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins-Klaviyo-Hosted",
+            "weight": "400",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins-Klaviyo-Hosted",
+            "weight": "700",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "swiper-icons",
+            "weight": "400",
+            "style": "normal",
+            "status": "unloaded"
+          }
+        ],
+        "logoCandidates": [
+          {
+            "tag": "img",
+            "selector": "#header > div:nth-of-type(1) > a > img",
+            "src": "https://www.hydroflask.com/static/version1793007280/frontend/MagebitHoT/hydroflask/en_US/images/logo.svg",
+            "inlineSvg": false,
+            "alt": "Hydroflask store logo",
+            "ariaLabel": null,
+            "class": "c-header-logo__image",
+            "id": null,
+            "href": "https://www.hydroflask.com/",
+            "inHomeLink": false,
+            "rect": {
+              "x": 10,
+              "y": 9,
+              "w": 95,
+              "h": 42
+            }
+          }
+        ],
+        "iconFont": {
+          "families": [
+            "icomoon",
+            "swiper-icons"
+          ],
+          "glyphs": []
+        },
+        "consent": {
+          "dismissed": null
+        },
+        "finalUrl": "https://www.hydroflask.com/"
+      },
+      "1440": {
+        "title": "Hydro Flask: Sustainable & Refillable Water Bottles | Hydro Flask",
+        "viewport": {
+          "width": 1440,
+          "height": 900
+        },
+        "elements": {
+          "total": 1837,
+          "visible": 560
+        },
+        "occluders": [
+          {
+            "tag": "div",
+            "id": null,
+            "class": "needsclick kl-private-reset-css-Xuajs1",
+            "coverage": 0.99,
+            "backgroundColor": "rgba(20, 20, 20, 0.6)"
+          }
+        ],
+        "headings": [
+          {
+            "tag": "h2",
+            "text": "World of Eric Carle™ x Hydro Flask",
+            "selector": "#banner-carousel > div:nth-of-type(1) > section > div:nth-of-type(3) > h2",
+            "fontFamily": "\"HydroFlask Sans\", hydro-flask-sans-fallback, sans-serif",
+            "fontSize": "48px",
+            "fontWeight": "700",
+            "lineHeight": "56.16px",
+            "letterSpacing": "0.1px",
+            "textTransform": "none",
+            "color": "rgb(89, 57, 20)"
+          },
+          {
+            "tag": "h2",
+            "text": "Lightweight Collection",
+            "selector": "div > div:nth-of-type(2) > div > div > div:nth-of-type(1) > div > div > h2",
+            "fontFamily": "\"HydroFlask Sans\", hydro-flask-sans-fallback, sans-serif",
+            "fontSize": "30px",
+            "fontWeight": "700",
+            "lineHeight": "37.5px",
+            "letterSpacing": "0.12px",
+            "textTransform": "none",
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "tag": "h2",
+            "text": "Sundae School x Hydro Flask",
+            "selector": "div > div > section > div > div:nth-of-type(1) > div:nth-of-type(1) > div > h2",
+            "fontFamily": "\"HydroFlask Sans\", hydro-flask-sans-fallback, sans-serif",
+            "fontSize": "36px",
+            "fontWeight": "700",
+            "lineHeight": "45px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(223, 222, 220)"
+          },
+          {
+            "tag": "h2",
+            "text": "Level up lunch",
+            "selector": "div > div:nth-of-type(2) > div > div > div:nth-of-type(1) > div > div > h2",
+            "fontFamily": "\"HydroFlask Sans\", hydro-flask-sans-fallback, sans-serif",
+            "fontSize": "30px",
+            "fontWeight": "700",
+            "lineHeight": "37.5px",
+            "letterSpacing": "0.12px",
+            "textTransform": "none",
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "tag": "h3",
+            "text": "Trending Now",
+            "selector": "div:nth-of-type(1) > div > div:nth-of-type(10) > div > div > section > div > h3",
+            "fontFamily": "\"HydroFlask Sans\", hydro-flask-sans-fallback, sans-serif",
+            "fontSize": "38px",
+            "fontWeight": "700",
+            "lineHeight": "43.966px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "tag": "h3",
+            "text": "Our commitment to responsible advocacy.",
+            "selector": "div > div:nth-of-type(11) > div > div > section > div > div:nth-of-type(2) > h3",
+            "fontFamily": "\"HydroFlask Sans\", hydro-flask-sans-fallback, sans-serif",
+            "fontSize": "27px",
+            "fontWeight": "700",
+            "lineHeight": "33.75px",
+            "letterSpacing": "0.1472px",
+            "textTransform": "none",
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "tag": "h2",
+            "text": "Support",
+            "selector": "div:nth-of-type(1) > div > div > div > div:nth-of-type(2) > div > div:nth-of-type(1) > h2",
+            "fontFamily": "\"HydroFlask Sans\", hydro-flask-sans-fallback, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "700",
+            "lineHeight": "28px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "tag": "h2",
+            "text": "Company",
+            "selector": "div:nth-of-type(1) > div > div > div > div:nth-of-type(2) > div > div:nth-of-type(2) > h2",
+            "fontFamily": "\"HydroFlask Sans\", hydro-flask-sans-fallback, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "700",
+            "lineHeight": "28px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "tag": "h2",
+            "text": "Account",
+            "selector": "div:nth-of-type(1) > div > div > div > div:nth-of-type(2) > div > div:nth-of-type(3) > h2",
+            "fontFamily": "\"HydroFlask Sans\", hydro-flask-sans-fallback, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "700",
+            "lineHeight": "28px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "tag": "h2",
+            "text": "Resources",
+            "selector": "div:nth-of-type(1) > div > div > div > div:nth-of-type(2) > div > div:nth-of-type(4) > h2",
+            "fontFamily": "\"HydroFlask Sans\", hydro-flask-sans-fallback, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "700",
+            "lineHeight": "28px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "tag": "h2",
+            "text": "Stay in touch!",
+            "selector": "div > div > div > div:nth-of-type(2) > div > div:nth-of-type(5) > div:nth-of-type(1) > h2",
+            "fontFamily": "\"HydroFlask Sans\", hydro-flask-sans-fallback, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "700",
+            "lineHeight": "28px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(0, 0, 0)"
+          }
+        ],
+        "text": [
+          {
+            "tag": "p",
+            "text": "Brown Bear and friends, now on your fav…",
+            "selector": "#banner-carousel > div:nth-of-type(1) > section > div:nth-of-type(3) > p",
+            "fontFamily": "\"HydroFlask Sans\", hydro-flask-sans-fallback, sans-serif",
+            "fontSize": "22px",
+            "fontWeight": "400",
+            "lineHeight": "30.8px",
+            "letterSpacing": "normal",
+            "textTransform": "none",
+            "color": "rgb(89, 57, 20)"
+          },
+          {
+            "tag": "p",
+            "text": "Kickoff cooler weather with Hydro Flask.",
+            "selector": "div:nth-of-type(5) > div > div > section > div > div:nth-of-type(2) > div > p",
+            "fontFamily": "\"HydroFlask Sans\", hydro-flask-sans-fallback, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "lineHeight": "20px",
+            "letterSpacing": "0.1px",
+            "textTransform": "none",
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "tag": "p",
+            "text": "Featuring custom doodles hand drawn by …",
+            "selector": "div > div:nth-of-type(6) > div > div > section > div > div > p:nth-of-type(2)",
+            "fontFamily": "\"HydroFlask Sans\", hydro-flask-sans-fallback, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "lineHeight": "27px",
+            "letterSpacing": "0.1px",
+            "textTransform": "none",
+            "color": "rgb(255, 255, 255)"
+          },
+          {
+            "tag": "p",
+            "text": "An iconic Sundae School fleece transfor…",
+            "selector": "div > div > section > div > div:nth-of-type(1) > div:nth-of-type(2) > div > p",
+            "fontFamily": "\"HydroFlask Sans\", hydro-flask-sans-fallback, sans-serif",
+            "fontSize": "22px",
+            "fontWeight": "400",
+            "lineHeight": "27.5px",
+            "letterSpacing": "0.1px",
+            "textTransform": "none",
+            "color": "rgb(0, 0, 0)"
+          },
+          {
+            "tag": "p",
+            "text": "Hydro Flask is proud to support Ocean C…",
+            "selector": "div > div:nth-of-type(11) > div > div > section > div > div:nth-of-type(2) > p",
+            "fontFamily": "\"HydroFlask Sans\", hydro-flask-sans-fallback, sans-serif",
+            "fontSize": "19.63px",
+            "fontWeight": "400",
+            "lineHeight": "29.445px",
+            "letterSpacing": "0.1472px",
+            "textTransform": "none",
+            "color": "rgb(0, 0, 0)"
+          }
+        ],
+        "buttons": [
+          {
+            "text": "⏸ ▶",
+            "selector": "div:nth-of-type(1) > div > div:nth-of-type(4) > div > div > div > div:nth-of-type(1) > button",
+            "count": 1,
+            "backgroundColor": "rgba(0, 0, 0, 0.7)",
+            "color": "rgb(255, 255, 255)",
+            "borderRadius": "4px",
+            "padding": "8px 12px",
+            "border": "2px solid rgb(255, 255, 255)",
+            "borderColor": "rgb(255, 255, 255)",
+            "boxShadow": "none",
+            "fontFamily": "\"HydroFlask Sans\", hydro-flask-sans-fallback, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "textTransform": "none",
+            "letterSpacing": "normal",
+            "hover": null
+          },
+          {
+            "text": "Shop New",
+            "selector": "div:nth-of-type(5) > div > div > section > div > div:nth-of-type(2) > div > a",
+            "count": 1,
+            "backgroundColor": "rgb(255, 255, 255)",
+            "color": "rgb(0, 0, 0)",
+            "borderRadius": "14px",
+            "padding": "10px 18px",
+            "border": "4px solid rgb(0, 0, 0)",
+            "borderColor": "rgb(0, 0, 0)",
+            "boxShadow": "none",
+            "fontFamily": "\"HydroFlask Sans\", hydro-flask-sans-fallback, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "700",
+            "textTransform": "none",
+            "letterSpacing": "0.1px",
+            "hover": null
+          },
+          {
+            "text": "Shop Now",
+            "selector": "div > div:nth-of-type(6) > div > div > section > div > div > a",
+            "count": 1,
+            "backgroundColor": "rgb(255, 255, 255)",
+            "color": "rgb(0, 0, 0)",
+            "borderRadius": "12px",
+            "padding": "10px",
+            "border": "4px solid rgb(255, 255, 255)",
+            "borderColor": "rgb(255, 255, 255)",
+            "boxShadow": "none",
+            "fontFamily": "\"HydroFlask Sans\", hydro-flask-sans-fallback, sans-serif",
+            "fontSize": "18px",
+            "fontWeight": "700",
+            "textTransform": "none",
+            "letterSpacing": "0.1px",
+            "hover": null
+          },
+          {
+            "text": "Shop Sundae School",
+            "selector": "div > div > section > div > div:nth-of-type(1) > div:nth-of-type(2) > div > a",
+            "count": 1,
+            "backgroundColor": "rgb(0, 0, 0)",
+            "color": "rgb(255, 255, 255)",
+            "borderRadius": "12px",
+            "padding": "0px 10px",
+            "border": "0px solid rgb(104, 102, 102)",
+            "borderColor": "rgb(104, 102, 102)",
+            "boxShadow": "none",
+            "fontFamily": "\"HydroFlask Sans\", hydro-flask-sans-fallback, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "700",
+            "textTransform": "none",
+            "letterSpacing": "normal",
+            "hover": null
+          },
+          {
+            "text": "Submit",
+            "selector": "div:nth-of-type(2) > div > div:nth-of-type(1) > form > div > div > div:nth-of-type(2) > button",
+            "count": 1,
+            "backgroundColor": "rgb(0, 0, 0)",
+            "color": "rgb(255, 255, 255)",
+            "borderRadius": "14px",
+            "padding": "0px 10px",
+            "border": "0px none rgb(29, 29, 29)",
+            "borderColor": "rgb(29, 29, 29)",
+            "boxShadow": "none",
+            "fontFamily": "Poppins, Helvetica, Arial, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "textTransform": "none",
+            "letterSpacing": "normal",
+            "hover": null
+          },
+          {
+            "text": "Hydro Finder",
+            "selector": "#html-body > div:nth-of-type(13) > div",
+            "count": 1,
+            "backgroundColor": "rgb(0, 0, 0)",
+            "color": "rgb(0, 0, 0)",
+            "borderRadius": "5px 5px 0px 0px",
+            "padding": "0px 20px",
+            "border": "0px solid rgb(104, 102, 102)",
+            "borderColor": "rgb(104, 102, 102)",
+            "boxShadow": "rgba(0, 0, 0, 0.4) -2px -2px 4px 0px",
+            "fontFamily": "\"HydroFlask Sans\", hydro-flask-sans-fallback, sans-serif",
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "textTransform": "none",
+            "letterSpacing": "normal",
+            "hover": null
+          }
+        ],
+        "links": [
+          {
+            "text": "Shop Eric Carle™",
+            "selector": "#banner-carousel > div:nth-of-type(1) > section > div:nth-of-type(3) > a",
+            "count": 1,
+            "color": "rgb(89, 57, 20)",
+            "textDecoration": "none",
+            "fontWeight": "700",
+            "hover": null
+          },
+          {
+            "text": "Tailgating",
+            "selector": "div > div:nth-of-type(5) > div > div > section > div > div:nth-of-type(1) > a:nth-of-type(1)",
+            "count": 4,
+            "color": "rgb(0, 0, 0)",
+            "textDecoration": "none",
+            "fontWeight": "400",
+            "hover": null
+          },
+          {
+            "text": "Shop Lightweight",
+            "selector": "div > div:nth-of-type(7) > div > div:nth-of-type(2) > div > div > div:nth-of-type(1) > a",
+            "count": 21,
+            "color": "rgb(0, 0, 0)",
+            "textDecoration": "none",
+            "fontWeight": "700",
+            "hover": null
+          }
+        ],
+        "surfaces": [
+          {
+            "matched": "header",
+            "selector": "header",
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "w": 1425,
+              "h": 93
+            },
+            "backgroundColor": "rgb(255, 255, 255)",
+            "color": "rgb(0, 0, 0)",
+            "padding": "0px",
+            "maxWidth": "none",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "position": "sticky",
+            "fontFamily": "\"HydroFlask Sans\", hydro-flask-sans-fallback, sans-serif",
+            "fontSize": "16px"
+          },
+          {
+            "matched": "nav",
+            "selector": "nav",
+            "rect": {
+              "x": 970,
+              "y": 5,
+              "w": 272,
+              "h": 23
+            },
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "color": "rgb(0, 0, 0)",
+            "padding": "0px",
+            "maxWidth": "none",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "position": "static",
+            "fontFamily": "\"HydroFlask Sans\", hydro-flask-sans-fallback, sans-serif",
+            "fontSize": "16px"
+          },
+          {
+            "matched": "nav",
+            "selector": "#megamenu-mobile-drawer",
+            "rect": {
+              "x": 382,
+              "y": 44,
+              "w": 731,
+              "h": 36
+            },
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "color": "rgb(0, 0, 0)",
+            "padding": "6px",
+            "maxWidth": "none",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "position": "static",
+            "fontFamily": "\"HydroFlask Sans\", hydro-flask-sans-fallback, sans-serif",
+            "fontSize": "16px"
+          },
+          {
+            "matched": "main",
+            "selector": "#maincontent",
+            "rect": {
+              "x": 0,
+              "y": 143,
+              "w": 1425,
+              "h": 4815
+            },
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "color": "rgb(0, 0, 0)",
+            "padding": "0px",
+            "maxWidth": "none",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "position": "static",
+            "fontFamily": "\"HydroFlask Sans\", hydro-flask-sans-fallback, sans-serif",
+            "fontSize": "16px"
+          },
+          {
+            "matched": "footer",
+            "selector": "#page-footer",
+            "rect": {
+              "x": 0,
+              "y": 4958,
+              "w": 1425,
+              "h": 1116
+            },
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "color": "rgb(0, 0, 0)",
+            "padding": "0px",
+            "maxWidth": "none",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "position": "static",
+            "fontFamily": "\"HydroFlask Sans\", hydro-flask-sans-fallback, sans-serif",
+            "fontSize": "16px"
+          },
+          {
+            "matched": "main > *",
+            "selector": "#maincontent > div:nth-of-type(1)",
+            "rect": {
+              "x": 0,
+              "y": 143,
+              "w": 1425,
+              "h": 4815
+            },
+            "backgroundColor": "rgba(0, 0, 0, 0)",
+            "color": "rgb(0, 0, 0)",
+            "padding": "0px",
+            "maxWidth": "none",
+            "borderRadius": "0px",
+            "boxShadow": "none",
+            "position": "static",
+            "fontFamily": "\"HydroFlask Sans\", hydro-flask-sans-fallback, sans-serif",
+            "fontSize": "16px"
+          }
+        ],
+        "radii": [
+          {
+            "value": "12px",
+            "count": 6,
+            "area": 59342,
+            "sources": [
+              "#banner-carousel > div:nth-of-type(1) > section > div:nth-of-type(3) > a",
+              "div > div:nth-of-type(6) > div > div > section > div > div > a",
+              "div > div:nth-of-type(7) > div > div:nth-of-type(2) > div > div > div:nth-of-type(1) > a"
+            ]
+          },
+          {
+            "value": "14px",
+            "count": 4,
+            "area": 41460,
+            "sources": [
+              "div:nth-of-type(5) > div > div > section > div > div:nth-of-type(2) > div > a",
+              "#page-footer > div:nth-of-type(1) > div > div > div > div:nth-of-type(1) > div > a",
+              "div > div:nth-of-type(1) > form > div > div > div:nth-of-type(1) > div > input"
+            ]
+          },
+          {
+            "value": "50%",
+            "count": 3,
+            "area": 2176,
+            "sources": [
+              "#userwayAccessibilityIcon",
+              "div:nth-of-type(1) > div > div:nth-of-type(4) > div > div > div > div:nth-of-type(3) > button:nth-of-type(1)",
+              "div:nth-of-type(1) > div > div:nth-of-type(4) > div > div > div > div:nth-of-type(3) > button:nth-of-type(2)"
+            ]
+          },
+          {
+            "value": "9999px",
+            "count": 2,
+            "area": 1152,
+            "sources": [
+              "#megamenu-utility-bar > div > button > span:nth-of-type(1)",
+              "div:nth-of-type(2) > div > div:nth-of-type(6) > div > div > div > button > span:nth-of-type(1)"
+            ]
+          },
+          {
+            "value": "5px 5px 0px 0px",
+            "count": 1,
+            "area": 5613,
+            "sources": [
+              "#html-body > div:nth-of-type(13) > div"
+            ]
+          },
+          {
+            "value": "4px",
+            "count": 1,
+            "area": 1936,
+            "sources": [
+              "div:nth-of-type(1) > div > div:nth-of-type(4) > div > div > div > div:nth-of-type(1) > button"
+            ]
+          }
+        ],
+        "shadows": [
+          {
+            "value": "rgb(0, 0, 0) 0px -2px 0px 0px inset",
+            "count": 6,
+            "sources": [
+              "div:nth-of-type(10) > div > div > section > div > ul > li:nth-of-type(1) > a",
+              "div:nth-of-type(10) > div > div > section > div > ul > li:nth-of-type(2) > a",
+              "div:nth-of-type(10) > div > div > section > div > ul > li:nth-of-type(3) > a"
+            ]
+          },
+          {
+            "value": "rgba(0, 0, 0, 0.4) -2px -2px 4px 0px",
+            "count": 1,
+            "sources": [
+              "#html-body > div:nth-of-type(13) > div"
+            ]
+          }
+        ],
+        "gradients": [],
+        "bgColors": [
+          {
+            "value": "rgb(0, 0, 0)",
+            "count": 15,
+            "area": 1247953,
+            "sources": [
+              "div:nth-of-type(1) > div > div:nth-of-type(4) > div > div > div > div:nth-of-type(3) > button:nth-of-type(1)",
+              "div > div:nth-of-type(5) > div > div > section > div > div:nth-of-type(2) > a",
+              "#maincontent > div:nth-of-type(1) > div > div:nth-of-type(6) > div > div > section > div"
+            ]
+          },
+          {
+            "value": "rgb(255, 255, 255)",
+            "count": 13,
+            "area": 10975894,
+            "sources": [
+              "#html-body",
+              "header",
+              "div:nth-of-type(1) > div > div:nth-of-type(4) > div > div > div > div:nth-of-type(3) > button:nth-of-type(2)"
+            ]
+          },
+          {
+            "value": "rgb(241, 241, 241)",
+            "count": 4,
+            "area": 3281968,
+            "sources": [
+              "#maincontent > div:nth-of-type(1) > div > div:nth-of-type(7)",
+              "#page-footer > div:nth-of-type(1) > div > div",
+              "#page-footer > div:nth-of-type(1) > div > div > div > div:nth-of-type(2)"
+            ]
+          },
+          {
+            "value": "rgb(132, 132, 132)",
+            "count": 4,
+            "area": 2528,
+            "sources": [
+              "div > div:nth-of-type(2) > div > div > div:nth-of-type(3) > div > div:nth-of-type(5) > button:nth-of-type(5)",
+              "div > div:nth-of-type(2) > div > div > div:nth-of-type(3) > div > div:nth-of-type(5) > button:nth-of-type(6)",
+              "div > div:nth-of-type(2) > div > div > div:nth-of-type(3) > div > div:nth-of-type(5) > button:nth-of-type(7)"
+            ]
+          },
+          {
+            "value": "rgb(240, 236, 230)",
+            "count": 1,
+            "area": 926250,
+            "sources": [
+              "#maincontent > div:nth-of-type(1) > div > div:nth-of-type(9)"
+            ]
+          },
+          {
+            "value": "rgb(165, 204, 211)",
+            "count": 1,
+            "area": 855000,
+            "sources": [
+              "#banner-carousel > div:nth-of-type(1) > section"
+            ]
+          },
+          {
+            "value": "rgb(204, 214, 203)",
+            "count": 1,
+            "area": 291057,
+            "sources": [
+              "div:nth-of-type(1) > div > div:nth-of-type(11) > div > div > section > div > div:nth-of-type(2)"
+            ]
+          },
+          {
+            "value": "rgb(215, 215, 211)",
+            "count": 1,
+            "area": 269850,
+            "sources": [
+              "div > div:nth-of-type(8) > div > div > section > div > div:nth-of-type(1) > div:nth-of-type(2)"
+            ]
+          },
+          {
+            "value": "rgb(60, 60, 60)",
+            "count": 1,
+            "area": 71250,
+            "sources": [
+              "#html-body > div:nth-of-type(11) > div:nth-of-type(2) > div:nth-of-type(1) > div > div > div:nth-of-type(1)"
+            ]
+          },
+          {
+            "value": "rgba(0, 0, 0, 0.7)",
+            "count": 1,
+            "area": 1936,
+            "sources": [
+              "div:nth-of-type(1) > div > div:nth-of-type(4) > div > div > div > div:nth-of-type(1) > button"
+            ]
+          },
+          {
+            "value": "rgb(0, 72, 255)",
+            "count": 1,
+            "area": 1024,
+            "sources": [
+              "#userwayAccessibilityIcon"
+            ]
+          }
+        ],
+        "textColors": [
+          {
+            "value": "rgb(0, 0, 0)",
+            "count": 103,
+            "sources": [
+              "#uw-skip-to-main > span:nth-of-type(1) > span:nth-of-type(2)",
+              "#uw-enable-visibility > span:nth-of-type(1) > span:nth-of-type(2)",
+              "#uw-open-accessibility > span:nth-of-type(1) > span:nth-of-type(2)"
+            ]
+          },
+          {
+            "value": "rgb(255, 255, 255)",
+            "count": 11,
+            "sources": [
+              "div:nth-of-type(2) > div:nth-of-type(1) > div > div > div:nth-of-type(1) > div > span > span",
+              "div:nth-of-type(1) > div > div > div:nth-of-type(1) > div > span > a > span",
+              "div:nth-of-type(2) > div:nth-of-type(1) > div > div > div:nth-of-type(2) > div > span > span"
+            ]
+          },
+          {
+            "value": "rgb(89, 57, 20)",
+            "count": 5,
+            "sources": [
+              "#banner-carousel > div:nth-of-type(1) > section > div:nth-of-type(3) > h2 > span:nth-of-type(1)",
+              "#banner-carousel > div:nth-of-type(1) > section > div:nth-of-type(3) > h2 > span:nth-of-type(1) > span",
+              "#banner-carousel > div:nth-of-type(1) > section > div:nth-of-type(3) > h2 > span:nth-of-type(2)"
+            ]
+          },
+          {
+            "value": "rgb(0, 116, 162)",
+            "count": 2,
+            "sources": [
+              "div > div > div:nth-of-type(2) > div > div:nth-of-type(5) > div:nth-of-type(2) > span > a",
+              "#teconsent > a:nth-of-type(1)"
+            ]
+          },
+          {
+            "value": "rgb(223, 222, 220)",
+            "count": 2,
+            "sources": [
+              "div > div > section > div > div:nth-of-type(1) > div:nth-of-type(1) > div > span",
+              "div > div > section > div > div:nth-of-type(1) > div:nth-of-type(1) > div > h2"
+            ]
+          }
+        ],
+        "borderColors": [
+          {
+            "value": "rgb(0, 0, 0)",
+            "count": 5,
+            "sources": [
+              "div:nth-of-type(1) > div > div:nth-of-type(4) > div > div > div > div:nth-of-type(3) > button:nth-of-type(1)",
+              "div:nth-of-type(1) > div > div:nth-of-type(4) > div > div > div > div:nth-of-type(3) > button:nth-of-type(2)",
+              "div:nth-of-type(5) > div > div > section > div > div:nth-of-type(2) > div > a"
+            ]
+          },
+          {
+            "value": "rgb(255, 255, 255)",
+            "count": 3,
+            "sources": [
+              "div:nth-of-type(1) > div > div:nth-of-type(4) > div > div > div > div:nth-of-type(1) > button",
+              "div > div:nth-of-type(6) > div > div > section > div > div > a",
+              "#page-footer > div:nth-of-type(1) > div > div > div > div:nth-of-type(1) > div > a"
+            ]
+          },
+          {
+            "value": "rgb(148, 149, 150)",
+            "count": 1,
+            "sources": [
+              "div > div:nth-of-type(1) > form > div > div > div:nth-of-type(1) > div > input"
+            ]
+          },
+          {
+            "value": "rgb(214, 214, 214)",
+            "count": 1,
+            "sources": [
+              "header"
+            ]
+          },
+          {
+            "value": "rgb(89, 57, 20)",
+            "count": 1,
+            "sources": [
+              "#banner-carousel > div:nth-of-type(1) > section > div:nth-of-type(3) > a"
+            ]
+          }
+        ],
+        "customProps": {
+          "--header-bottom-offset": {
+            "declared": "0px",
+            "computed": "0px"
+          },
+          "--submenu-top-offset": {
+            "declared": "0px",
+            "computed": "0px"
+          },
+          "--screen-md": {
+            "declared": "768px",
+            "computed": "768px"
+          },
+          "--screen-lg": {
+            "declared": "1024px",
+            "computed": "1024px"
+          },
+          "--header-height": {
+            "declared": "79px",
+            "computed": "79px"
+          },
+          "--kl-reviews-color-light-gray": {
+            "declared": "#e9e9eb",
+            "computed": "#e9e9eb"
+          },
+          "--swiper-theme-color": {
+            "declared": "#007aff",
+            "computed": "#007aff"
+          },
+          "--swiper-navigation-size": {
+            "declared": "44px",
+            "computed": "44px"
+          }
+        },
+        "fonts": [
+          {
+            "family": "HydroFlask Sans",
+            "weight": "400",
+            "style": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "HydroFlask Sans",
+            "weight": "400",
+            "style": "italic",
+            "status": "unloaded"
+          },
+          {
+            "family": "HydroFlask Sans",
+            "weight": "500",
+            "style": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "HydroFlask Sans",
+            "weight": "500",
+            "style": "italic",
+            "status": "unloaded"
+          },
+          {
+            "family": "HydroFlask Sans",
+            "weight": "700",
+            "style": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "HydroFlask Sans",
+            "weight": "700",
+            "style": "italic",
+            "status": "unloaded"
+          },
+          {
+            "family": "HydroFlask Sans",
+            "weight": "800",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "HF Lets Go Font",
+            "weight": "400",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "icomoon",
+            "weight": "400",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "hydro-flask-sans-fallback",
+            "weight": "400",
+            "style": "normal",
+            "status": "error"
+          },
+          {
+            "family": "hydro-flask-sans-fallback",
+            "weight": "500",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "hydro-flask-sans-fallback",
+            "weight": "700",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "hydro-flask-sans-fallback",
+            "weight": "800",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "lets-go-fallback",
+            "weight": "400",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "weight": "400",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins",
+            "weight": "400",
+            "style": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "Hydro Flask",
+            "weight": "700",
+            "style": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "Hydro Flask",
+            "weight": "700",
+            "style": "italic",
+            "status": "unloaded"
+          },
+          {
+            "family": "Hydro Flask",
+            "weight": "500",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Hydro Flask",
+            "weight": "500",
+            "style": "italic",
+            "status": "unloaded"
+          },
+          {
+            "family": "Hydro Flask",
+            "weight": "400",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Hydro Flask",
+            "weight": "400",
+            "style": "italic",
+            "status": "unloaded"
+          },
+          {
+            "family": "Hydro Flask ",
+            "weight": "700",
+            "style": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "Hydro Flask ",
+            "weight": "700",
+            "style": "italic",
+            "status": "unloaded"
+          },
+          {
+            "family": "Hydro Flask ",
+            "weight": "500",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Hydro Flask ",
+            "weight": "500",
+            "style": "italic",
+            "status": "unloaded"
+          },
+          {
+            "family": "Hydro Flask ",
+            "weight": "400",
+            "style": "normal",
+            "status": "loaded"
+          },
+          {
+            "family": "Hydro Flask ",
+            "weight": "400",
+            "style": "italic",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins-Klaviyo-Hosted",
+            "weight": "400",
+            "style": "italic",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins-Klaviyo-Hosted",
+            "weight": "700",
+            "style": "italic",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins-Klaviyo-Hosted",
+            "weight": "400",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Poppins-Klaviyo-Hosted",
+            "weight": "700",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "swiper-icons",
+            "weight": "400",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Galano Grotesque",
+            "weight": "normal",
+            "style": "normal",
+            "status": "unloaded"
+          },
+          {
+            "family": "Galano Grotesque Bold",
+            "weight": "normal",
+            "style": "normal",
+            "status": "unloaded"
+          }
+        ],
+        "logoCandidates": [
+          {
+            "tag": "img",
+            "selector": "#header > div:nth-of-type(1) > a > img",
+            "src": "https://www.hydroflask.com/static/version1793007280/frontend/MagebitHoT/hydroflask/en_US/images/logo.svg",
+            "inlineSvg": false,
+            "alt": "Hydroflask store logo",
+            "ariaLabel": null,
+            "class": "c-header-logo__image",
+            "id": null,
+            "href": "https://www.hydroflask.com/",
+            "inHomeLink": false,
+            "rect": {
+              "x": 63,
+              "y": 27,
+              "w": 204,
+              "h": 48
+            }
+          }
+        ],
+        "iconFont": {
+          "families": [
+            "icomoon",
+            "swiper-icons"
+          ],
+          "glyphs": []
+        },
+        "consent": {
+          "dismissed": "#truste-consent-button"
+        },
+        "finalUrl": "https://www.hydroflask.com/"
+      }
+    }
+  },
+  "aggregate": {
+    "counts": {
+      "pages": 1,
+      "widths": [
+        360,
+        1440
+      ],
+      "measurements": 2
+    },
+    "colors": [
+      {
+        "hex": "#000000",
+        "values": [
+          "rgb(0, 0, 0)"
+        ],
+        "weight": 314,
+        "bgArea": 1707165,
+        "by": {
+          "text": 196,
+          "link": 50,
+          "background": 26,
+          "border": 10,
+          "button-background": 6,
+          "button-border": 2,
+          "button-text": 6,
+          "heading": 18
+        },
+        "roles": [
+          "text",
+          "primary",
+          "border",
+          "heading"
+        ],
+        "sources": [
+          {
+            "url": "https://www.hydroflask.com/",
+            "selector": "#uw-skip-to-main > span:nth-of-type(1) > span:nth-of-type(2)",
+            "prop": "text"
+          },
+          {
+            "url": "https://www.hydroflask.com/",
+            "selector": "div > div:nth-of-type(7) > div > div:nth-of-type(2) > div > div > div:nth-of-type(1) > a",
+            "prop": "link"
+          },
+          {
+            "url": "https://www.hydroflask.com/",
+            "selector": "div:nth-of-type(1) > div > div:nth-of-type(4) > div > div > div > div:nth-of-type(3) > button:nth-of-type(1)",
+            "prop": "background"
+          },
+          {
+            "url": "https://www.hydroflask.com/",
+            "selector": "div:nth-of-type(1) > div > div:nth-of-type(4) > div > div > div > div:nth-of-type(3) > button:nth-of-type(1)",
+            "prop": "border"
+          },
+          {
+            "url": "https://www.hydroflask.com/",
+            "selector": "div > div:nth-of-type(5) > div > div > section > div > div:nth-of-type(1) > a:nth-of-type(1)",
+            "prop": "link"
+          }
+        ]
+      },
+      {
+        "hex": "#ffffff",
+        "values": [
+          "rgb(255, 255, 255)"
+        ],
+        "weight": 68,
+        "bgArea": 14171141,
+        "by": {
+          "background": 26,
+          "text": 22,
+          "border": 6,
+          "button-background": 4,
+          "button-border": 4,
+          "button-text": 6
+        },
+        "roles": [
+          "background"
+        ],
+        "sources": [
+          {
+            "url": "https://www.hydroflask.com/",
+            "selector": "#html-body",
+            "prop": "background"
+          },
+          {
+            "url": "https://www.hydroflask.com/",
+            "selector": "div:nth-of-type(2) > div:nth-of-type(1) > div > div > div:nth-of-type(1) > div > span > span",
+            "prop": "text"
+          },
+          {
+            "url": "https://www.hydroflask.com/",
+            "selector": "div:nth-of-type(1) > div > div:nth-of-type(4) > div > div > div > div:nth-of-type(1) > button",
+            "prop": "border"
+          },
+          {
+            "url": "https://www.hydroflask.com/",
+            "selector": "div > div:nth-of-type(6) > div > div > section > div > div > a",
+            "prop": "button-background"
+          },
+          {
+            "url": "https://www.hydroflask.com/",
+            "selector": "div:nth-of-type(5) > div > div > section > div > div:nth-of-type(2) > div > a",
+            "prop": "button-background"
+          }
+        ]
+      },
+      {
+        "hex": "#f1f1f1",
+        "values": [
+          "rgb(241, 241, 241)",
+          "rgb(240, 236, 230)"
+        ],
+        "weight": 10,
+        "bgArea": 5649452,
+        "by": {
+          "background": 10
+        },
+        "roles": [
+          "surface"
+        ],
+        "sources": [
+          {
+            "url": "https://www.hydroflask.com/",
+            "selector": "#maincontent > div:nth-of-type(1) > div > div:nth-of-type(7)",
+            "prop": "background"
+          },
+          {
+            "url": "https://www.hydroflask.com/",
+            "selector": "#maincontent > div:nth-of-type(1) > div > div:nth-of-type(9)",
+            "prop": "background"
+          }
+        ]
+      },
+      {
+        "hex": "#000000b3",
+        "values": [
+          "rgba(0, 0, 0, 0.7)"
+        ],
+        "weight": 4,
+        "bgArea": 3872,
+        "by": {
+          "background": 2,
+          "button-background": 2
+        },
+        "roles": [
+          "secondary"
+        ],
+        "sources": [
+          {
+            "url": "https://www.hydroflask.com/",
+            "selector": "div:nth-of-type(1) > div > div:nth-of-type(4) > div > div > div > div:nth-of-type(1) > button",
+            "prop": "background"
+          },
+          {
+            "url": "https://www.hydroflask.com/",
+            "selector": "div:nth-of-type(1) > div > div:nth-of-type(4) > div > div > div > div:nth-of-type(1) > button",
+            "prop": "button-background"
+          }
+        ]
+      },
+      {
+        "hex": "#686666",
+        "values": [
+          "rgb(104, 102, 102)"
+        ],
+        "weight": 4,
+        "by": {
+          "button-border": 4
+        },
+        "roles": [
+          "accent"
+        ],
+        "sources": [
+          {
+            "url": "https://www.hydroflask.com/",
+            "selector": "#html-body > div:nth-of-type(13) > div",
+            "prop": "button-border"
+          },
+          {
+            "url": "https://www.hydroflask.com/",
+            "selector": "div > div > section > div > div:nth-of-type(1) > div:nth-of-type(2) > div > a",
+            "prop": "button-border"
+          }
+        ]
+      },
+      {
+        "hex": "#593914",
+        "values": [
+          "rgb(89, 57, 20)"
+        ],
+        "weight": 16,
+        "by": {
+          "text": 10,
+          "border": 2,
+          "heading": 2,
+          "link": 2
+        },
+        "roles": [],
+        "sources": [
+          {
+            "url": "https://www.hydroflask.com/",
+            "selector": "#banner-carousel > div:nth-of-type(1) > section > div:nth-of-type(3) > h2 > span:nth-of-type(1)",
+            "prop": "text"
+          },
+          {
+            "url": "https://www.hydroflask.com/",
+            "selector": "#banner-carousel > div:nth-of-type(1) > section > div:nth-of-type(3) > a",
+            "prop": "border"
+          },
+          {
+            "url": "https://www.hydroflask.com/",
+            "selector": "#banner-carousel > div:nth-of-type(1) > section > div:nth-of-type(3) > h2",
+            "prop": "heading"
+          },
+          {
+            "url": "https://www.hydroflask.com/",
+            "selector": "#banner-carousel > div:nth-of-type(1) > section > div:nth-of-type(3) > a",
+            "prop": "link"
+          }
+        ]
+      },
+      {
+        "hex": "#848484",
+        "values": [
+          "rgb(132, 132, 132)"
+        ],
+        "weight": 12,
+        "bgArea": 3976,
+        "by": {
+          "background": 12
+        },
+        "roles": [],
+        "sources": [
+          {
+            "url": "https://www.hydroflask.com/",
+            "selector": "div > div:nth-of-type(2) > div > div > div:nth-of-type(3) > div > div:nth-of-type(5) > button:nth-of-type(3)",
+            "prop": "background"
+          },
+          {
+            "url": "https://www.hydroflask.com/",
+            "selector": "div > div:nth-of-type(2) > div > div > div:nth-of-type(3) > div > div:nth-of-type(5) > button:nth-of-type(5)",
+            "prop": "background"
+          }
+        ]
+      },
+      {
+        "hex": "#ccd6cb",
+        "values": [
+          "rgb(204, 214, 203)",
+          "rgb(215, 215, 211)",
+          "rgb(214, 214, 214)"
+        ],
+        "weight": 7,
+        "bgArea": 813693,
+        "by": {
+          "background": 5,
+          "border": 2
+        },
+        "roles": [],
+        "sources": [
+          {
+            "url": "https://www.hydroflask.com/",
+            "selector": "div:nth-of-type(1) > div > div:nth-of-type(11) > div > div > section > div > div:nth-of-type(2)",
+            "prop": "background"
+          },
+          {
+            "url": "https://www.hydroflask.com/",
+            "selector": "div > div:nth-of-type(8) > div > div > section > div > div:nth-of-type(1) > div:nth-of-type(2)",
+            "prop": "background"
+          },
+          {
+            "url": "https://www.hydroflask.com/",
+            "selector": "header",
+            "prop": "border"
+          }
+        ]
+      },
+      {
+        "hex": "#dfdedc",
+        "values": [
+          "rgb(223, 222, 220)"
+        ],
+        "weight": 6,
+        "by": {
+          "text": 4,
+          "heading": 2
+        },
+        "roles": [],
+        "sources": [
+          {
+            "url": "https://www.hydroflask.com/",
+            "selector": "div > div > section > div > div:nth-of-type(1) > div:nth-of-type(1) > div > span",
+            "prop": "text"
+          },
+          {
+            "url": "https://www.hydroflask.com/",
+            "selector": "div > div > section > div > div:nth-of-type(1) > div:nth-of-type(1) > div > h2",
+            "prop": "heading"
+          }
+        ]
+      },
+      {
+        "hex": "#0074a2",
+        "values": [
+          "rgb(0, 116, 162)"
+        ],
+        "weight": 4,
+        "by": {
+          "text": 4
+        },
+        "roles": [],
+        "sources": [
+          {
+            "url": "https://www.hydroflask.com/",
+            "selector": "div > div > div:nth-of-type(2) > div > div:nth-of-type(5) > div:nth-of-type(2) > span > a",
+            "prop": "text"
+          }
+        ]
+      },
+      {
+        "hex": "#0048ff",
+        "values": [
+          "rgb(0, 72, 255)"
+        ],
+        "weight": 2,
+        "bgArea": 2048,
+        "by": {
+          "background": 2
+        },
+        "roles": [],
+        "sources": [
+          {
+            "url": "https://www.hydroflask.com/",
+            "selector": "#userwayAccessibilityIcon",
+            "prop": "background"
+          }
+        ]
+      },
+      {
+        "hex": "#949596",
+        "values": [
+          "rgb(148, 149, 150)"
+        ],
+        "weight": 2,
+        "by": {
+          "border": 2
+        },
+        "roles": [],
+        "sources": [
+          {
+            "url": "https://www.hydroflask.com/",
+            "selector": "div > div:nth-of-type(1) > form > div > div > div:nth-of-type(1) > div > input",
+            "prop": "border"
+          }
+        ]
+      },
+      {
+        "hex": "#a5ccd3",
+        "values": [
+          "rgb(165, 204, 211)"
+        ],
+        "weight": 2,
+        "bgArea": 1079250,
+        "by": {
+          "background": 2
+        },
+        "roles": [],
+        "sources": [
+          {
+            "url": "https://www.hydroflask.com/",
+            "selector": "#banner-carousel > div:nth-of-type(1) > section",
+            "prop": "background"
+          }
+        ]
+      },
+      {
+        "hex": "#2e3442",
+        "values": [
+          "rgb(46, 52, 66)"
+        ],
+        "weight": 1,
+        "bgArea": 25530,
+        "by": {
+          "background": 1
+        },
+        "roles": [],
+        "sources": [
+          {
+            "url": "https://www.hydroflask.com/",
+            "selector": "#html-body > div:nth-of-type(11) > div:nth-of-type(2) > div:nth-of-type(1) > div > div > div:nth-of-type(3)",
+            "prop": "background"
+          }
+        ]
+      },
+      {
+        "hex": "#3c3c3c",
+        "values": [
+          "rgb(60, 60, 60)"
+        ],
+        "weight": 1,
+        "bgArea": 71250,
+        "by": {
+          "background": 1
+        },
+        "roles": [],
+        "sources": [
+          {
+            "url": "https://www.hydroflask.com/",
+            "selector": "#html-body > div:nth-of-type(11) > div:nth-of-type(2) > div:nth-of-type(1) > div > div > div:nth-of-type(1)",
+            "prop": "background"
+          }
+        ]
+      }
+    ],
+    "type": {
+      "families": [
+        {
+          "family": "HydroFlask Sans",
+          "count": 42,
+          "headings": 22,
+          "text": 10,
+          "buttons": 10
+        },
+        {
+          "family": "Poppins",
+          "count": 2,
+          "headings": 0,
+          "text": 0,
+          "buttons": 2
+        }
+      ],
+      "headingFamily": "HydroFlask Sans",
+      "bodyFamily": "HydroFlask Sans",
+      "sizes": [
+        {
+          "px": 48,
+          "count": 1,
+          "headings": 1,
+          "text": 0,
+          "buttons": 0
+        },
+        {
+          "px": 38,
+          "count": 1,
+          "headings": 1,
+          "text": 0,
+          "buttons": 0
+        },
+        {
+          "px": 36,
+          "count": 1,
+          "headings": 1,
+          "text": 0,
+          "buttons": 0
+        },
+        {
+          "px": 30,
+          "count": 3,
+          "headings": 3,
+          "text": 0,
+          "buttons": 0
+        },
+        {
+          "px": 28,
+          "count": 1,
+          "headings": 1,
+          "text": 0,
+          "buttons": 0
+        },
+        {
+          "px": 27,
+          "count": 1,
+          "headings": 1,
+          "text": 0,
+          "buttons": 0
+        },
+        {
+          "px": 24,
+          "count": 2,
+          "headings": 2,
+          "text": 0,
+          "buttons": 0
+        },
+        {
+          "px": 22,
+          "count": 3,
+          "headings": 1,
+          "text": 2,
+          "buttons": 0
+        },
+        {
+          "px": 19.63,
+          "count": 1,
+          "headings": 0,
+          "text": 1,
+          "buttons": 0
+        },
+        {
+          "px": 18,
+          "count": 13,
+          "headings": 10,
+          "text": 2,
+          "buttons": 1
+        },
+        {
+          "px": 16,
+          "count": 17,
+          "headings": 1,
+          "text": 5,
+          "buttons": 11
+        }
+      ],
+      "weights": [
+        {
+          "weight": "700",
+          "count": 28,
+          "headings": 22,
+          "text": 0,
+          "buttons": 6
+        },
+        {
+          "weight": "400",
+          "count": 16,
+          "headings": 0,
+          "text": 10,
+          "buttons": 6
+        }
+      ],
+      "levels": {
+        "h2": {
+          "fontSize": 18,
+          "fontWeight": "700",
+          "count": 10,
+          "score": 99.61
+        },
+        "h3": {
+          "fontSize": 38,
+          "fontWeight": "700",
+          "count": 1,
+          "score": 66.5
+        }
+      }
+    },
+    "motifs": {
+      "radius": {
+        "mode": "12px",
+        "areaMode": "12px",
+        "pill": "50%",
+        "values": [
+          {
+            "value": "12px",
+            "count": 12,
+            "area": 112514,
+            "sources": [
+              {
+                "url": "https://www.hydroflask.com/",
+                "selector": "#banner-carousel > div:nth-of-type(1) > section > div:nth-of-type(3) > a"
+              },
+              {
+                "url": "https://www.hydroflask.com/",
+                "selector": "div > div:nth-of-type(6) > div > div > section > div > div > a"
+              },
+              {
+                "url": "https://www.hydroflask.com/",
+                "selector": "div > div:nth-of-type(7) > div > div:nth-of-type(2) > div > div > div:nth-of-type(1) > a"
+              }
+            ]
+          },
+          {
+            "value": "14px",
+            "count": 7,
+            "area": 73310,
+            "sources": [
+              {
+                "url": "https://www.hydroflask.com/",
+                "selector": "div:nth-of-type(5) > div > div > section > div > div:nth-of-type(2) > div > a"
+              },
+              {
+                "url": "https://www.hydroflask.com/",
+                "selector": "div > div:nth-of-type(1) > form > div > div > div:nth-of-type(1) > div > input"
+              },
+              {
+                "url": "https://www.hydroflask.com/",
+                "selector": "div:nth-of-type(2) > div > div:nth-of-type(1) > form > div > div > div:nth-of-type(2) > button"
+              },
+              {
+                "url": "https://www.hydroflask.com/",
+                "selector": "#page-footer > div:nth-of-type(1) > div > div > div > div:nth-of-type(1) > div > a"
+              }
+            ]
+          },
+          {
+            "value": "50%",
+            "count": 6,
+            "area": 4352,
+            "sources": [
+              {
+                "url": "https://www.hydroflask.com/",
+                "selector": "#userwayAccessibilityIcon"
+              },
+              {
+                "url": "https://www.hydroflask.com/",
+                "selector": "div:nth-of-type(1) > div > div:nth-of-type(4) > div > div > div > div:nth-of-type(3) > button:nth-of-type(1)"
+              },
+              {
+                "url": "https://www.hydroflask.com/",
+                "selector": "div:nth-of-type(1) > div > div:nth-of-type(4) > div > div > div > div:nth-of-type(3) > button:nth-of-type(2)"
+              }
+            ]
+          },
+          {
+            "value": "9999px",
+            "count": 3,
+            "area": 1728,
+            "sources": [
+              {
+                "url": "https://www.hydroflask.com/",
+                "selector": "div:nth-of-type(2) > div > div:nth-of-type(6) > div > div > div > button > span:nth-of-type(1)"
+              },
+              {
+                "url": "https://www.hydroflask.com/",
+                "selector": "#megamenu-utility-bar > div > button > span:nth-of-type(1)"
+              }
+            ]
+          },
+          {
+            "value": "4px",
+            "count": 2,
+            "area": 3872,
+            "sources": [
+              {
+                "url": "https://www.hydroflask.com/",
+                "selector": "div:nth-of-type(1) > div > div:nth-of-type(4) > div > div > div > div:nth-of-type(1) > button"
+              }
+            ]
+          },
+          {
+            "value": "5px 5px 0px 0px",
+            "count": 2,
+            "area": 11226,
+            "sources": [
+              {
+                "url": "https://www.hydroflask.com/",
+                "selector": "#html-body > div:nth-of-type(13) > div"
+              }
+            ]
+          },
+          {
+            "value": "11.255px",
+            "count": 1,
+            "area": 5964,
+            "sources": [
+              {
+                "url": "https://www.hydroflask.com/",
+                "selector": "#page-footer > div:nth-of-type(1) > div > div > div > div:nth-of-type(1) > div > a"
+              }
+            ]
+          }
+        ]
+      },
+      "shadows": [
+        {
+          "value": "rgb(0, 0, 0) 0px -2px 0px 0px inset",
+          "count": 12,
+          "sources": [
+            {
+              "url": "https://www.hydroflask.com/",
+              "selector": "div:nth-of-type(10) > div > div > section > div > ul > li:nth-of-type(1) > a"
+            },
+            {
+              "url": "https://www.hydroflask.com/",
+              "selector": "div:nth-of-type(10) > div > div > section > div > ul > li:nth-of-type(2) > a"
+            },
+            {
+              "url": "https://www.hydroflask.com/",
+              "selector": "div:nth-of-type(10) > div > div > section > div > ul > li:nth-of-type(3) > a"
+            }
+          ]
+        },
+        {
+          "value": "rgba(0, 0, 0, 0.4) -2px -2px 4px 0px",
+          "count": 2,
+          "sources": [
+            {
+              "url": "https://www.hydroflask.com/",
+              "selector": "#html-body > div:nth-of-type(13) > div"
+            }
+          ]
+        }
+      ],
+      "gradients": []
+    },
+    "hover": [],
+    "logo": {
+      "source": "img",
+      "url": "https://www.hydroflask.com/",
+      "width": 360,
+      "selector": "#header > div:nth-of-type(1) > a > img",
+      "src": "https://www.hydroflask.com/static/version1793007280/frontend/MagebitHoT/hydroflask/en_US/images/logo.svg",
+      "alt": "Hydroflask store logo",
+      "rect": {
+        "x": 10,
+        "y": 9,
+        "w": 95,
+        "h": 42
+      },
+      "inHomeLink": false
+    },
+    "iconFont": {
+      "families": [
+        "icomoon",
+        "swiper-icons"
+      ],
+      "glyphs": []
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "detector": {
+    "ignoreRules": [],
+    "ignoreFiles": [],
+    "ignoreValues": [
+      {
+        "rule": "side-tab",
+        "value": "*",
+        "files": [
+          "stardust/prototypes/css/index.css"
+        ],
+        "createdAt": "2026-10-29T20:13:29.740Z",
+        "reason": "agent: false positive — rotated 2-side border is the Trending Now chevron arrow, lifted verbatim from the source site's .category-bars .bar-link:hover::after rule (same-design replica)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:dynamics",
+    "writtenAt": "2026-10-29T22:20:00Z"
+  },
+  "method": "Single home page. Self features rebuilt natively in EDS blocks (header, hero-carousel, product-carousel as authored rows); owner-decision features ship interim tiers (D1-D6 in stardust/dynamic-features.md); third-party tags scaffolded off.",
+  "features": [
+    {
+      "id": "hero-carousel",
+      "feature": "auto-rotating hero banner slider (pause/play, dots)",
+      "class": "M/V",
+      "pages": 1,
+      "disposition": "rebuild-native",
+      "reproducibility": "self",
+      "status": "done",
+      "verifiedBy": "3 controls (pause + 2 dots), 2 slides",
+      "checks": [
+        {
+          "type": "dom-count",
+          "path": "/",
+          "selector": ".hero-carousel .hero-slide",
+          "min": 2
+        },
+        {
+          "type": "dom-count",
+          "path": "/",
+          "selector": ".hero-carousel .hero-controls button, .hero-carousel .hero-dot",
+          "min": 3
+        }
+      ]
+    },
+    {
+      "id": "product-carousels",
+      "feature": "product tile sliders (2), authored rows",
+      "class": "L",
+      "pages": 1,
+      "disposition": "static-snapshot",
+      "reproducibility": "self",
+      "status": "done",
+      "snapshot": "2026-10-29",
+      "owner": "D3: product data refresh source for the carousels",
+      "verifiedBy": "2 carousels, 12 product tiles",
+      "checks": [
+        {
+          "type": "dom-count",
+          "path": "/",
+          "selector": ".product-carousel",
+          "min": 2
+        },
+        {
+          "type": "dom-count",
+          "path": "/",
+          "selector": ".product-carousel .product-image",
+          "min": 8
+        }
+      ]
+    },
+    {
+      "id": "chrome-megamenu",
+      "feature": "header mega-menu, account, locale and cart panels",
+      "class": "M",
+      "pages": 1,
+      "disposition": "rebuild-native",
+      "reproducibility": "self",
+      "status": "done",
+      "verifiedBy": "5 mega-menu triggers; store switcher dialog 744px \"Choose Your Location\", Escape closes",
+      "checks": [
+        {
+          "type": "dom-count",
+          "path": "/",
+          "selector": "header button[aria-controls^='nav-mega-']",
+          "min": 3
+        },
+        {
+          "type": "click-dialog",
+          "path": "/",
+          "trigger": "header button[aria-controls='header-locale-panel']",
+          "headingIncludes": "Choose Your Location",
+          "minWidth": 300
+        }
+      ]
+    },
+    {
+      "id": "newsletter-forms",
+      "feature": "footer 'Stay in touch' newsletter form",
+      "class": "F",
+      "pages": 1,
+      "disposition": "rebuild-native UI, submission interim",
+      "reproducibility": "needs-backend",
+      "status": "interim",
+      "owner": "D4: newsletter endpoint (Klaviyo list) on the new host; until then the form refuses an empty or invalid email and states that no data was sent",
+      "verifiedBy": "required email input; empty/invalid refused; filled states no data sent (no backend, D4)",
+      "checks": [
+        {
+          "type": "dom-count",
+          "path": "/",
+          "selector": "footer form.footer-form input[type=email][required]",
+          "min": 1
+        }
+      ]
+    },
+    {
+      "id": "tags",
+      "feature": "TrustArc CMP, Adobe Launch, Klaviyo, Impact, Crobox, Kustomer, UserWay, Cloudflare insights, RapidSpike",
+      "class": "T",
+      "pages": 1,
+      "disposition": "embed-passthrough, scaffolded OFF",
+      "reproducibility": "needs-business-decision",
+      "status": "scaffolded-awaiting-owner",
+      "owner": "D5: which tags and which consent manager run on the new host",
+      "verifiedBy": "0 requests to 11 tag host patterns; 0 page errors",
+      "checks": [
+        {
+          "type": "consent-gate",
+          "path": "/",
+          "forbiddenHosts": [
+            "trustarc.com",
+            "adobedtm.com",
+            "klaviyo.com",
+            "impactcdn.com",
+            "pxf.io",
+            "crobox.com",
+            "kustomerapp.com",
+            "userway.org",
+            "rapidspike.com",
+            "cloudflareinsights.com",
+            "ojrq.net"
+          ]
+        },
+        {
+          "type": "no-page-errors",
+          "paths": [
+            "/"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "site-search",
+      "feature": "header search",
+      "class": "S",
+      "pages": 1,
+      "disposition": "link-out interim to the store's search results",
+      "reproducibility": "needs-business-decision",
+      "status": "interim",
+      "owner": "D2: search backend on the new host",
+      "checks": []
+    },
+    {
+      "id": "account-cart",
+      "feature": "sign-in / account / cart",
+      "class": "X",
+      "pages": 1,
+      "disposition": "link-out to the existing store",
+      "reproducibility": "needs-backend",
+      "status": "interim",
+      "owner": "D1: commerce and auth on the new host",
+      "checks": []
+    },
+    {
+      "id": "locales",
+      "feature": "hreflang locale variants",
+      "class": "I18N",
+      "pages": 1,
+      "disposition": "hreflang kept pointing at source locales",
+      "reproducibility": "needs-business-decision",
+      "status": "interim",
+      "owner": "D6: locale trees",
+      "checks": []
+    },
+    {
+      "id": "settings-objects",
+      "feature": "dataLayer / adobeDataLayer",
+      "class": "A",
+      "pages": 1,
+      "disposition": "static-snapshot (no consumer on the migrated page)",
+      "reproducibility": "self",
+      "status": "done",
+      "verifiedBy": "no consumer: tags off (D5)",
+      "checks": []
+    }
+  ]
+}
