@@ -1,0 +1,102 @@
+{
+  "units": {
+    "foundation": {
+      "status": "done",
+      "kind": "foundation",
+      "templates": [
+        "index"
+      ],
+      "pages": 0,
+      "blocks": 2,
+      "startedAt": "2026-10-29T20:16:06Z",
+      "endedAt": "2026-10-29T20:46:24Z",
+      "gates": {
+        "360": {
+          "headerCrop": "0.00%",
+          "footerCrop": "0.00%"
+        },
+        "1440": {
+          "headerCrop": "0.00%",
+          "footerCrop": "3.24% (sub-pixel offset, all rects equal)"
+        },
+        "crop": "preview shell vs gated prototype; live-origin shell gate folds into archetype-index (no page served before index)",
+        "chrome": "open states 0.00-0.05%"
+      },
+      "verdict": "foundation: chrome docs 2/2 live, header+footer blocks, fonts 4, lint clean, font licence to confirm"
+    },
+    "archetype-index": {
+      "status": "done",
+      "kind": "archetype",
+      "templates": [
+        "index"
+      ],
+      "pages": 1,
+      "blocks": 7,
+      "startedAt": "2026-10-29T20:46:36Z",
+      "endedAt": "2026-10-29T21:26:45Z",
+      "gates": {
+        "360": {
+          "pixelPct": 1.89,
+          "heightDelta": 0,
+          "clip": 0,
+          "content": 0
+        },
+        "1440": {
+          "pixelPct": 0.39,
+          "heightDelta": 0,
+          "clip": 0,
+          "content": "MISSING 1 — hero rotation-phase artefact, override accepted by coordinator (evidence gates/all-1440/overrides.json)"
+        },
+        "crop": "header 0.03%/footer 0.07% @1440; 0.11%/1.78% @360",
+        "chrome": "header/footer content-diff deltas queued in foundation-requests.md"
+      },
+      "verdict": "archetype-index: pages 1/1 live, blocks 7, gate 1440 0.39% Δh 0 / 360 1.89% Δh 0, clip 0, content 1 (1440, override) / 0 (360), crops header 0.03%/footer 0.07% @1440 (0.11%/1.78% @360), rounds 2, requests 1"
+    },
+    "cluster-index": {
+      "status": "done",
+      "kind": "cluster",
+      "templates": [
+        "index"
+      ],
+      "pages": 0,
+      "blocks": 0,
+      "endedAt": "2026-10-29T21:26:45Z",
+      "verdict": "cluster-index: no siblings in scope (one-page run) — nothing to render"
+    },
+    "gate-all": {
+      "status": "done",
+      "kind": "final",
+      "templates": [
+        "index"
+      ],
+      "pages": 1,
+      "startedAt": "2026-10-29T22:04:19Z",
+      "endedAt": "2026-10-29T22:06:36Z",
+      "gates": {
+        "360": {
+          "pixelPct": 1.89,
+          "heightDelta": 0,
+          "clip": 0,
+          "content": "MISSING 0 / HIDDEN 0"
+        },
+        "1440": {
+          "pixelPct": 0.39,
+          "heightDelta": 0,
+          "clip": 0,
+          "content": "MISSING 0 / HIDDEN 0"
+        }
+      },
+      "verdict": "gate-all: 1/1 PASS at 1440 and 360 (published origin); coverage updated"
+    },
+    "final": {
+      "status": "done",
+      "kind": "final",
+      "templates": [
+        "index"
+      ],
+      "startedAt": "2026-10-29T21:27:04Z",
+      "endedAt": "2026-10-29T22:06:36Z",
+      "verdict": "final: foundation requests applied once (header parity 33→26 🔴, chrome content-diff 62→1), re-frozen, freeze check clean; gate 1440 0.49% / 360 2.26% after fix"
+    }
+  }
+}

@@ -1,0 +1,2 @@
+# Source	Destination
+# Single-page run: the source root (https://www.hydroflask.com/, 200, no redirect) is delivered at / (index document). No source URL changes path, so no redirect rows.

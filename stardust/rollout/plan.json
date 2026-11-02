@@ -1,0 +1,55 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:rollout/plan",
+    "writtenAt": "2026-10-29T20:58:58.725Z",
+    "readArtifacts": [
+      "stardust/rollout/coverage"
+    ],
+    "stardustVersion": "0.0.0"
+  },
+  "generatedAt": "2026-10-29T20:58:58.725Z",
+  "fragments": [],
+  "deliveryOrder": [
+    "index"
+  ],
+  "steps": [
+    {
+      "slug": "index",
+      "path": "/",
+      "templateId": "index",
+      "status": "pending",
+      "isRepresentative": true,
+      "convert": [
+        {
+          "id": "hero-carousel",
+          "edsBlockName": "hero-carousel"
+        },
+        {
+          "id": "category-tiles",
+          "edsBlockName": "category-tiles"
+        },
+        {
+          "id": "artist-promo",
+          "edsBlockName": "artist-promo"
+        },
+        {
+          "id": "product-carousel",
+          "edsBlockName": "product-carousel"
+        },
+        {
+          "id": "split-promo",
+          "edsBlockName": "split-promo"
+        },
+        {
+          "id": "trending-links",
+          "edsBlockName": "trending-links"
+        },
+        {
+          "id": "advocacy",
+          "edsBlockName": "advocacy"
+        }
+      ],
+      "reuse": []
+    }
+  ]
+}

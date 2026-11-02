@@ -1,0 +1,26 @@
+{
+  "units": {
+    "plan": {
+      "status": "done",
+      "kind": "plan",
+      "templates": [
+        "landing"
+      ],
+      "pages": 1,
+      "startedAt": "2026-10-29T20:16:00Z",
+      "endedAt": "2026-10-29T20:16:00Z",
+      "verdict": "plan: 1 archetype (index, landing), 0 siblings"
+    },
+    "render-landing": {
+      "status": "done",
+      "kind": "render",
+      "templates": [
+        "landing"
+      ],
+      "pages": 1,
+      "startedAt": "2026-10-29T20:14:17Z",
+      "endedAt": "2026-10-29T20:14:26Z",
+      "verdict": "render-landing: 1/1 rendered (index → index.html, 69 assets, 8 sections; out-of-scope source links repointed at E2)"
+    }
+  }
+}

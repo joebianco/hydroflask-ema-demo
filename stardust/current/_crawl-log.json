@@ -1,0 +1,508 @@
+{
+  "discovery": {
+    "fetchTechnique": "headless",
+    "count": 1,
+    "concurrency": 1
+  },
+  "consent": {
+    "method": "auto"
+  },
+  "favicon": {
+    "url": "https://www.hydroflask.com/media/favicon/stores/1/favicon_1.png",
+    "file": "assets/favicon.png"
+  },
+  "crawl": {
+    "failures": []
+  },
+  "captureGaps": {
+    "roots": [],
+    "detail": "uncaptured first-level targets: none (no locale root captured)"
+  },
+  "dynamicSurface": {
+    "pages": 1,
+    "pagesWithSameSiteData": 1,
+    "pagesWithSearchForm": 0,
+    "pagesHydrated": 0,
+    "truncatedPages": 0,
+    "endpoints": [
+      {
+        "method": "POST",
+        "host": "www.hydroflask.com",
+        "path": "/cdn-cgi/challenge-platform/h/g/jsd/oneshot/c787ce48cf6b/0.7709105787586154:1793297366:QYca9WvdiPdy1ffbOyQ1TliuZoqm7JnZm2J_GiUD1I0/{hash}",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "text/plain",
+        "sameSite": true,
+        "example": "https://www.hydroflask.com/cdn-cgi/challenge-platform/h/g/jsd/oneshot/c787ce48cf6b/0.7709105787586154:1793297366:QYca9WvdiPdy1ffbOyQ1TliuZoqm7JnZm2J_GiUD1I0/a5248b665ce21bcd",
+        "pages": 1,
+        "examples": [
+          "index"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "consent.trustarc.com",
+        "path": "/analytics",
+        "query": [
+          "action",
+          "domain",
+          "implied",
+          "new",
+          "referer",
+          "session"
+        ],
+        "resourceType": "fetch",
+        "contentType": "image/gif",
+        "sameSite": false,
+        "example": "https://consent.trustarc.com/analytics",
+        "pages": 1,
+        "examples": [
+          "index"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "dpm.demdex.net",
+        "path": "/id",
+        "query": [
+          "d_fieldgroup",
+          "d_nsid",
+          "d_orgid",
+          "d_rtbd",
+          "d_ver",
+          "d_visid_ver",
+          "ts"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": false,
+        "example": "https://dpm.demdex.net/id",
+        "pages": 1,
+        "examples": [
+          "index"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "hydro-flask.pxf.io",
+        "path": "/xur/{n}",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": false,
+        "example": "https://hydro-flask.pxf.io/xur/18825",
+        "pages": 1,
+        "examples": [
+          "index"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "www.hydroflask.com",
+        "path": "/cdn-cgi/zaraz/t",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "sameSite": true,
+        "example": "https://www.hydroflask.com/cdn-cgi/zaraz/t",
+        "pages": 1,
+        "examples": [
+          "index"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "www.google.com",
+        "path": "/ads/ga-audiences",
+        "query": [
+          "_r",
+          "_u",
+          "_v",
+          "aip",
+          "cid",
+          "slf_rd",
+          "t",
+          "tid",
+          "v",
+          "z"
+        ],
+        "resourceType": "fetch",
+        "contentType": "image/gif",
+        "sameSite": false,
+        "example": "https://www.google.com/ads/ga-audiences",
+        "pages": 1,
+        "examples": [
+          "index"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "stats.g.doubleclick.net",
+        "path": "/g/collect",
+        "query": [
+          "_r",
+          "_u",
+          "_v",
+          "aip",
+          "cid",
+          "t",
+          "tid",
+          "v",
+          "z"
+        ],
+        "resourceType": "xhr",
+        "contentType": "text/plain",
+        "sameSite": false,
+        "example": "https://stats.g.doubleclick.net/g/collect",
+        "pages": 1,
+        "examples": [
+          "index"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "bat.bing.com",
+        "path": "/action/{n}",
+        "query": [
+          "Ver",
+          "evt",
+          "lg",
+          "mid",
+          "msclkid",
+          "p",
+          "rn",
+          "sh",
+          "sw",
+          "ti",
+          "tl"
+        ],
+        "resourceType": "fetch",
+        "contentType": null,
+        "sameSite": false,
+        "example": "https://bat.bing.com/action/0",
+        "pages": 1,
+        "examples": [
+          "index"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "www.hydroflask.com",
+        "path": "/cdn-cgi/rum",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "text/plain",
+        "sameSite": true,
+        "example": "https://www.hydroflask.com/cdn-cgi/rum",
+        "pages": 1,
+        "examples": [
+          "index"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "p2iqhncxyh.execute-api.eu-central-1.amazonaws.com",
+        "path": "/Production/v2/beacon",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": null,
+        "sameSite": false,
+        "example": "https://p2iqhncxyh.execute-api.eu-central-1.amazonaws.com/Production/v2/beacon",
+        "pages": 1,
+        "examples": [
+          "index"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "fast.a.klaviyo.com",
+        "path": "/custom-fonts/api/v1/company-fonts/onsite",
+        "query": [
+          "company_id"
+        ],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": false,
+        "example": "https://fast.a.klaviyo.com/custom-fonts/api/v1/company-fonts/onsite",
+        "pages": 1,
+        "examples": [
+          "index"
+        ]
+      },
+      {
+        "method": "POST",
+        "host": "api.userway.org",
+        "path": "/api/v1/tunings/mBTKTyvJQC",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "sameSite": false,
+        "example": "https://api.userway.org/api/v1/tunings/mBTKTyvJQC",
+        "pages": 1,
+        "examples": [
+          "index"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "cdn.userway.org",
+        "path": "/widgetapp/2026-10-29-06-53-08/locales/en-US.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": false,
+        "example": "https://cdn.userway.org/widgetapp/2026-10-29-06-53-08/locales/en-US.json",
+        "pages": 1,
+        "examples": [
+          "index"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "static-forms.klaviyo.com",
+        "path": "/forms/api/v7/P2XAyk/full-forms",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": false,
+        "example": "https://static-forms.klaviyo.com/forms/api/v7/P2XAyk/full-forms",
+        "pages": 1,
+        "examples": [
+          "index"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "cdn.userway.org",
+        "path": "/remediations/consolidated/{n}/SNpD78VU8Vp9JpTq.json",
+        "query": [],
+        "resourceType": "xhr",
+        "contentType": "application/json",
+        "sameSite": false,
+        "example": "https://cdn.userway.org/remediations/consolidated/3804479/SNpD78VU8Vp9JpTq.json",
+        "pages": 1,
+        "examples": [
+          "index"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "hydroflask.api.kustomerapp.com",
+        "path": "/p/v1/chat/brands/{hash}/settings/versions/latest",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "sameSite": false,
+        "example": "https://hydroflask.api.kustomerapp.com/p/v1/chat/brands/62210d11e8f67f3f4eaa2d42/settings/versions/latest",
+        "pages": 1,
+        "examples": [
+          "index"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "hydroflask.api.kustomerapp.com",
+        "path": "/p/v1/schedules/default",
+        "query": [
+          "include"
+        ],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "sameSite": false,
+        "example": "https://hydroflask.api.kustomerapp.com/p/v1/schedules/default",
+        "pages": 1,
+        "examples": [
+          "index"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "hydroflask.api.kustomerapp.com",
+        "path": "/p/v2/chat/brands/{hash}/settings",
+        "query": [
+          "settingsVersion"
+        ],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "sameSite": false,
+        "example": "https://hydroflask.api.kustomerapp.com/p/v2/chat/brands/62210d11e8f67f3f4eaa2d42/settings",
+        "pages": 1,
+        "examples": [
+          "index"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "hydroflask.api.kustomerapp.com",
+        "path": "/c/v1/tracking/tokens/current",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "sameSite": false,
+        "example": "https://hydroflask.api.kustomerapp.com/c/v1/tracking/tokens/current",
+        "pages": 1,
+        "examples": [
+          "index"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "hydroflask.api.kustomerapp.com",
+        "path": "/c/v2/chat/sessions",
+        "query": [
+          "page",
+          "pageSize"
+        ],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "sameSite": false,
+        "example": "https://hydroflask.api.kustomerapp.com/c/v2/chat/sessions",
+        "pages": 1,
+        "examples": [
+          "index"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "cdn77.api.userway.org",
+        "path": "/api/img-dscr/v2/mBTKTyvJQC/{n}/4GtWdvAY26HEpvCi/alts.json",
+        "query": [
+          "dto"
+        ],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "sameSite": false,
+        "example": "https://cdn77.api.userway.org/api/img-dscr/v2/mBTKTyvJQC/3804479/4GtWdvAY26HEpvCi/alts.json",
+        "pages": 1,
+        "examples": [
+          "index"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "api.userway.org",
+        "path": "/api/br-links/v0/links/{n}",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "sameSite": false,
+        "example": "https://api.userway.org/api/br-links/v0/links/3804479",
+        "pages": 1,
+        "examples": [
+          "index"
+        ]
+      }
+    ],
+    "thirdPartyScriptHosts": [
+      {
+        "host": "static.klaviyo.com",
+        "pages": 1,
+        "examples": [
+          "index"
+        ]
+      },
+      {
+        "host": "assets.adobedtm.com",
+        "pages": 1,
+        "examples": [
+          "index"
+        ]
+      },
+      {
+        "host": "cdn.userway.org",
+        "pages": 1,
+        "examples": [
+          "index"
+        ]
+      },
+      {
+        "host": "cdn.kustomerapp.com",
+        "pages": 1,
+        "examples": [
+          "index"
+        ]
+      },
+      {
+        "host": "static-tracking.klaviyo.com",
+        "pages": 1,
+        "examples": [
+          "index"
+        ]
+      },
+      {
+        "host": "consent.trustarc.com",
+        "pages": 1,
+        "examples": [
+          "index"
+        ]
+      },
+      {
+        "host": "cdn-widgetsrepository.yotpo.com",
+        "pages": 1,
+        "examples": [
+          "index"
+        ]
+      },
+      {
+        "host": "static.cloudflareinsights.com",
+        "pages": 1,
+        "examples": [
+          "index"
+        ]
+      },
+      {
+        "host": "d5yoctgpv4cpx.cloudfront.net",
+        "pages": 1,
+        "examples": [
+          "index"
+        ]
+      },
+      {
+        "host": "utt.impactcdn.com",
+        "pages": 1,
+        "examples": [
+          "index"
+        ]
+      },
+      {
+        "host": "cdn.crobox.io",
+        "pages": 1,
+        "examples": [
+          "index"
+        ]
+      }
+    ],
+    "frameworkHints": [],
+    "globalState": [
+      {
+        "name": "dataLayer",
+        "pages": 1,
+        "examples": [
+          "index"
+        ]
+      }
+    ],
+    "formTargets": [
+      {
+        "action": "https://www.hydroflask.com/",
+        "method": "get",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "email"
+        ],
+        "pages": 1,
+        "examples": [
+          "index"
+        ]
+      }
+    ]
+  },
+  "visionCheck": [
+    {
+      "slug": "index",
+      "verdict": "ok",
+      "notes": "full page rendered (hero carousel, promo tiles, product carousels, trending, advocacy, footer); product-carousel tiles show names/prices — card imagery lazy at capture, verify at gate"
+    }
+  ]
+}

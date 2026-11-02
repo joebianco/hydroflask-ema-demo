@@ -1,0 +1,63 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:rollout/inventory",
+    "writtenAt": "2026-10-29T20:58:58.623Z",
+    "readArtifacts": [
+      "stardust/migrated",
+      "stardust/state.json"
+    ],
+    "stardustVersion": "0.0.0"
+  },
+  "generatedAt": "2026-10-29T22:23:10.588Z",
+  "pages": [
+    {
+      "slug": "index",
+      "path": "/",
+      "title": "Hydro Flask: Sustainable &amp; Refillable Water Bottles | Hydro Flask",
+      "templateId": "index",
+      "source": {
+        "migratedHtml": "stardust/migrated/index.html",
+        "metaJson": "stardust/migrated/_meta.json",
+        "sourceHash": "sha256:188089a62916102b8ac918c5a7530b0674af1865260678decfa7523dd43d96ff",
+        "sourceUrl": "https://www.hydroflask.com/"
+      },
+      "blocks": [
+        "hero-carousel",
+        "category-tiles",
+        "artist-promo",
+        "product-carousel",
+        "split-promo",
+        "trending-links",
+        "advocacy"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--53deb2f5--aemcoder.aem.page/",
+        "deployedAt": "2026-10-29T20:59:48.552Z",
+        "verifiedAt": "2026-10-29T22:23:10.588Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 1.89,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 2,
+            "variable": [
+              "#banner-carousel=.hero-carousel"
+            ]
+          },
+          "reasons": [],
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-10-29T22:17:01.379Z"
+        }
+      }
+    }
+  ]
+}

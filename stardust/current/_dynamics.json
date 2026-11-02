@@ -1,0 +1,1113 @@
+{
+ "_provenance": {
+  "writtenBy": "stardust:dynamics detect",
+  "writtenAt": "2026-10-29T20:15:16.158Z",
+  "settleMs": 5000,
+  "width": 1440,
+  "urls": [
+   "https://www.hydroflask.com/"
+  ],
+  "reachSource": "stardust/current/pages"
+ },
+ "pages": {
+  "/": {
+   "url": "https://www.hydroflask.com/",
+   "status": 200,
+   "host": "www.hydroflask.com",
+   "title": "Hydro Flask: Sustainable & Refillable Water Bottles | Hydro Flask",
+   "forms": [
+    {
+     "name": "aa-Form",
+     "action": null,
+     "method": "get",
+     "role": "",
+     "inChrome": true,
+     "fields": 1,
+     "signature": [
+      "search:autocomplete-0-input"
+     ],
+     "hidden": [],
+     "tokens": [],
+     "search": true,
+     "inlineHandler": false
+    },
+    {
+     "name": "needsclick",
+     "action": null,
+     "method": "get",
+     "role": "",
+     "inChrome": true,
+     "fields": 1,
+     "signature": [
+      "email:email"
+     ],
+     "hidden": [],
+     "tokens": [],
+     "search": false,
+     "inlineHandler": false
+    },
+    {
+     "name": "needsclick",
+     "action": null,
+     "method": "get",
+     "role": "",
+     "inChrome": true,
+     "fields": 5,
+     "signature": [
+      "email:email",
+      "radio:user_persona__9",
+      "radio:user_persona__9",
+      "radio:user_persona__9",
+      "radio:user_persona__9"
+     ],
+     "hidden": [],
+     "tokens": [],
+     "search": false,
+     "inlineHandler": false
+    }
+   ],
+   "controlGroups": [],
+   "triggers": [
+    {
+     "text": "",
+     "href": null,
+     "marker": "aria-haspopup",
+     "inChrome": true,
+     "titleOnTrigger": null,
+     "target": {
+      "role": "button",
+      "heading": "",
+      "textLen": 0,
+      "hasForm": false,
+      "hasIframe": false,
+      "hasVideo": false
+     }
+    },
+    {
+     "text": "",
+     "href": null,
+     "marker": "aria-haspopup",
+     "inChrome": true,
+     "titleOnTrigger": null,
+     "target": {
+      "role": "button",
+      "heading": "",
+      "textLen": 0,
+      "hasForm": false,
+      "hasIframe": false,
+      "hasVideo": false
+     }
+    },
+    {
+     "text": "USA | EN",
+     "href": null,
+     "marker": "aria-haspopup",
+     "inChrome": true,
+     "titleOnTrigger": null,
+     "target": null
+    },
+    {
+     "text": "",
+     "href": null,
+     "marker": "aria-haspopup",
+     "inChrome": true,
+     "titleOnTrigger": null,
+     "target": {
+      "role": "nav",
+      "heading": "",
+      "textLen": 548,
+      "hasForm": false,
+      "hasIframe": false,
+      "hasVideo": false
+     }
+    },
+    {
+     "text": "My minicart, cart is empty 0",
+     "href": null,
+     "marker": "aria-haspopup",
+     "inChrome": true,
+     "titleOnTrigger": null,
+     "target": {
+      "role": "section",
+      "heading": "",
+      "textLen": 25,
+      "hasForm": false,
+      "hasIframe": false,
+      "hasVideo": false
+     }
+    },
+    {
+     "text": "",
+     "href": null,
+     "marker": "aria-haspopup",
+     "inChrome": true,
+     "titleOnTrigger": null,
+     "target": {
+      "role": "nav",
+      "heading": "Back Drinkware Shop Bottles & Drinkware",
+      "textLen": 9823,
+      "hasForm": false,
+      "hasIframe": false,
+      "hasVideo": false
+     }
+    },
+    {
+     "text": "USA | EN",
+     "href": null,
+     "marker": "aria-haspopup",
+     "inChrome": true,
+     "titleOnTrigger": null,
+     "target": null
+    },
+    {
+     "text": "More Info",
+     "href": null,
+     "marker": "aria-haspopup",
+     "inChrome": true,
+     "titleOnTrigger": null,
+     "target": {
+      "role": "button",
+      "heading": "",
+      "textLen": 9,
+      "hasForm": false,
+      "hasIframe": false,
+      "hasVideo": false
+     }
+    },
+    {
+     "text": "Do Not Sell or Share My Personal Information",
+     "href": null,
+     "marker": "aria-haspopup",
+     "inChrome": true,
+     "titleOnTrigger": null,
+     "target": {
+      "role": "link",
+      "heading": "",
+      "textLen": 44,
+      "hasForm": false,
+      "hasIframe": false,
+      "hasVideo": false
+     }
+    },
+    {
+     "text": "Cookie Preferences",
+     "href": null,
+     "marker": "aria-haspopup",
+     "inChrome": true,
+     "titleOnTrigger": null,
+     "target": {
+      "role": "link",
+      "heading": "",
+      "textLen": 18,
+      "hasForm": false,
+      "hasIframe": false,
+      "hasVideo": false
+     }
+    }
+   ],
+   "dialogs": [
+    {
+     "role": "div",
+     "heading": "Remove Item",
+     "textLen": 93,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "Remove Item",
+     "textLen": 93,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "alertdialog",
+     "heading": "Remove Item",
+     "textLen": 93,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "div",
+     "heading": "",
+     "textLen": 81,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "dialog",
+     "heading": "",
+     "textLen": 25,
+     "hasForm": false,
+     "hasIframe": false,
+     "hasVideo": false
+    },
+    {
+     "role": "dialog",
+     "heading": "15% off your first order",
+     "textLen": 514,
+     "hasForm": true,
+     "hasIframe": false,
+     "hasVideo": false
+    }
+   ],
+   "dialogCount": 9,
+   "media": [
+    {
+     "tag": "script",
+     "src": "https://cdn.userway.org/widget.js",
+     "account": "mBTKTyvJQC",
+     "player": null,
+     "videoId": null,
+     "inDialog": false
+    },
+    {
+     "tag": "iframe",
+     "src": "https://helenoftroy.demdex.net/dest5.html?d_nsid=0#https%3A%2F%2Fwww.hydroflask.com",
+     "account": null,
+     "player": null,
+     "videoId": null,
+     "inDialog": false
+    }
+   ],
+   "iframes": [
+    {
+     "src": null,
+     "title": "UserWay Accessibility Menu",
+     "w": 0,
+     "h": 0
+    },
+    {
+     "src": null,
+     "title": null,
+     "w": 1,
+     "h": 1
+    },
+    {
+     "src": null,
+     "title": null,
+     "w": 0,
+     "h": 0
+    },
+    {
+     "src": "https://helenoftroy.demdex.net/dest5.html?d_nsid=0#https%3A%2F%2Fwww.hydroflask.com",
+     "title": "Adobe ID Syncing iFrame",
+     "w": 0,
+     "h": 0
+    },
+    {
+     "src": null,
+     "title": null,
+     "w": 0,
+     "h": 0
+    },
+    {
+     "src": null,
+     "title": "Kustomer Widget Iframe",
+     "w": 60,
+     "h": 60
+    }
+   ],
+   "mounts": [],
+   "auth": [
+    "https://www.hydroflask.com/shop/accessories",
+    "https://www.hydroflask.com/shop/coolers/cooler-accessories",
+    "https://www.hydroflask.com/customer/account/",
+    "https://www.hydroflask.com/customer/account/logout/",
+    "https://www.hydroflask.com/customer/account/index/",
+    "https://www.hydroflask.com/customer/account/create/",
+    "https://www.hydroflask.com/customer/account/"
+   ],
+   "commerce": {
+    "cart": true,
+    "prices": 13
+   },
+   "locale": {
+    "lang": "en",
+    "hreflang": [
+     "en-gb",
+     "en-fi",
+     "en-ie",
+     "en-nl",
+     "en-cz",
+     "en-pl",
+     "fr-fr",
+     "fr-lu",
+     "fr-be",
+     "de-de",
+     "de-at",
+     "es-es",
+     "en-us",
+     "x-default"
+    ],
+    "switcher": []
+   },
+   "cms": {
+    "dataLayer": [
+     "0"
+    ],
+    "adobeDataLayer": [
+     "0",
+     "1",
+     "2",
+     "3",
+     "4",
+     "5",
+     "6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "11",
+     "12",
+     "13",
+     "14",
+     "version",
+     "push",
+     "getState",
+     "addEventListener",
+     "removeEventListener"
+    ]
+   },
+   "framework": null,
+   "globals": [
+    "adobe",
+    "_satellite",
+    "algoliasearch"
+   ],
+   "clientRendered": [],
+   "listingCandidates": [],
+   "inlineScripts": 149,
+   "inlineFetch": true,
+   "mainText": 1511,
+   "domAddedAfterLoad": 95,
+   "hosts": {
+    "www.hydroflask.com": 58,
+    "consent.trustarc.com": 6,
+    "static.cloudflareinsights.com": 1,
+    "d5yoctgpv4cpx.cloudfront.net": 1,
+    "cdn-widgetsrepository.yotpo.com": 3,
+    "utt.impactcdn.com": 1,
+    "assets.adobedtm.com": 10,
+    "dpm.demdex.net": 2,
+    "cdn.crobox.io": 2,
+    "www.google.com": 1,
+    "stats.g.doubleclick.net": 1,
+    "bat.bing.com": 1,
+    "cm.everesttech.net": 1,
+    "helenoftroy.demdex.net": 1,
+    "hydro-flask.pxf.io": 1,
+    "www.ojrq.net": 1,
+    "hydroflask.sc.omtrdc.net": 1,
+    "commerce.adobedc.net": 2,
+    "api.crobox.com": 3,
+    "p2iqhncxyh.execute-api.eu-central-1.amazonaws.com": 1,
+    "static.klaviyo.com": 26,
+    "cdn.kustomerapp.com": 6,
+    "cdn.userway.org": 12,
+    "static-tracking.klaviyo.com": 5,
+    "fast.a.klaviyo.com": 1,
+    "api.userway.org": 3,
+    "fonts.googleapis.com": 1,
+    "fonts.gstatic.com": 1,
+    "static-forms.klaviyo.com": 1,
+    "hydroflask.api.kustomerapp.com": 5,
+    "cdn77.api.userway.org": 5,
+    "cdn.jsdelivr.net": 1,
+    "cdnjs.cloudflare.com": 1,
+    "cdn-assets.rapidspike.com": 1
+   },
+   "thirdPartyHosts": [
+    "consent.trustarc.com",
+    "static.cloudflareinsights.com",
+    "d5yoctgpv4cpx.cloudfront.net",
+    "cdn-widgetsrepository.yotpo.com",
+    "utt.impactcdn.com",
+    "assets.adobedtm.com",
+    "dpm.demdex.net",
+    "cdn.crobox.io",
+    "www.google.com",
+    "stats.g.doubleclick.net",
+    "bat.bing.com",
+    "cm.everesttech.net",
+    "helenoftroy.demdex.net",
+    "hydro-flask.pxf.io",
+    "www.ojrq.net",
+    "hydroflask.sc.omtrdc.net",
+    "commerce.adobedc.net",
+    "api.crobox.com",
+    "p2iqhncxyh.execute-api.eu-central-1.amazonaws.com",
+    "static.klaviyo.com",
+    "cdn.kustomerapp.com",
+    "cdn.userway.org",
+    "static-tracking.klaviyo.com",
+    "fast.a.klaviyo.com",
+    "api.userway.org",
+    "fonts.googleapis.com",
+    "fonts.gstatic.com",
+    "static-forms.klaviyo.com",
+    "hydroflask.api.kustomerapp.com",
+    "cdn77.api.userway.org",
+    "cdn.jsdelivr.net",
+    "cdnjs.cloudflare.com",
+    "cdn-assets.rapidspike.com"
+   ],
+   "scripts": [
+    "https://www.hydroflask.com/static/version1793007280/frontend/MagebitHoT/hydroflask/en_US/js/speculation-rules-refresher.min.js",
+    "https://consent.trustarc.com/autoblockoptout?domain=www.hydroflask.com",
+    "https://consent.trustarc.com/autoblockasset/core.min.js?domain=www.hydroflask.com",
+    "https://www.hydroflask.com/static/version1793007280/frontend/MagebitHoT/hydroflask/en_US/Magewirephp_Magewire/js/livewire.min.js",
+    "https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092",
+    "https://www.hydroflask.com/static/version1793007280/frontend/MagebitHoT/hydroflask/en_US/js/main.min.js",
+    "https://www.hydroflask.com/static/version1793007280/frontend/MagebitHoT/hydroflask/en_US/js/focus.min.js",
+    "https://www.hydroflask.com/static/version1793007280/frontend/MagebitHoT/hydroflask/en_US/js/prerender-safe-loader.min.js",
+    "https://www.hydroflask.com/static/version1793007280/frontend/MagebitHoT/hydroflask/en_US/js/resource-sequencer.min.js",
+    "https://www.hydroflask.com/static/version1793007280/frontend/MagebitHoT/hydroflask/en_US/js/google-ads-sequencer.min.js",
+    "https://www.hydroflask.com/static/version1793007280/frontend/MagebitHoT/hydroflask/en_US/HelenOfTroy_Telemetry/js/mega-menu-tracking.min.js",
+    "https://www.hydroflask.com/static/version1793007280/frontend/MagebitHoT/hydroflask/en_US/Hyva_MagentoDataServices/js/storefront-events-sdk.min.js",
+    "https://www.hydroflask.com/static/version1793007280/frontend/MagebitHoT/hydroflask/en_US/HelenOfTroy_MegaMenu/js/menu-text-color.min.js",
+    "https://www.hydroflask.com/static/version1793007280/frontend/MagebitHoT/hydroflask/en_US/Hyva_MagentoDataServices/js/storefront-event-collector.min.js",
+    "https://d5yoctgpv4cpx.cloudfront.net/RUM-2611873BCF/v4-www.hydroflask.com.js",
+    "https://cdn-widgetsrepository.yotpo.com/v1/loader/RNN35rs18EnLthc4o4cfcw",
+    "https://utt.impactcdn.com/A4067263-74e9-44e9-b6c0-d9a1c3a25fd41.js",
+    "https://www.hydroflask.com/cdn-cgi/challenge-platform/scripts/jsd/main.js?ray=a524d9f05a511bcd",
+    "https://consent.trustarc.com/notice?domain=www.hydroflask.com&c=teconsent&js=nj&noticeType=bb&text=true&gtm=true&privacypolicylink=https%3A%2F%2Fwww.hydroflask.com%2Fprivacy",
+    "https://www.hydroflask.com/cdn-cgi/challenge-platform/h/g/scripts/jsd/c787ce48cf6b/main.js?ray=a524d9f05a511bcd",
+    "https://www.hydroflask.com/static/version1793007280/frontend/MagebitHoT/hydroflask/en_US/Magento_PageBuilder/js/glider.min.js",
+    "https://www.hydroflask.com/cdn-cgi/zaraz/i.js",
+    "https://cdn-widgetsrepository.yotpo.com/widget-assets/yotpo-pixel/2026-05-19_07-47-44/bundle.js",
+    "https://cdn-widgetsrepository.yotpo.com/widget-assets/widgets-initializer/app.v0.9.11-42.js",
+    "https://assets.adobedtm.com/ba2a113ab3b7/5fe17ab5d5fb/launch-a8bff88a58ec.min.js",
+    "https://www.hydroflask.com/cdn-cgi/zaraz/s.js?z=JTdCJTIyZXhlY3V0ZWQlMjIlM0ElNUIlNUQlMkMlMjJ0JTIyJTNBJTIySHlkcm8lMjBGbGFzayUzQSUyMFN1c3RhaW5hYmxlJTIwJTI2JTIwUmVmaWxsYWJsZSUyMFdhdGVyJTIwQm90dGxlcyUyMCU3",
+    "https://consent.trustarc.com/asset/notice.js/v/0aa19f7",
+    "https://assets.adobedtm.com/extensions/EPbf7b42aa08bc4f10879b1484195e80d1/AppMeasurement_Module_ActivityMap.min.js",
+    "https://assets.adobedtm.com/extensions/EPbf7b42aa08bc4f10879b1484195e80d1/AppMeasurement.min.js",
+    "https://cdn.crobox.io/js/pgm0u0.js",
+    "https://assets.adobedtm.com/ba2a113ab3b7/5fe17ab5d5fb/d4ed48d19430/RCb871ed4aeba9456c95548eebdd718e3e-source.min.js",
+    "https://assets.adobedtm.com/ba2a113ab3b7/5fe17ab5d5fb/d4ed48d19430/RC0d3e66c7edf1439185382bed77c60950-source.min.js",
+    "https://assets.adobedtm.com/ba2a113ab3b7/5fe17ab5d5fb/d4ed48d19430/RCbfe5f48b879d454fa6815baefbd3de9a-source.min.js",
+    "https://assets.adobedtm.com/ba2a113ab3b7/5fe17ab5d5fb/d4ed48d19430/RCcb28402f9d20406fae90f266edf8dd8d-source.min.js",
+    "https://assets.adobedtm.com/ba2a113ab3b7/5fe17ab5d5fb/d4ed48d19430/RCe377391b17184494a2e770a8ff17f9d8-source.min.js",
+    "https://assets.adobedtm.com/ba2a113ab3b7/5fe17ab5d5fb/d4ed48d19430/RC3c7632c2d67044b883580b4cfc24f4a2-source.min.js",
+    "https://assets.adobedtm.com/ba2a113ab3b7/5fe17ab5d5fb/d4ed48d19430/RC9d8d2d9827c4488cac6adb69c98eba5d-source.min.js",
+    "https://cdn.crobox.io/js/pgm0u0/257.4f083553d7aed0c6.js",
+    "https://static.klaviyo.com/onsite/js/P2XAyk/klaviyo.js",
+    "https://cdn.kustomerapp.com/chat-web/widget.js",
+    "https://cdn.userway.org/widget.js",
+    "https://cdn.kustomerapp.com/chat-web/release-v0.1.466/widget-api.714d252e89b0b50fbb7f.js",
+    "https://static.klaviyo.com/onsite/js/vendors~onsite-personalization~onsite-triggering-v2~in_app_forms~signup_forms~telemetry~~client_identity.18a2c35b6d198.js?cb=2",
+    "https://static.klaviyo.com/onsite/js/vendors~reviews~in_app_forms~signup_forms~atlas~product_recommendations.38d3e585cdff7.js?cb=2",
+    "https://static.klaviyo.com/onsite/js/vendors~in_app_forms~signup_forms.b7c0bc7f31ca6.js?cb=2",
+    "https://static.klaviyo.com/onsite/js/event_adapter.d5d17da8d93c0.js?cb=2",
+    "https://static.klaviyo.com/onsite/js/signup_forms.d8689ef54419d.js?cb=2",
+    "https://static.klaviyo.com/onsite/js/default~in_app_forms~signup_forms.87833a1410ffe.js?cb=2",
+    "https://static.klaviyo.com/onsite/js/vendors~static~in_app_forms~signup_forms~fender_analytics~post_identification_sync~web_personalization~client_identity~server_side_cookies~reviews~atlas~~telemetry",
+    "https://static.klaviyo.com/onsite/js/runtime.7cca7160d928a.js?cb=2",
+    "https://static.klaviyo.com/onsite/js/sharedUtils.f598f305ef628.js?cb=2",
+    "https://cdn.userway.org/widgetapp/2026-10-29-06-53-08/widget_app_base_1793256788095.js",
+    "https://static-tracking.klaviyo.com/onsite/js/static.0d6d31623aba7.js?cb=2",
+    "https://static-tracking.klaviyo.com/onsite/js/post_identification_sync.7beee9e65774c.js?cb=2",
+    "https://static-tracking.klaviyo.com/onsite/js/telemetry.b2a2da184f5a3.js?cb=2",
+    "https://static-tracking.klaviyo.com/onsite/js/web_personalization.5836a70d535b6.js?cb=2",
+    "https://static-tracking.klaviyo.com/onsite/js/fender_analytics.d581630832ad2.js?cb=2",
+    "https://cdn.kustomerapp.com/chat-web/core.js",
+    "https://static.klaviyo.com/onsite/js/vendors~Render~ClientStore~~~onsite-back-in-stock.7f4f70ae133ea.js?cb=2",
+    "https://static.klaviyo.com/onsite/js/vendors~.bf6126b032be2.js?cb=2"
+   ],
+   "firstPartyApi": [
+    {
+     "method": "POST",
+     "host": "www.hydroflask.com",
+     "path": "/cdn-cgi/challenge-platform/h/g/jsd/oneshot/c787ce48cf6b/0.7379955548228921:1793301067:WznJwmM4FIrLWvHrvyEwtdB_7lPFGj_b4BtfB4ClBlw/{hash}",
+     "query": [],
+     "status": 200,
+     "contentType": "text/plain",
+     "example": "https://www.hydroflask.com/cdn-cgi/challenge-platform/h/g/jsd/oneshot/c787ce48cf6b/0.7379955548228921:1793301067:WznJwmM4FIrLWvHrvyEwtdB_7lPFGj_b4BtfB4ClBlw/a524d9f05a511bcd"
+    },
+    {
+     "method": "POST",
+     "host": "www.hydroflask.com",
+     "path": "/cdn-cgi/zaraz/t",
+     "query": [],
+     "status": 200,
+     "contentType": "application/json",
+     "example": "https://www.hydroflask.com/cdn-cgi/zaraz/t"
+    },
+    {
+     "method": "POST",
+     "host": "www.hydroflask.com",
+     "path": "/cdn-cgi/rum",
+     "query": [],
+     "status": 204,
+     "contentType": "text/plain",
+     "example": "https://www.hydroflask.com/cdn-cgi/rum"
+    }
+   ],
+   "thirdPartyXhr": [
+    "GET consent.trustarc.com/analytics",
+    "GET dpm.demdex.net/id",
+    "GET www.google.com/ads/ga-audiences",
+    "POST stats.g.doubleclick.net/g/collect",
+    "GET bat.bing.com/action/0",
+    "POST hydro-flask.pxf.io/xur/18825",
+    "POST api.crobox.com/promotions",
+    "POST api.crobox.com/socket.gif",
+    "POST p2iqhncxyh.execute-api.eu-central-1.amazonaws.com/Production/v2/beacon",
+    "GET fast.a.klaviyo.com/custom-fonts/api/v1/company-fonts/onsite",
+    "POST api.userway.org/api/v1/tunings/mBTKTyvJQC",
+    "GET cdn.userway.org/widgetapp/2026-10-29-06-53-08/locales/en-US.json",
+    "GET static-forms.klaviyo.com/forms/api/v7/P2XAyk/full-forms",
+    "GET cdn.userway.org/remediations/consolidated/3804479/SNpD78VU8Vp9JpTq.json",
+    "GET hydroflask.api.kustomerapp.com/p/v1/schedules/default",
+    "GET hydroflask.api.kustomerapp.com/p/v1/chat/brands/62210d11e8f67f3f4eaa2d42/settings/versions/latest",
+    "GET hydroflask.api.kustomerapp.com/p/v2/chat/brands/62210d11e8f67f3f4eaa2d42/settings",
+    "GET hydroflask.api.kustomerapp.com/c/v1/tracking/tokens/current",
+    "GET hydroflask.api.kustomerapp.com/c/v2/chat/sessions",
+    "GET cdn77.api.userway.org/api/img-dscr/v2/mBTKTyvJQC/3804479/4GtWdvAY26HEpvCi/alts.json",
+    "GET api.userway.org/api/br-links/v0/links/3804479",
+    "GET api.userway.org/api/a11y-data/v0/page/https%3A%2F%2Fwww.hydroflask.com%2F/DESKTOP/WIDGET_ON/sta"
+   ],
+   "postBodies": [
+    {
+     "url": "https://www.hydroflask.com/cdn-cgi/challenge-platform/h/g/jsd/oneshot/c787ce48cf6b/0.7379955548228921:1793301067:WznJwmM4FIrLWvHrvyEwtdB_7lPFGj_b4BtfB4ClBlw/a524d9f05a511bcd",
+     "body": "12atIGuVPu4YBhfVZv-HUJfQqmChwUleDzRT$AEHiv5VlYklN0gbucfG3kL5KsD7dz$n2q4HlJ7sJ3V2IXvaFF7XICMgNOQu6ogXijzLbd0lj6-7NWoPFTCLcpE3nkZW+Qzv3W-89Pd1ZXSdZN+sGB0$BR1AX28wSZ7gsA0IEj-9faTyZZ5m7zgaUAyNG294269YPPQZSzc6ng+0wOc07emo$ZKhZxqbl1k$lssHJhxnBz+ZG4uDTVYTt1zqIz9DQNgzJQLHNkisKHVDxjHQXLU4NXtBz3Eff3DEDDz6Ix3$jUaX$DU-Vs9VVyLNGdJ5Hgzp7fzEOT5Ve7VIGo-6dV1ZHfxOaoWHANRStxP9NDuQZIxL65P9Ak9xJVlsb6QNN4iYF8$iFAnRNEHc"
+    },
+    {
+     "url": "https://www.hydroflask.com/cdn-cgi/zaraz/t",
+     "body": "{\"name\":\"__zarazConsentedPageview\",\"data\":{\"__zcl_track\":true},\"zarazData\":{\"executed\":[\"Pageview\",\"Gazb\",\"KEjT\",\"QQNE\",\"ZKnS\",\"kjDQ\",\"nXEL\",\"soAo\"],\"t\":\"Hydro Flask: Sustainable & Refillable Water Bottles | Hydro Flask\",\"x\":0.22378554876432089,\"w\":1440,\"h\":900,\"j\":900,\"e\":1440,\"l\":\"https://www.hydroflask.com/\",\"r\":\"\",\"k\":24,\"n\":\"UTF-8\",\"o\":0}}"
+    },
+    {
+     "url": "https://p2iqhncxyh.execute-api.eu-central-1.amazonaws.com/Production/v2/beacon",
+     "body": "{\"inserts\":[{\"type\":\"request\",\"data\":{\"document_protocol\":\"h2\",\"downlink_kbps\":1,\"effective_type\":\"4g\",\"get_params\":\"(none)\",\"hostname\":\"www.hydroflask.com\",\"metric_server384\":200,\"navigationtype\":\"navigate\",\"pageview_count\":1,\"pageviewtype\":\"unique\",\"request_method\":\"get\",\"template_type\":\"home\",\"visibilitystate\":\"visible\",\"domain_path\":\"/\",\"sent_via\":\"fetch_preflight:fcp_\",\"metric_118\":499480,\"me"
+    },
+    {
+     "url": "https://stats.g.doubleclick.net/g/collect?t=dc&aip=1&_r=3&v=1&_v=j86&tid=G-YBMP6KQ554&cid=5983c4b9-d293-44ba-9e8a-73d754a8fa85&_u=KGDAAEADQAAAAC%7E&z=1789782897",
+     "body": ""
+    },
+    {
+     "url": "https://hydro-flask.pxf.io/xur/18825",
+     "body": "custid=14977190376030799233510750971382711776&_ir=U34%7C%7C1793304917751%7C2dd22784"
+    },
+    {
+     "url": "https://www.hydroflask.com/cdn-cgi/rum?",
+     "body": "{\"startTime\":1793304916351,\"pageloadId\":\"29adfed1-4596-4b4c-b82e-5a09f5b2ca92\",\"eventType\":1,\"nt\":\"navigate\",\"location\":\"https://www.hydroflask.com/\",\"versions\":{\"fl\":\"2024.11.0\",\"js\":\"2026.10.1\",\"timings\":2},\"bi\":{\"be\":\"Blink\",\"bev\":\"156\",\"bv\":\"156\"},\"memory\":{\"totalJSHeapSize\":25439813,\"usedJSHeapSize\":18176249,\"jsHeapSizeLimit\":4395630592},\"firstPaint\":356,\"firstContentfulPaint\":356,\"timingsV2\""
+    },
+    {
+     "url": "https://api.crobox.com/promotions?cid=pgm0u0&pid=RVbSqA5yTQC62uaw829zQA&vid=x9MHLPGDTKqq8yNqQIg__Q&cv=237&e=1&ts=mvtzg2l0&tz=0&v=1&pt=1&lc=en-US&vpid=11&lh=https%3A%2F%2Fwww.hydroflask.com%2F&rf=&z=-u",
+     "body": ""
+    },
+    {
+     "url": "https://api.crobox.com/promotions?cid=pgm0u0&pid=RVbSqA5yTQC62uaw829zQA&vid=x9MHLPGDTKqq8yNqQIg__Q&cv=237&e=2&ts=mvtzg2l4&tz=0&v=1&pt=1&lc=en-US&vpid=10&lh=https%3A%2F%2Fwww.hydroflask.com%2F&rf=&z=qa",
+     "body": ""
+    },
+    {
+     "url": "https://api.crobox.com/socket.gif?cid=pgm0u0&pid=RVbSqA5yTQC62uaw829zQA&vid=x9MHLPGDTKqq8yNqQIg__Q&e=0",
+     "body": "cid=pgm0u0&pid=RVbSqA5yTQC62uaw829zQA&vid=x9MHLPGDTKqq8yNqQIg__Q&cv=237&e=0&ts=mvtzg2kz&tz=0&v=1&pt=1&lc=en-US&t=pageview&lh=https%3A%2F%2Fwww.hydroflask.com%2F&dt=Hydro%20Flask%3A%20Sustainable%20%26%20Refillable%20Water%20Bottles%20%7C%20Hydro%20Flask&rf=&hl=2&sr=1440x900&vp=1440x900&dpr=1&clt=1256&cld=36&clv=1685&z=an2bqb"
+    },
+    {
+     "url": "https://www.hydroflask.com/cdn-cgi/zaraz/t",
+     "body": "{\"name\":\"hot_google_ads_defer_500\",\"data\":{\"locale_code\":\"en_US\",\"visitor_type\":\"New\",\"event\":\"hot_google_ads_defer_500\",\"__zcl_track\":true,\"__zcl_visibilityChange\":true,\"__zarazMCListeners\":{\"google-analytics_v4_hSqb\":[\"visibilityChange\"]}},\"zarazData\":{\"executed\":[\"Pageview\",\"Gazb\",\"KEjT\",\"QQNE\",\"ZKnS\",\"kjDQ\",\"nXEL\",\"soAo\",\"KEjT\",\"QQNE\",\"ZKnS\",\"kjDQ\",\"nXEL\",\"soAo\",\"Gazb\",\"Pageview\"],\"t\":\"Hydro F"
+    },
+    {
+     "url": "https://api.userway.org/api/v1/tunings/mBTKTyvJQC",
+     "body": "{\"s\":{},\"o\":\"https://www.hydroflask.com\",\"uid\":\"129f3073-ad8f-40b7-8a64-68ae46a148fc\",\"v\":\"2026-10-29-06-53-08\",\"wl\":\"full\",\"c\":\"\"}"
+    }
+   ],
+   "textAtLoad": 1511,
+   "mainEmptyAtLoad": false
+  }
+ },
+ "findings": [
+  {
+   "id": "a-unknown-third-party-host-www-google-com",
+   "class": "A",
+   "feature": "unknown third-party host www.google.com",
+   "hint": "inspect",
+   "evidence": [
+    "www.google.com"
+   ],
+   "pages": [
+    "/"
+   ]
+  },
+  {
+   "id": "a-unknown-third-party-host-hydro-flask-pxf-io",
+   "class": "A",
+   "feature": "unknown third-party host hydro-flask.pxf.io",
+   "hint": "inspect",
+   "evidence": [
+    "hydro-flask.pxf.io"
+   ],
+   "pages": [
+    "/"
+   ]
+  },
+  {
+   "id": "a-unknown-third-party-host-api-crobox-com",
+   "class": "A",
+   "feature": "unknown third-party host api.crobox.com",
+   "hint": "inspect",
+   "evidence": [
+    "api.crobox.com"
+   ],
+   "pages": [
+    "/"
+   ]
+  },
+  {
+   "id": "a-unknown-third-party-host-p2iqhncxyh-execute-api-eu-central",
+   "class": "A",
+   "feature": "unknown third-party host p2iqhncxyh.execute-api.eu-central-1.amazonaws.com",
+   "hint": "inspect",
+   "evidence": [
+    "p2iqhncxyh.execute-api.eu-central-1.amazonaws.com"
+   ],
+   "pages": [
+    "/"
+   ]
+  },
+  {
+   "id": "a-unknown-third-party-host-cdn-userway-org",
+   "class": "A",
+   "feature": "unknown third-party host cdn.userway.org",
+   "hint": "inspect",
+   "evidence": [
+    "cdn.userway.org"
+   ],
+   "pages": [
+    "/"
+   ]
+  },
+  {
+   "id": "a-unknown-third-party-host-fast-a-klaviyo-com",
+   "class": "A",
+   "feature": "unknown third-party host fast.a.klaviyo.com",
+   "hint": "inspect",
+   "evidence": [
+    "fast.a.klaviyo.com"
+   ],
+   "pages": [
+    "/"
+   ]
+  },
+  {
+   "id": "a-unknown-third-party-host-api-userway-org",
+   "class": "A",
+   "feature": "unknown third-party host api.userway.org",
+   "hint": "inspect",
+   "evidence": [
+    "api.userway.org"
+   ],
+   "pages": [
+    "/"
+   ]
+  },
+  {
+   "id": "a-unknown-third-party-host-static-forms-klaviyo-com",
+   "class": "A",
+   "feature": "unknown third-party host static-forms.klaviyo.com",
+   "hint": "inspect",
+   "evidence": [
+    "static-forms.klaviyo.com"
+   ],
+   "pages": [
+    "/"
+   ]
+  },
+  {
+   "id": "a-unknown-third-party-host-hydroflask-api-kustomerapp-com",
+   "class": "A",
+   "feature": "unknown third-party host hydroflask.api.kustomerapp.com",
+   "hint": "inspect",
+   "evidence": [
+    "hydroflask.api.kustomerapp.com"
+   ],
+   "pages": [
+    "/"
+   ]
+  },
+  {
+   "id": "a-unknown-third-party-host-cdn77-api-userway-org",
+   "class": "A",
+   "feature": "unknown third-party host cdn77.api.userway.org",
+   "hint": "inspect",
+   "evidence": [
+    "cdn77.api.userway.org"
+   ],
+   "pages": [
+    "/"
+   ]
+  },
+  {
+   "id": "a-first-party-api-post-cdn-cgi-zaraz-t",
+   "class": "A",
+   "feature": "first-party API POST /cdn-cgi/zaraz/t",
+   "api": {
+    "method": "POST",
+    "path": "/cdn-cgi/zaraz/t"
+   },
+   "hint": "api",
+   "evidence": [
+    "POST /cdn-cgi/zaraz/t → 200"
+   ],
+   "pages": [
+    "/"
+   ],
+   "reach": {
+    "pages": 1,
+    "of": 1
+   }
+  },
+  {
+   "id": "a-cms-app-settings-object-datalayer",
+   "class": "A",
+   "feature": "CMS / app settings object dataLayer",
+   "hint": "settings",
+   "evidence": [],
+   "pages": [
+    "/"
+   ]
+  },
+  {
+   "id": "a-cms-app-settings-object-adobedatalayer",
+   "class": "A",
+   "feature": "CMS / app settings object adobeDataLayer",
+   "hint": "settings",
+   "evidence": [],
+   "pages": [
+    "/"
+   ]
+  },
+  {
+   "id": "f-form-needsclick-no-action-js-wired-1-fields",
+   "class": "F",
+   "feature": "form \"needsclick\" → no action (JS-wired) (1 fields)",
+   "signature": [
+    "email:email"
+   ],
+   "hint": "forms",
+   "evidence": [
+    "email:email"
+   ],
+   "pages": [
+    "/"
+   ]
+  },
+  {
+   "id": "f-form-needsclick-no-action-js-wired-5-fields",
+   "class": "F",
+   "feature": "form \"needsclick\" → no action (JS-wired) (5 fields)",
+   "signature": [
+    "email:email",
+    "radio:user_persona__9",
+    "radio:user_persona__9",
+    "radio:user_persona__9",
+    "radio:user_persona__9"
+   ],
+   "hint": "forms",
+   "evidence": [
+    "email:email,radio:user_persona__9,radio:user_persona__9,radio:user_persona__9,radio:user_persona__9"
+   ],
+   "pages": [
+    "/"
+   ]
+  },
+  {
+   "id": "i18n-locale-variants-en-gb-en-fi-en-ie-en-nl-en-cz-en-pl-fr-",
+   "class": "I18N",
+   "feature": "locale variants en-gb,en-fi,en-ie,en-nl,en-cz,en-pl,fr-fr,fr-lu,fr-be,de-de,de-at,es-es,en-us,x-default",
+   "hint": "locale",
+   "evidence": [],
+   "pages": [
+    "/"
+   ]
+  },
+  {
+   "id": "m-modal-trigger-aria-haspopup-chrome-only-button-content-nav",
+   "class": "M",
+   "feature": "modal trigger aria-haspopup (chrome only) → button:content/nav:content/section:content/link:content",
+   "hint": "chrome-interaction",
+   "evidence": [
+    "USA | EN"
+   ],
+   "pages": [
+    "/"
+   ],
+   "reach": {
+    "pages": 5,
+    "of": 1
+   }
+  },
+  {
+   "id": "s-site-search-form-js-submitted",
+   "class": "S",
+   "feature": "site search form → (JS-submitted)",
+   "hint": "search",
+   "evidence": [
+    "search:autocomplete-0-input"
+   ],
+   "pages": [
+    "/"
+   ],
+   "reach": {
+    "pages": 0,
+    "of": 1
+   }
+  },
+  {
+   "id": "t-consent-trustarc-iab-cmp",
+   "class": "T",
+   "feature": "consent: TrustArc / IAB CMP",
+   "role": "consent: TrustArc / IAB CMP",
+   "hint": "tags",
+   "evidence": [
+    "consent.trustarc.com"
+   ],
+   "pages": [
+    "/"
+   ]
+  },
+  {
+   "id": "t-unknown-third-party-host-static-cloudflareinsights-com",
+   "class": "T",
+   "feature": "unknown third-party host static.cloudflareinsights.com",
+   "hint": "inspect",
+   "evidence": [
+    "static.cloudflareinsights.com"
+   ],
+   "pages": [
+    "/"
+   ]
+  },
+  {
+   "id": "t-unknown-third-party-host-d5yoctgpv4cpx-cloudfront-net",
+   "class": "T",
+   "feature": "unknown third-party host d5yoctgpv4cpx.cloudfront.net",
+   "hint": "inspect",
+   "evidence": [
+    "d5yoctgpv4cpx.cloudfront.net"
+   ],
+   "pages": [
+    "/"
+   ]
+  },
+  {
+   "id": "t-social-proof-reviews-widget",
+   "class": "T",
+   "feature": "social proof: reviews widget",
+   "role": "social proof: reviews widget",
+   "hint": "tags",
+   "evidence": [
+    "cdn-widgetsrepository.yotpo.com"
+   ],
+   "pages": [
+    "/"
+   ]
+  },
+  {
+   "id": "t-unknown-third-party-host-utt-impactcdn-com",
+   "class": "T",
+   "feature": "unknown third-party host utt.impactcdn.com",
+   "hint": "inspect",
+   "evidence": [
+    "utt.impactcdn.com"
+   ],
+   "pages": [
+    "/"
+   ]
+  },
+  {
+   "id": "t-tag-manager-adobe-launch",
+   "class": "T",
+   "feature": "tag manager: Adobe Launch",
+   "role": "tag manager: Adobe Launch",
+   "hint": "tags",
+   "evidence": [
+    "assets.adobedtm.com"
+   ],
+   "pages": [
+    "/"
+   ]
+  },
+  {
+   "id": "t-analytics-adobe-analytics-experience-cloud-id",
+   "class": "T",
+   "feature": "analytics: Adobe Analytics / Experience Cloud ID",
+   "role": "analytics: Adobe Analytics / Experience Cloud ID",
+   "hint": "tags",
+   "evidence": [
+    "dpm.demdex.net",
+    "helenoftroy.demdex.net",
+    "hydroflask.sc.omtrdc.net",
+    "commerce.adobedc.net"
+   ],
+   "pages": [
+    "/"
+   ]
+  },
+  {
+   "id": "t-unknown-third-party-host-cdn-crobox-io",
+   "class": "T",
+   "feature": "unknown third-party host cdn.crobox.io",
+   "hint": "inspect",
+   "evidence": [
+    "cdn.crobox.io"
+   ],
+   "pages": [
+    "/"
+   ]
+  },
+  {
+   "id": "t-marketing-ad-retargeting-pixel",
+   "class": "T",
+   "feature": "marketing: ad / retargeting pixel",
+   "role": "marketing: ad / retargeting pixel",
+   "hint": "tags",
+   "evidence": [
+    "stats.g.doubleclick.net",
+    "bat.bing.com",
+    "cm.everesttech.net"
+   ],
+   "pages": [
+    "/"
+   ]
+  },
+  {
+   "id": "t-unknown-third-party-host-www-ojrq-net",
+   "class": "T",
+   "feature": "unknown third-party host www.ojrq.net",
+   "hint": "inspect",
+   "evidence": [
+    "www.ojrq.net"
+   ],
+   "pages": [
+    "/"
+   ]
+  },
+  {
+   "id": "t-unknown-third-party-host-static-klaviyo-com",
+   "class": "T",
+   "feature": "unknown third-party host static.klaviyo.com",
+   "hint": "inspect",
+   "evidence": [
+    "static.klaviyo.com"
+   ],
+   "pages": [
+    "/"
+   ]
+  },
+  {
+   "id": "t-unknown-third-party-host-cdn-kustomerapp-com",
+   "class": "T",
+   "feature": "unknown third-party host cdn.kustomerapp.com",
+   "hint": "inspect",
+   "evidence": [
+    "cdn.kustomerapp.com"
+   ],
+   "pages": [
+    "/"
+   ]
+  },
+  {
+   "id": "t-unknown-third-party-host-static-tracking-klaviyo-com",
+   "class": "T",
+   "feature": "unknown third-party host static-tracking.klaviyo.com",
+   "hint": "inspect",
+   "evidence": [
+    "static-tracking.klaviyo.com"
+   ],
+   "pages": [
+    "/"
+   ]
+  },
+  {
+   "id": "t-unknown-third-party-host-cdn-assets-rapidspike-com",
+   "class": "T",
+   "feature": "unknown third-party host cdn-assets.rapidspike.com",
+   "hint": "inspect",
+   "evidence": [
+    "cdn-assets.rapidspike.com"
+   ],
+   "pages": [
+    "/"
+   ]
+  },
+  {
+   "id": "v-iframe-without-src-runtime-injected-embed",
+   "class": "V",
+   "feature": "iframe without src (runtime-injected embed)",
+   "hint": "embed-runtime",
+   "evidence": [
+    "UserWay Accessibility Menu",
+    "1×1",
+    "0×0",
+    "Kustomer Widget Iframe"
+   ],
+   "pages": [
+    "/"
+   ]
+  },
+  {
+   "id": "x-sign-in-account-links",
+   "class": "X",
+   "feature": "sign-in / account links",
+   "hint": "decided-out",
+   "evidence": [
+    "https://www.hydroflask.com/shop/accessories",
+    "https://www.hydroflask.com/shop/coolers/cooler-accessories",
+    "https://www.hydroflask.com/customer/account/",
+    "https://www.hydroflask.com/customer/account/logout/"
+   ],
+   "pages": [
+    "/"
+   ]
+  },
+  {
+   "id": "x-commerce-signals-cart-true-prices-13",
+   "class": "X",
+   "feature": "commerce signals (cart: true, prices: 13)",
+   "hint": "decided-out",
+   "evidence": [],
+   "pages": [
+    "/"
+   ]
+  }
+ ],
+ "reach": {
+  "pagesWithEvidence": 1,
+  "of": 1,
+  "endpoints": {
+   "POST www.hydroflask.com/cdn-cgi/challenge-platform/h/g/jsd/oneshot/c787ce48cf6b/0.7709105787586154:1793297366:QYca9WvdiPdy1ffbOyQ1TliuZoqm7JnZm2J_GiUD1I0/{hash}": 1,
+   "GET consent.trustarc.com/analytics": 1,
+   "GET dpm.demdex.net/id": 1,
+   "POST hydro-flask.pxf.io/xur/{n}": 1,
+   "POST www.hydroflask.com/cdn-cgi/zaraz/t": 1,
+   "GET www.google.com/ads/ga-audiences": 1,
+   "POST stats.g.doubleclick.net/g/collect": 1,
+   "GET bat.bing.com/action/{n}": 1,
+   "POST www.hydroflask.com/cdn-cgi/rum": 1,
+   "POST p2iqhncxyh.execute-api.eu-central-1.amazonaws.com/Production/v2/beacon": 1,
+   "GET fast.a.klaviyo.com/custom-fonts/api/v1/company-fonts/onsite": 1,
+   "POST api.userway.org/api/v1/tunings/mBTKTyvJQC": 1,
+   "GET cdn.userway.org/widgetapp/2026-10-29-06-53-08/locales/en-US.json": 1,
+   "GET static-forms.klaviyo.com/forms/api/v7/P2XAyk/full-forms": 1,
+   "GET cdn.userway.org/remediations/consolidated/{n}/SNpD78VU8Vp9JpTq.json": 1,
+   "GET hydroflask.api.kustomerapp.com/p/v1/chat/brands/{hash}/settings/versions/latest": 1,
+   "GET hydroflask.api.kustomerapp.com/p/v1/schedules/default": 1,
+   "GET hydroflask.api.kustomerapp.com/p/v2/chat/brands/{hash}/settings": 1,
+   "GET hydroflask.api.kustomerapp.com/c/v1/tracking/tokens/current": 1,
+   "GET hydroflask.api.kustomerapp.com/c/v2/chat/sessions": 1,
+   "GET cdn77.api.userway.org/api/img-dscr/v2/mBTKTyvJQC/{n}/4GtWdvAY26HEpvCi/alts.json": 1,
+   "GET api.userway.org/api/br-links/v0/links/{n}": 1
+  },
+  "searchFormPages": 0,
+  "formPages": 1,
+  "triggerPages": {
+   "aria-haspopup": 5
+  }
+ }
+}

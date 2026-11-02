@@ -1,0 +1,730 @@
+{
+  "slug": "index",
+  "type": "landing",
+  "renderBranch": "A",
+  "template": null,
+  "modules": [
+    "hero-carousel",
+    "category-tiles",
+    "artist-promo",
+    "product-carousel",
+    "split-promo",
+    "trending-links",
+    "advocacy"
+  ],
+  "widgets": [],
+  "slotsFilled": [
+    "hf-banner",
+    "hf-tiles",
+    "hf-gigi",
+    "hf-products",
+    "hf-sundae",
+    "hf-products",
+    "hf-trending",
+    "hf-advocacy"
+  ],
+  "canonShas": {
+    "header": "99febefee7e0",
+    "footer": "22472385c9a9",
+    "css": "16216bcffbc4"
+  },
+  "deviations": [],
+  "migrationDecisions": [],
+  "metadata": {
+    "title": "Hydro Flask: Sustainable &amp; Refillable Water Bottles | Hydro Flask",
+    "description": "Hydro Flask creates insulated, stainless steel water bottles to keep you hydrated on any adventure. Let's go!",
+    "canonical": "https://main--53deb2f5--aemcoder.aem.page/",
+    "lang": "en"
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Hydro Flask: Sustainable &amp; Refillable Water Bottles | Hydro Flask",
+    "description": "Hydro Flask creates insulated, stainless steel water bottles to keep you hydrated on any adventure. Let's go!",
+    "url": "https://main--53deb2f5--aemcoder.aem.page/"
+  },
+  "migratedAt": "2026-10-29T20:14:19Z",
+  "designMdSha": "2aa701974343",
+  "designJsonSha": "0ad9f779843e",
+  "sourceCurrentSha": "38ab802c8ee3",
+  "sourceProposedSha": "289bed5cb41a",
+  "fidelityTier": "archetype",
+  "archetypeSource": null,
+  "archetypeSha": null,
+  "variants": [],
+  "gatesPassed": [],
+  "gateEvidence": {},
+  "contentDeviations": [],
+  "assetsBundled": 69,
+  "missingAssets": [],
+  "brokenInternalLinks": [
+    {
+      "href": "https://www.hydroflask.com/house-of-hydro-rewards",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/contact-us",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/gift-card",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/shop/bottles-drinkware",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/shop/bottles-drinkware",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/shop/micro-hydro-straw-bottle",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/shop/new-arrivals",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/shop/limited-edition",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/shop/bestsellers",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/shop/trending-now",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/shop/sale",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/shop/bottles",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/shop/collections/kids-collection",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/shop/mini-water-bottles",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/shop/bottles-drinkware/cups-tumblers",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/shop/bottles-drinkware/coffee-tea",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/shop/lightweight-water-bottles",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/shop/bottles-drinkware/beer-wine-spirits",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/shop/accessories",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/shop/shop-by-size/32-oz",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/shop/shop-by-size/24-oz",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/shop/shop-by-size/40-oz",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/shop/shop-by-size/20-oz",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/micro-hydro",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/micro-hydro-300-ml",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/micro-hydro-400-ml",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/shop/colors/purple",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/shop/colors/red",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/shop/colors/pink",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/shop/colors/green",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/shop/colors/blue",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/shop/colors/black",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/shop/colors/white",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/shop/colors/gray",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/shop/colors/neutrals",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/find-your-hydroflask",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/shop/collections/kids-collection",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/shop/collections/halloween-shop",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/shop/collections/tailgating",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/back-to-school",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/shop/collections/fitness-collection",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/shop/collections/travel-guide",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/shop/bundles",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/gigi-perez-bottles",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/shop/micro-hydro-straw-bottle",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/shop/coolers/carryout-collection",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/shop/lightweight-water-bottles",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/shop/colors/camo",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/rolemodel-bottles",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/sekou-bottles",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/universal-music-group",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/shop/collections/midnight-glimmer-water-bottles",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/shop/collections/quest",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/shop/collections/daydream",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/game-on-32-oz-wide-mouth-bottle",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/shop/collections/glitch",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/shop/collections/arc-water-bottles",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/shop/collections/eric-carle-water-bottles",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/shop/collections/kids-collection",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/shop/coolers",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/shop/coolers",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/shop/kitchenware/food-jars",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/shop/coolers/carryout-collection",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/shop/coolers/soft-coolers",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/shop/coolers/insulated-totes",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/shop/coolers/lunch-boxes",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/shop/coolers/bags-packs",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/shop/coolers/cooler-accessories",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/shop/kitchenware",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/shop/kitchenware/outdoor-kitchen",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/shop/kitchenware/outdoor-dining",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/shop/kitchenware/food-jars",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/shop/bottles-drinkware/coffee-tea",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/find-your-cooler",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/engraving",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/shop/customize",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/corporate-purchasing",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/find-your-hydroflask",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/trade-in",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/refer",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/hydroflask-us-snowboard-team",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/prodeal/application/index/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/our-story",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/international-warranty-selector",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/blog",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/blog",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/blog/category/tips-and-tricks",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/blog/category/recipes",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/blog/category/ambassadors",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/blog/category/clean-care",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/blog/category/product-recommendations",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/customer/account/index/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/customer/account/create/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/track/order/status/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/customer/account/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/house-of-hydro-rewards/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/wishlist/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/sales/order/history/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/customer/account/logout/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/gigi-perez-bottles",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/shop/new-arrivals?visual-filter=Best+Sellers",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/shop/collections/midnight-glimmer-water-bottles",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/shop/collections/eric-carle-water-bottles",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/water-bottle-gift-ideas",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/shop/collections/tailgating",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/shop/bottles-drinkware/coffee-tea",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/shop/collections/halloween-shop",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/shop/bottles?visual-filter=Bestsellers",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/shop/new-arrivals",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/shop/new-arrivals",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/gigi-perez-bottles",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/shop/lightweight-water-bottles",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/12-oz-lightweight-mug",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/12-oz-lightweight-mug",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/16-oz-lightweight-flip-sip-travel-mug",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/16-oz-lightweight-flip-sip-travel-mug",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/12-oz-lightweight-mug?color=Cypress+Green",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/12-oz-lightweight-mug?color=Cypress+Green",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/24-oz-lightweight-flex-straw-bottle",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/24-oz-lightweight-flex-straw-bottle",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/32-oz-lightweight-chug-cap-bottle?color=Atlas",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/32-oz-lightweight-chug-cap-bottle?color=Atlas",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/16-oz-lightweight-chug-cap-bottle",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/16-oz-lightweight-chug-cap-bottle",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/32-oz-lightweight-flex-straw-cap-bottle",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/32-oz-lightweight-flex-straw-cap-bottle",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/40-oz-lightweight-flex-cap-bottle",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/40-oz-lightweight-flex-cap-bottle",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/sundae-school-24-oz-bottle",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/shop/coolers/lunch-boxes",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/carryout-lunch-bag",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/carryout-lunch-bag",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/carryout-lunch-box",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/carryout-lunch-box",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/carryout-lunch-tote",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/carryout-lunch-tote",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/carryout-lunch-rolltop",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/carryout-lunch-rolltop",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/shop/bottles-drinkware",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/shop/new-arrivals",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/shop/bundles",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/shop/coolers",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/shop/mini-water-bottles",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/shop/lightweight-water-bottles",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/brand-values",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/shop/new-arrivals?visual-filter=Best+Sellers",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/contact-us/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/storelocator/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/track/order/status/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/gift-card/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/gift-card-terms-and-conditions/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/store-credit-terms-and-conditions/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/our-story/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/brand-values/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/bluesign/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/customer/account/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/refer/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/house-of-hydro-rewards/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/house-of-hydro-rewards-terms-and-conditions/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/trade-in/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/corporate-purchasing/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/prodeal/application/index/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/privacy",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/terms/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "/privacy/",
+      "reason": "not-in-inventory"
+    },
+    {
+      "href": "https://www.hydroflask.com/privacy/",
+      "reason": "not-in-inventory"
+    }
+  ],
+  "outputPath": "index.html",
+  "outputPathDefault": null,
+  "sidecar": "_meta.json",
+  "driverVersion": "1"
+}
